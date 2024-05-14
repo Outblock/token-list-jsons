@@ -34,7 +34,7 @@
     {
       "chainId": 646,
       "address": "0x8920ffd3d8768daa",
-      "contractName": "Example Fungible Token",
+      "contractName": "ExampleToken",
       "path": {
         "vault": "/storage/exampleTokenVault",
         "receiver": "/public/exampleTokenVault",
