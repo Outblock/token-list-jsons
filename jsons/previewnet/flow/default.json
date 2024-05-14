@@ -36,9 +36,9 @@
       "address": "0x8920ffd3d8768daa",
       "contractName": "ExampleToken",
       "path": {
-        "vault": "/storage/exampleTokenVault",
-        "receiver": "/public/exampleTokenVault",
-        "balance": "/public/exampleTokenVault"
+          "vault": "/storage/exampleTokenVault",
+          "balance": "/public/exampleTokenVault",
+          "receiver": "/public/exampleTokenReceiver"
       },
       "symbol": "EFT",
       "name": "Example Fungible Token",
