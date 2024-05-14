@@ -37,7 +37,7 @@
       "contractName": "ExampleToken",
       "path": {
           "vault": "/storage/exampleTokenVault",
-          "balance": "/public/exampleTokenVault",
+          "balance": "/public/exampleTokenBalance",
           "receiver": "/public/exampleTokenReceiver"
       },
       "symbol": "EFT",
