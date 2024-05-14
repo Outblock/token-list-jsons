@@ -5,7 +5,7 @@
   "tokens": [
     {
       "chainId": 646,
-      "address": "0xa0225e7000ac82a9",
+      "address": "0x4445e7ad11568276",
       "contractName": "FlowToken",
       "path": {
         "vault": "/storage/flowTokenVault",
