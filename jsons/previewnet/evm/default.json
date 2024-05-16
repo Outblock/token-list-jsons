@@ -25,7 +25,7 @@
       {
         "chainId": 646,
         "address": "0x7cd84a6b988859202cbb3e92830fff28813b9341",
-        "symbol": "BridgeExampleToken",
+        "symbol": "EFT",
         "name": "Bridged Example token",
         "decimals": 18,
         "logoURI": "",
