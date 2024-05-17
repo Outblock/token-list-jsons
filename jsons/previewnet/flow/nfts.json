@@ -18,6 +18,7 @@
         "storage_path": "/storage/cadenceExampleNFTCollection",
         "public_path": "/public/cadenceExampleNFTCollection"
       },
+      "evmAddress":"0xdafbac220f0d24541d126cd42b694c3f42df97fe",
       "socials": {
         "twitter": {
           "url": "https://twitter.com/flow_blockchain"
