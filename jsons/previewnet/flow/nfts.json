@@ -1,0 +1,48 @@
+{
+  "name": "Flow NFT List",
+  "network": "previewnet",
+  "chainId": 646,
+  "tokens": [
+    {
+      "chainId": 646,
+      "address": "0x8920ffd3d8768daa",
+      "contractName": "ExampleNFT",
+      "id": "cadenceExampleNFTCollection",
+      "contract_name": "ExampleNFT",
+      "logo": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "name": "The Example Collection",
+      "banner": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "official_website": "https://example-nft.onflow.org",
+      "description": "This collection is used as an example to help you develop your next Flow NFT.",
+      "path": {
+        "storage_path": "/storage/cadenceExampleNFTCollection",
+        "public_path": "/public/cadenceExampleNFTCollection"
+      },
+      "socials": {
+        "twitter": {
+          "url": "https://twitter.com/flow_blockchain"
+        }
+      }
+    }
+  ],
+  "totalAmount": 1,
+  "filterType": "ALL",
+  "timestamp": "2024-05-13T06:34:36.510Z",
+  "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+  "keywords": [
+    "Flow",
+    "Cadence",
+    "NFT"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
