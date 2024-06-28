@@ -24,16 +24,6 @@
       },
       {
         "chainId": 646,
-        "address": "0x7cd84a6b988859202cbb3e92830fff28813b9341",
-        "symbol": "EFT",
-        "name": "Bridged Example token",
-        "decimals": 18,
-        "logoURI": "",
-        "tags": [],
-        "flowIdentifier": "A.8920ffd3d8768daa.ExampleToken.Vault"
-      },
-      {
-        "chainId": 646,
         "address": "0xD89622d03DF97276569004d127943de4a72fCE8F",
         "symbol": "MFT",
         "name": "MyFT",
