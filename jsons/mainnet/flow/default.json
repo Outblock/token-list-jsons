@@ -1072,9 +1072,30 @@
         "twitter": "",
         "website": ""
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xead892083b3e2c6c",
+      "contractName": "DapperUtilityCoin",
+      "path": {
+        "vault": "/storage/dapperUtilityCoinVault",
+        "receiver": "/public/dapperUtilityCoinReceiver",
+        "balance": "/public/dapperUtilityCoinBalance"
+      },
+      "symbol": "DUC",
+      "name": "DapperUtilityCoin",
+      "description": "DapperUtilityCoins",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "",
+        "website": ""
+      }
     }
   ],
-  "totalAmount": 47,
+  "totalAmount": 48,
   "filterType": "ALL",
   "timestamp": "2024-05-13T05:55:05.604Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
