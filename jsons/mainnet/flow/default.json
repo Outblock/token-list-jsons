@@ -128,8 +128,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "tags": [],
       "extensions": {
-        "discord": "https://discord.gg/hT8EpC5mUN",
         "twitter": "https://twitter.com/flowbrasilchain",
+        "discord": "https://discord.gg/hT8EpC5mUN",
         "website": "https://toucans.ecdao.org/p/brasil",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -327,8 +327,8 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -356,6 +356,27 @@
         "website": "https://cbridge.celer.network/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x3399d7c6c609b7e5",
+      "contractName": "DAMO420",
+      "path": {
+        "vault": "/storage/DAMO420Vault",
+        "receiver": "/public/DAMO420Receiver",
+        "balance": "/public/DAMO420Metadata"
+      },
+      "symbol": "DAMO",
+      "name": "DAMO.",
+      "description": "a DAO for people who like/support marijuana.",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "",
+        "website": ""
       }
     },
     {
@@ -393,17 +414,116 @@
       "name": "USD Coin",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "tags": [
         "stablecoin"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/circle",
         "coingeckoId": "usd-coin",
         "documentation": "https://developers.circle.com/stablecoins/docs",
+        "twitter": "https://twitter.com/circle",
         "website": "https://www.circle.com/en/usdc-multichain/flow",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x2fc0d080618ee419",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x2fc0d080618ee419RUG_Vault",
+        "receiver": "/public/FixsStandardFT_0x2fc0d080618ee419RUG_Receiver",
+        "balance": "/public/FixsStandardFT_0x2fc0d080618ee419RUG_Balance"
+      },
+      "symbol": "RUG",
+      "name": "RUG",
+      "description": "This is a token for RUG projects on the Flow blockchain.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/12UlVHLmpwZw1720687769219",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xa9102e56a8b7a680",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Vault",
+        "receiver": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Receiver",
+        "balance": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Balance"
+      },
+      "symbol": "TRUMP",
+      "name": "Trump 2024",
+      "description": "2024.07.13 @Pennsylvania",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xb9cd93d3bb31b497",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xb9cd93d3bb31b497FIX_Vault",
+        "receiver": "/public/FixsStandardFT_0xb9cd93d3bb31b497FIX_Receiver",
+        "balance": "/public/FixsStandardFT_0xb9cd93d3bb31b497FIX_Balance"
+      },
+      "symbol": "FIX",
+      "name": "Fixes World",
+      "description": "Demo Coin launched by Fixes World.\nFixes World provides multiple fungible token issuance, trading, staking, and governance services.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
+      "tags": [],
+      "extensions": {
+        "telegram": "https://t.me/fixes_world",
+        "github": "https://github.com/fixes-world",
+        "twitter": "https://x.com/fixesWorld",
+        "website": "https://linktr.ee/fixes.world"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x0169af3078d4efff",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x0169af3078d4efffRND_Vault",
+        "receiver": "/public/FixsStandardFT_0x0169af3078d4efffRND_Receiver",
+        "balance": "/public/FixsStandardFT_0x0169af3078d4efffRND_Balance"
+      },
+      "symbol": "RND",
+      "name": "Random Coin",
+      "description": "Worthless, just a random coin.",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16cmFuZG9tLn1720670911873",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xce0ebd3df46ea037",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0xce0ebd3df46ea037CAM_Vault",
+        "receiver": "/public/FixsStandardFT_0xce0ebd3df46ea037CAM_Receiver",
+        "balance": "/public/FixsStandardFT_0xce0ebd3df46ea037CAM_Balance"
+      },
+      "symbol": "CAM",
+      "name": "Scammy coin",
+      "description": "Not doing anything with this",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/16UG9vXzI5Lm1720730336857",
+      "tags": [],
+      "extensions": {
+        "website": "https://linktr.ee/fixes.world/"
       }
     },
     {
@@ -444,8 +564,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -462,16 +582,16 @@
       "name": "Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
       "tags": [
         "utility-token"
       ],
       "extensions": {
-        "coingeckoId": "flow",
         "twitter": "https://twitter.com/flow_blockchain",
-        "github": "https://github.com/onflow/flow-core-contracts",
+        "coingeckoId": "flow",
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
-        "discord": "http://discord.gg/flow",
+        "discord": "https://discord.com/invite/J6fFnh2xx6",
+        "github": "https://github.com/onflow/flow-core-contracts",
         "website": "http://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -522,6 +642,29 @@
     },
     {
       "chainId": 747,
+      "address": "0x3c5959b568896393",
+      "contractName": "FUSD",
+      "path": {
+        "vault": "/storage/fusdVault",
+        "receiver": "/public/fusdReceiver",
+        "balance": "/public/fusdBalance"
+      },
+      "symbol": "FUSD",
+      "name": "FUSD(Deprecated)",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
+      "tags": [
+        "Deprecated"
+      ],
+      "extensions": {
+        "website": "http://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x078a8129525775dd",
       "contractName": "GreenBitcoin",
       "path": {
@@ -536,8 +679,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.078a8129525775dd.GreenBitcoin/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/_GreenBitcoin",
         "discord": "https://discord.gg/vY8pK9x8",
+        "twitter": "https://twitter.com/_GreenBitcoin",
         "website": "https://toucans.ecdao.org/p/GreenBitcoin",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -559,8 +702,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreiesj3rzq4wvflxi5u7effyrcwe6tqct2nxdc44hutgwz6kewqaccy",
       "tags": [],
       "extensions": {
-        "twitter": "",
         "discord": "",
+        "twitter": "",
         "website": ""
       }
     },
@@ -669,6 +812,27 @@
         "website": "https://ozoneuniverse.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x6fd2465f3a22e34c",
+      "contractName": "PetJokicsHorses",
+      "path": {
+        "vault": "/storage/PetJokicsHorsesVault",
+        "receiver": "/public/PetJokicsHorsesReceiver",
+        "balance": "/public/PetJokicsHorsesMetadata"
+      },
+      "symbol": "MVP",
+      "name": "Pet Jokic's Horses",
+      "description": "Nikola Jokic has been the best player in the world for years. As such, he has a lot of moments minted on NBA Top Shot. His horses are sad about the oversupply, which impacts their results. Let's make his horses happy.",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreif54ujjuwa2xewkgy5wje3qos7mk77rjxfdwl3a47qsj6sxv3kzi4",
+      "tags": [],
+      "extensions": {
+        "twitter": "",
+        "discord": "",
+        "website": ""
       }
     },
     {
@@ -842,13 +1006,13 @@
       "name": "Liquid Staked Flow",
       "description": "",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
       "tags": [
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
         "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -870,8 +1034,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.5207737ccdc76d11.StudentsofTheGame/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "https://twitter.com/StudentsoftGame",
         "discord": "https://discord.com/invite/Z49V8ky2Jb",
+        "twitter": "https://twitter.com/StudentsoftGame",
         "website": "https://toucans.ecdao.org/p/StudentsofTheGame",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -947,6 +1111,27 @@
     },
     {
       "chainId": 747,
+      "address": "0xe39082fc08c1cd13",
+      "contractName": "THEBEARDAO",
+      "path": {
+        "vault": "/storage/THEBEARDAOVault",
+        "receiver": "/public/THEBEARDAOReceiver",
+        "balance": "/public/THEBEARDAOMetadata"
+      },
+      "symbol": "BEAR",
+      "name": "THE BEAR DAO",
+      "description": "DAO for people that are still here. If you're bearish on flow then we're bearish on you.",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeihkwwvhlb75wqloqqywqtzkio32drpck4v3fm3x53wo7bs335cqzm",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "flow_bear_token",
+        "website": ""
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0x8259c73e487422d7",
       "contractName": "TheWolfofFlow",
       "path": {
@@ -990,6 +1175,48 @@
     },
     {
       "chainId": 747,
+      "address": "0xee09029f1dbcd9d1",
+      "contractName": "TopShotBETA",
+      "path": {
+        "vault": "/storage/TopShotBETAVault",
+        "receiver": "/public/TopShotBETAReceiver",
+        "balance": "/public/TopShotBETAMetadata"
+      },
+      "symbol": "BETA",
+      "name": "Top Shot $BETA",
+      "description": "Top Shots Rookie Debut Meme Coin",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreifkjlkzfjml77ogwnxnbqbeixbxau6lyubwtrcfsi3uwaeep664mu",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "TopShotBETA",
+        "website": ""
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xb055bef687cfca82",
+      "contractName": "TrollDAO",
+      "path": {
+        "vault": "/storage/TrollDAOVault",
+        "receiver": "/public/TrollDAOReceiver",
+        "balance": "/public/TrollDAOMetadata"
+      },
+      "symbol": "TROLL",
+      "name": "Troll DAO",
+      "description": "a dao fir the trolls on flew bluckchin",
+      "decimals": 8,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreiccnzo2zs7ntudbyeqaqyt2deic46wpq2n6hrxqe63feu4dcugmsa",
+      "tags": [],
+      "extensions": {
+        "discord": "",
+        "twitter": "trollonflow",
+        "website": ""
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0xcbba4d41aef83fe3",
       "contractName": "UtahJazzLegendsClub",
       "path": {
@@ -1004,8 +1231,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
       }
@@ -1026,8 +1253,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
@@ -1068,8 +1295,8 @@
       "logoURI": "https://nftstorage.link/ipfs/bafybeihppkuy3dhzuqz2ekfxs4jusxf5562vb6hpzrjzokm6rzoifvyymi",
       "tags": [],
       "extensions": {
-        "discord": "",
         "twitter": "",
+        "discord": "",
         "website": ""
       }
     },
