@@ -429,25 +429,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x2fc0d080618ee419",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0x2fc0d080618ee419RUG_Vault",
-        "receiver": "/public/FixsStandardFT_0x2fc0d080618ee419RUG_Receiver",
-        "balance": "/public/FixsStandardFT_0x2fc0d080618ee419RUG_Balance"
-      },
-      "symbol": "RUG",
-      "name": "RUG",
-      "description": "This is a token for RUG projects on the Flow blockchain.",
-      "decimals": 8,
-      "logoURI": "https://static.fixes.world/12UlVHLmpwZw1720687769219",
-      "tags": [],
-      "extensions": {
-        "website": "https://linktr.ee/fixes.world/"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0xa9102e56a8b7a680",
       "contractName": "FixesFungibleToken",
       "path": {
@@ -463,66 +444,6 @@
       "tags": [],
       "extensions": {
         "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
-        "website": "https://linktr.ee/fixes.world/"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0xb9cd93d3bb31b497",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0xb9cd93d3bb31b497FIX_Vault",
-        "receiver": "/public/FixsStandardFT_0xb9cd93d3bb31b497FIX_Receiver",
-        "balance": "/public/FixsStandardFT_0xb9cd93d3bb31b497FIX_Balance"
-      },
-      "symbol": "FIX",
-      "name": "Fixes World",
-      "description": "Demo Coin launched by Fixes World.\nFixes World provides multiple fungible token issuance, trading, staking, and governance services.",
-      "decimals": 8,
-      "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
-      "tags": [],
-      "extensions": {
-        "telegram": "https://t.me/fixes_world",
-        "github": "https://github.com/fixes-world",
-        "twitter": "https://x.com/fixesWorld",
-        "website": "https://linktr.ee/fixes.world"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0x0169af3078d4efff",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0x0169af3078d4efffRND_Vault",
-        "receiver": "/public/FixsStandardFT_0x0169af3078d4efffRND_Receiver",
-        "balance": "/public/FixsStandardFT_0x0169af3078d4efffRND_Balance"
-      },
-      "symbol": "RND",
-      "name": "Random Coin",
-      "description": "Worthless, just a random coin.",
-      "decimals": 8,
-      "logoURI": "https://static.fixes.world/16cmFuZG9tLn1720670911873",
-      "tags": [],
-      "extensions": {
-        "website": "https://linktr.ee/fixes.world/"
-      }
-    },
-    {
-      "chainId": 747,
-      "address": "0xce0ebd3df46ea037",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0xce0ebd3df46ea037CAM_Vault",
-        "receiver": "/public/FixsStandardFT_0xce0ebd3df46ea037CAM_Receiver",
-        "balance": "/public/FixsStandardFT_0xce0ebd3df46ea037CAM_Balance"
-      },
-      "symbol": "CAM",
-      "name": "Scammy coin",
-      "description": "Not doing anything with this",
-      "decimals": 8,
-      "logoURI": "https://static.fixes.world/16UG9vXzI5Lm1720730336857",
-      "tags": [],
-      "extensions": {
         "website": "https://linktr.ee/fixes.world/"
       }
     },
