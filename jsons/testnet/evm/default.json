@@ -1,0 +1,17 @@
+{
+    "name": "Flow testnet EVM FT List",
+    "logoURI": "",
+    "keywords": [
+      "testnet",
+      "FTs"
+    ],
+    "tags": {
+      "stablecoin": {
+        "name": "Stablecoin",
+        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+      }
+    },
+    "timestamp": "",
+    "tokens": [
+    ]
+  }
