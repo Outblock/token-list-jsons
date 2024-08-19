@@ -1241,9 +1241,34 @@
         "twitter": "",
         "website": ""
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xf1ab99c82dee3526",
+      "contractName": "USDCFlow",
+      "path": {
+        "vault": "/storage/usdcFlowVault",
+        "receiver": "/public/usdcFlowReceiver",
+        "balance": "/public/usdcFlowMetadata"
+      },
+      "symbol": "USDCf",
+      "name": "USDC (Flow)",
+      "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "twitter": "https://x.com/axelar",
+        "website": "https://docs.axelar.dev/learn/axlusdc",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
     }
   ],
-  "totalAmount": 48,
+  "totalAmount": 49,
   "filterType": "ALL",
   "timestamp": "2024-05-13T05:55:05.604Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
