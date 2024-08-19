@@ -13,5 +13,14 @@
     },
     "timestamp": "",
     "tokens": [
+      {
+        "chainId": 545,
+        "address": "0x01f4F81F57da8bC8F1005cF800aFdD4A2EfbF5f5",
+        "symbol": "MTK",
+        "name": "MyToken",
+        "decimals": 18,
+        "logoURI": "",
+        "tags": []
+      }
     ]
   }
