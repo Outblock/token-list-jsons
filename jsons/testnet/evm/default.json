@@ -21,6 +21,16 @@
         "decimals": 18,
         "logoURI": "",
         "tags": []
+      },
+      {
+        "chainId": 545,
+        "address": "0xd50dcca32b76dbf180cc5dd7efd2e6e0a545ba3a",
+        "symbol": "EFT",
+        "name": "Example Fungible Token",
+        "decimals": 18,
+        "logoURI": "",
+        "flowIdentifier": "A.9f749ae0417287cb.ExampleToken.Vault",
+        "tags": []
       }
     ]
   }
