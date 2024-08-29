@@ -78,9 +78,26 @@
         "twitter": "https://twitter.com/flow_blockchain",
         "website": "https://example-nft.onflow.org"
       }
+    },
+    {
+      "chainId": 545,
+      "address": "0xd9c02cdacccb25ab",
+      "contractName": "FlowtyTestNFT",
+      "path": {
+        "storage": "/storage/FlowtyTestNFTCollection",
+        "public": "/public/FlowtyTestNFTCollection"
+      },
+      "name": "Flowty Test NFT Collection",
+      "description": "This collection is used for testing things out on flowty.",
+      "logoURI": "https://storage.googleapis.com/flowty-images/flowty-logo.jpeg",
+      "bannerURI": "https://storage.googleapis.com/flowty-images/flowty-banner.jpeg",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/flowty_io"
+      }
     }
   ],
-  "totalAmount": 2,
+  "totalAmount": 5,
   "filterType": "ALL",
   "timestamp": "2024-08-28T12:24:36.610Z",
   "tags": {
