@@ -1,0 +1,36 @@
+{
+    "name": "Flow testnet EVM FT List",
+    "logoURI": "",
+    "keywords": [
+      "testnet",
+      "FTs"
+    ],
+    "tags": {
+      "stablecoin": {
+        "name": "Stablecoin",
+        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+      }
+    },
+    "timestamp": "",
+    "tokens": [
+      {
+        "chainId": 545,
+        "address": "0x01f4F81F57da8bC8F1005cF800aFdD4A2EfbF5f5",
+        "symbol": "MTK",
+        "name": "MyToken",
+        "decimals": 18,
+        "logoURI": "",
+        "tags": []
+      },
+      {
+        "chainId": 545,
+        "address": "0xd50dcca32b76dbf180cc5dd7efd2e6e0a545ba3a",
+        "symbol": "EFT",
+        "name": "Example Fungible Token",
+        "decimals": 18,
+        "logoURI": "",
+        "flowIdentifier": "A.9f749ae0417287cb.ExampleToken.Vault",
+        "tags": []
+      }
+    ]
+  }
