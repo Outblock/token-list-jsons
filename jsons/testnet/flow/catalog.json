@@ -1,0 +1,147 @@
+{
+    "name": "Flow NFT List",
+    "network": "testnet",
+    "chainId": 545,
+    "tokens": [
+        {
+            "chainId": 545,
+            "address": "0xb7248baa24a95c3f",
+            "contract_name": "FRC20SemiNFT",
+            "id": "FRC20SemiNFT",
+            "path": {
+                "storage_path": "/storage/FRC20SemiNFT_0xb7248baa24a95c3fcollection",
+                "public_path": "/public/FRC20SemiNFT_0xb7248baa24a95c3fcollection"
+            },
+            "name": "FIXeS 𝔉rc20 Semi-NFT",
+            "description": "This collection is used to wrap 𝔉rc20 token as semi-NFTs.",
+            "logo": "https://i.imgur.com/hs3U5CY.png",
+            "banner": "https://i.imgur.com/4DOuqFf.jpeg",
+            "socials": {
+                "linktree": "https://linktr.ee/fixes.world",
+                "x": "https://twitter.com/fixesWorld",
+                "twitter": "https://twitter.com/fixesWorld",
+                "github": "https://github.com/fixes-world",
+                "website": "https://fixes.world/"
+            }
+        },
+        {
+            "chainId": 545,
+            "address": "0x04625c28593d9408",
+            "contract_name": "nba_NFT",
+            "id": "nba_NFT",
+            "path": {
+                "storage_path": "/storage/nba_NFTCollection",
+                "public_path": "/public/nba_NFTCollection"
+            },
+            "name": "NBATopShot Team VIP AllStars",
+            "description": "Collection of NBATopShot AllStar VIP Team NFTs",
+            "logo": "https://media-local.gigantik.io/nba/square.png",
+            "banner": "https://media-local.gigantik.io/nba/banner.png",
+            "socials": {
+                "twitter": {
+                    "url": "https://twitter.com/nbatopshot"
+                },
+                "discord": {
+                    "url": "https://discord.gg/nbatopshot"
+                },
+                "website": {
+                    "url": "https://nbatopshot.com/"
+                }
+            }
+        },
+        {
+            "chainId": 545,
+            "address": "0xccd5ad285b372daa",
+            "contract_name": "MonsterMaker",
+            "id": "MonsterMaker",
+            "path": {
+                "storage_path": "/storage/MonsterMakerCollection",
+                "public_path": "/public/MonsterMakerCollection"
+            },
+            "name": "The MonsterMaker Collection",
+            "description": "This collection is used as an example to help you develop your next Flow NFT.",
+            "logo": "https://i.imgur.com/UMXsEjt.png",
+            "banner": "https://i.imgur.com/NzV9cyo.png",
+            "socials": {
+                "website": {
+                    "url": "https://monster-maker.vercel.app/"
+                }
+            }
+        },
+        {
+            "chainId": 545,
+            "address": "0x9f749ae0417287cb",
+            "contract_name": "ExampleNFT",
+            "id": "ExampleNFT",
+            "path": {
+                "storage_path": "/storage/cadenceExampleNFTCollection",
+                "public_path": "/public/cadenceExampleNFTCollection"
+            },
+            "name": "The Example Collection",
+            "description": "This collection is used as an example to help you develop your next Flow NFT.",
+            "logo": "",
+            "banner": "https://example-nft.onflow.org",
+            "socials": {
+                "twitter": {
+                    "url": "https://twitter.com/flow_blockchain"
+                },
+                "website": {
+                    "url": "https://example-nft.onflow.org"
+                }
+            }
+        },
+        {
+            "chainId": 545,
+            "address": "0xd9c02cdacccb25ab",
+            "contract_name": "FlowtyTestNFT",
+            "id": "FlowtyTestNFT",
+            "path": {
+                "storage_path": "/storage/FlowtyTestNFTCollection",
+                "public_path": "/public/FlowtyTestNFTCollection"
+            },
+            "name": "Flowty Test NFT Collection",
+            "description": "This collection is used for testing things out on flowty.",
+            "logo": "https://storage.googleapis.com/flowty-images/flowty-logo.jpeg",
+            "banner": "https://storage.googleapis.com/flowty-images/flowty-banner.jpeg",
+            "socials": {
+                "twitter": {
+                    "url": "https://twitter.com/flowty_io"
+                }
+            }
+        }
+    ],
+    "totalAmount": 5,
+    "filterType": "ALL",
+    "timestamp": "2024-08-28T12:24:36.610Z",
+    "tags": {
+        "stablecoin": {
+            "name": "stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "ethereum": {
+            "name": "ethereum",
+            "description": "Asset bridged from ethereum"
+        },
+        "wrapped-celer": {
+            "name": "wrapped-celer",
+            "description": "Asset wrapped using celer bridge"
+        },
+        "utility-token": {
+            "name": "utility-token",
+            "description": "Tokens that are designed to be spent within a certain blockchain ecosystem"
+        },
+        "governance-token": {
+            "name": "governance-token",
+            "description": "Tokens that are designed to be use in community governance and maintenance"
+        },
+        "memecoin": {
+            "name": "memecoin",
+            "description": "Tokens that are created for fun and meme"
+        }
+    },
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    }
+}
