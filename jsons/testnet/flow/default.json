@@ -95,25 +95,6 @@
         "website": "https://docs.axelar.dev/learn/axlusdc",
         "displaySource": "0xa51d7fe9e0080662"
       }
-    },
-    {
-      "chainId": 545,
-      "address": "0x390b4705da6305c3",
-      "contractName": "ExampleToken",
-      "path": {
-        "vault": "/storage/exampleTokenVault",
-        "balance": "/public/exampleTokenBalance",
-        "receiver": "/public/exampleTokenReceiver"
-      },
-      "symbol": "EFT",
-      "name": "Example Fungible Token",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "evmAddress": "0xd50dcca32b76dbf180cc5dd7efd2e6e0a545ba3a"
     }
   ],
   "totalAmount": 4,
