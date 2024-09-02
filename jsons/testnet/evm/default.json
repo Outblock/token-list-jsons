@@ -29,7 +29,7 @@
         "name": "Example Fungible Token",
         "decimals": 18,
         "logoURI": "",
-        "flowIdentifier": "A.9f749ae0417287cb.ExampleToken.Vault",
+        "flowIdentifier": "A.390b4705da6305c3.ExampleToken.Vault",
         "tags": []
       }
     ]
