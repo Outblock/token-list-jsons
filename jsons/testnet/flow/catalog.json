@@ -70,7 +70,7 @@
         },
         {
             "chainId": 545,
-            "address": "0x9f749ae0417287cb",
+            "address": "0x390b4705da6305c3",
             "contract_name": "ExampleNFT",
             "id": "ExampleNFT",
             "path": {
