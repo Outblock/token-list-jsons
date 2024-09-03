@@ -1,8 +1,5 @@
 {
-  "name": "Flow Token List",
-  "network": "mainnet",
-  "chainId": 747,
-  "tokens": [
+  "data": [
     {
       "id": "Sportbit",
       "contract_name": "Sportbit",
@@ -2293,5 +2290,6 @@
         }
       }
     }
-  ]
+  ],
+  "status": 200
 }
