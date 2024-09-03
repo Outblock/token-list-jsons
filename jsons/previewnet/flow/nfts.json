@@ -1,24 +1,27 @@
-[
-  {
-    "chainId": 646,
-    "address": "0x9f749ae0417287cb",
-    "contractName": "ExampleNFT",
-    "id": "cadenceExampleNFTCollection",
-    "contract_name": "ExampleNFT",
-    "logo": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
-    "name": "The Example Collection",
-    "banner": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
-    "official_website": "https://example-nft.onflow.org",
-    "description": "This collection is used as an example to help you develop your next Flow NFT.",
-    "path": {
-      "storage_path": "/storage/cadenceExampleNFTCollection",
-      "public_path": "/public/cadenceExampleNFTCollection"
-    },
-    "evmAddress": "0x227Cf97F2D90C76c45eAbB289e9560a82A36aaF6",
-    "socials": {
-      "twitter": {
-        "url": "https://twitter.com/flow_blockchain"
+{
+  "data": [
+    {
+      "chainId": 646,
+      "address": "0x9f749ae0417287cb",
+      "contractName": "ExampleNFT",
+      "id": "cadenceExampleNFTCollection",
+      "contract_name": "ExampleNFT",
+      "logo": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "name": "The Example Collection",
+      "banner": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "official_website": "https://example-nft.onflow.org",
+      "description": "This collection is used as an example to help you develop your next Flow NFT.",
+      "path": {
+        "storage_path": "/storage/cadenceExampleNFTCollection",
+        "public_path": "/public/cadenceExampleNFTCollection"
+      },
+      "evmAddress": "0x227Cf97F2D90C76c45eAbB289e9560a82A36aaF6",
+      "socials": {
+        "twitter": {
+          "url": "https://twitter.com/flow_blockchain"
+        }
       }
     }
-  }
-]
+  ],
+  "status": 200
+}
