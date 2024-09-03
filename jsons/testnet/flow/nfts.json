@@ -88,7 +88,8 @@
               "website": {
                   "url": "https://example-nft.onflow.org"
               }
-          }
+          },
+          "evmaddress": "0x89a2c10f518ff6970212b688359a3bb27b1d1013"
       },
       {
           "chainId": 545,
