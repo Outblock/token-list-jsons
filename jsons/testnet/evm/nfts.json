@@ -1,0 +1,56 @@
+{
+    "previewnet": {
+        "name": "Flow previewnet EVM NFT List",
+        "logoURI": "",
+        "keywords": [
+            "previewnet",
+            "NFTs"
+        ],
+        "tags": {},
+        "timestamp": "",
+        "tokens": [
+            {
+                "chainId": 646,
+                "name": "MyToken",
+                "address": "0xE5Ef7894A2F5C58A1040d5fA7Ab1e4Fd86FEF946",
+                "symbol": "MTK",
+                "logoURI": "",
+                "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+                "tags": []
+            },
+            {
+                "chainId": 646,
+                "address": "0xdafbac220f0d24541d126cd42b694c3f42df97fe",
+                "symbol": "BT",
+                "name": "BridgedNFT",
+                "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+                "logoURI": "https://i.ibb.co/Bt9YZTp/Connect.png",
+                "tags": [],
+                "decimals": 18,
+                "flowIdentifier": "A.8920ffd3d8768daa.ExampleNFT.NFT"
+            }
+        ]
+    },
+    "testnet": {
+        "name": "Flow testnet EVM NFT List",
+        "logoURI": "",
+        "keywords": [
+            "testnet",
+            "NFTs"
+        ],
+        "tags": {},
+        "timestamp": "",
+        "tokens": [
+            {
+                "chainId": 545,
+                "name": "MyNFTToken",
+                "address": "0x716535F0d65103efaD71163431443cAFEa41aA49",
+                "symbol": "MNFT",
+                "logoURI": "",
+                "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+                "tags": []
+            }
+        ]
+    },
+    "mainnet": []
+}
