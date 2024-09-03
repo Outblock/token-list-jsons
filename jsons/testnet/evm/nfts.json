@@ -24,6 +24,17 @@
             "symbol": "EFT",
             "logoURI": "",
             "tokenURI": "",
+            "flowIdentifier": "A.390b4705da6305c3.ExampleNFT.NFT",
+            "tags": []
+        },
+        {
+            "chainId": 545,
+            "name": "MonsterMaker",
+            "address": "19d08757b43a7f6271321b353ad78d6661e10e04",
+            "symbol": "EFT",
+            "logoURI": "",
+            "tokenURI": "",
+            "flowIdentifier": "A.724a9da00340f14c.MonsterMaker.NFT",
             "tags": []
         }
     ]

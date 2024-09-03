@@ -53,6 +53,8 @@
       "description": "This collection is used as an example to help you develop your next Flow NFT.",
       "logo": "https://i.imgur.com/UMXsEjt.png",
       "banner": "https://i.imgur.com/NzV9cyo.png",
+      "evmAddress": "0x19d08757b43a7f6271321b353ad78d6661e10e04",
+      "evm_address": "0x19d08757b43a7f6271321b353ad78d6661e10e04",
       "socials": {
         "website": {
           "url": "https://monster-maker.vercel.app/"
