@@ -48,6 +48,29 @@
         },
         {
             "chainId": 747,
+            "address": "0x4ea047c3e73ca460",
+            "contractName": "BallerzFC",
+            "path": {
+                "vault": "/storage/BallerzFCVault",
+                "receiver": "/public/BallerzFCReceiver",
+                "balance": "/public/BallerzFCMetadata"
+            },
+            "symbol": "BFC",
+            "name": "Ballerz FC",
+            "description": "",
+            "decimals": 8,
+            "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
+            "tags": [],
+            "extensions": {
+                "discord": "https://discord.com/invite/sDBp8YdH",
+                "twitter": "https://twitter.com/Ballerz__FC",
+                "website": "https://twitter.com/Ballerz__FC",
+                "displaySource": "0xa2de93114bae3e73",
+                "pathSource": "0xa2de93114bae3e73"
+            }
+        },
+        {
+            "chainId": 747,
             "address": "0x687e1a7aef17b78b",
             "contractName": "Beaver",
             "path": {
@@ -337,6 +360,27 @@
         },
         {
             "chainId": 747,
+            "address": "0x3399d7c6c609b7e5",
+            "contractName": "DAMO420",
+            "path": {
+                "vault": "/storage/DAMO420Vault",
+                "receiver": "/public/DAMO420Receiver",
+                "balance": "/public/DAMO420Metadata"
+            },
+            "symbol": "DAMO",
+            "name": "DAMO.",
+            "description": "a DAO for people who like/support marijuana.",
+            "decimals": 8,
+            "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
+            "tags": [],
+            "extensions": {
+                "discord": "",
+                "twitter": "",
+                "website": ""
+            }
+        },
+        {
+            "chainId": 747,
             "address": "0xa9102e56a8b7a680",
             "contractName": "FixesFungibleToken",
             "path": {
@@ -483,6 +527,27 @@
                 "twitter": "",
                 "discord": "dMQfs3WA",
                 "website": ""
+            }
+        },
+        {
+            "chainId": 747,
+            "address": "0xd01e482eb680ec9f",
+            "contractName": "REVV",
+            "path": {
+                "vault": "/storage/revvVault",
+                "receiver": "/public/revvReceiver",
+                "balance": "/public/revvBalance"
+            },
+            "symbol": "REVV",
+            "name": "REVV",
+            "description": "",
+            "decimals": 8,
+            "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
+            "tags": [],
+            "extensions": {
+                "website": "https://revvmotorsport.com/",
+                "displaySource": "0xa2de93114bae3e73",
+                "pathSource": "0xa2de93114bae3e73"
             }
         },
         {
@@ -646,6 +711,28 @@
                 "discord": "",
                 "twitter": "TopShotBETA",
                 "website": ""
+            }
+        },
+        {
+            "chainId": 747,
+            "address": "0xcbba4d41aef83fe3",
+            "contractName": "UtahJazzLegendsClub",
+            "path": {
+                "vault": "/storage/UtahJazzLegendsClubVault",
+                "receiver": "/public/UtahJazzLegendsClubReceiver",
+                "balance": "/public/UtahJazzLegendsClubMetadata"
+            },
+            "symbol": "UJLC",
+            "name": "Utah Jazz Legends Club",
+            "description": "Utah Jazz Legnends Club DAO",
+            "decimals": 8,
+            "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
+            "tags": [],
+            "extensions": {
+                "discord": "wGjBcsGjcG",
+                "twitter": "UtahJazzLegends",
+                "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
+                "displaySource": "0xa2de93114bae3e73"
             }
         },
         {

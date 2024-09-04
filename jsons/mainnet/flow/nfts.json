@@ -280,6 +280,58 @@
       }
     },
     {
+      "id": "TouchstonePartyFlavorz",
+      "contract_name": "TouchstonePartyFlavorz",
+      "logo": "https://ipfs.io/ipfs/bafybeih2gsrw5ykxvx2ivkkyrrcpvisb2doaqvyaynyax3fazfhiwvgnmy/Party Favorz Logo.png",
+      "address": "0xc4b1f4387748f389",
+      "name": "Party Flavorz",
+      "banner": "https://ipfs.io/ipfs/bafybeih2gsrw5ykxvx2ivkkyrrcpvisb2doaqvyaynyax3fazfhiwvgnmy/0F244105-1B04-4B95-B27E-307C4081FC56.jpg",
+      "official_website": "https://touchstone.city/discover/0xc4b1f4387748f389/TouchstonePartyFlavorz",
+      "description": "Party Favorz is an NFT Collection that showcases the art of different Artists every season. Each season is accompanied by a virtual party, at which the holder of that season's Party Favorz has increased chances at giveaways! Season 5 was done by Cutter, and focuses on FLAVORZ rather than favorz!",
+      "path": {
+        "storage_path": "/storage/TouchstonePartyFlavorzCollection_0xc4b1f4387748f389",
+        "public_path": "/public/TouchstonePartyFlavorzCollection_0xc4b1f4387748f389",
+        "private_path": "/private/TouchstonePartyFlavorzCollection_0xc4b1f4387748f389",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "TouchstonePartyFlavorz.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "TouchstonePartyFlavorz.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection,NonFungibleToken.Provider}"
+      },
+      "socials": {
+        "discord": {
+          "url": "https://discord.gg/YzZpY46X5R"
+        },
+        "twitter": {
+          "url": "https://twitter.com/flowpartyfavorz"
+        }
+      }
+    },
+    {
+      "id": "OzoneMetaverseMarketplace",
+      "contract_name": "MetaverseMarket",
+      "logo": "https://d19wottuqbmkwr.cloudfront.net/nft/banners1.jpg",
+      "address": "0xd756450f386fb4ac",
+      "name": "Ozone Metaverse Marketplace",
+      "banner": "https://d19wottuqbmkwr.cloudfront.net/nft/banners2.jpg",
+      "official_website": "https://ozonemetaverse.io",
+      "description": "The first ever virtual world building creator NFT marketplace on Flow. Made by creators, for creators. Instantly create listings of all media file types including 3D models which can be immediately used in virtual world building studio. Build the new metaverse economy today by becoming a creator or simply start to build worlds today. Built on Flow. Powered by Ozone.",
+      "path": {
+        "storage_path": "/storage/NftMetaverseMarketCollectionVersionTwo",
+        "public_path": "/public/NftMetaverseMarketCollectionVersionTwo",
+        "private_path": "/private/ProvenancedCollectionsV9",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "MetaverseMarket.Collection{MetaverseMarket.MetaverseMarketCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "MetaverseMarket.Collection{MetaverseMarket.MetaverseMarketCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}"
+      },
+      "socials": {
+        "discord": {
+          "url": "https://discord.gg/ozonemetaverse"
+        },
+        "twitter": {
+          "url": "https://twitter.com/ozonemetaverse"
+        }
+      }
+    },
+    {
       "id": "MFLClubs",
       "contract_name": "MFLClub",
       "logo": "https://d13e14gtps4iwl.cloudfront.net/branding/logos/mfl_logo_black_square_small.svg",
@@ -549,6 +601,29 @@
       }
     },
     {
+      "id": "TheKeeprCollection",
+      "contract_name": "KeeprItems",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/keepr-86355.appspot.com/o/static%2Flogo-dark.svg?alt=media&token=9d66d7ea-9b3e-4fe0-8604-04df064af359",
+      "address": "0x5eb12ad3d5a99945",
+      "name": "The Keepr Collection",
+      "banner": "https://firebasestorage.googleapis.com/v0/b/keepr-86355.appspot.com/o/static%2Flogo-dark.svg?alt=media&token=9d66d7ea-9b3e-4fe0-8604-04df064af359",
+      "official_website": "https://keepr.gg/",
+      "description": "This collection is used as an example to help you develop your next Flow NFT.",
+      "path": {
+        "storage_path": "/storage/KeeprItemsCollectionV10",
+        "public_path": "/public/KeeprItemsCollectionV10",
+        "private_path": "/private/KittyItemsCollection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "KeeprItems.Collection{KeeprItems.KeeprItemsCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "KeeprItems.Collection{KeeprItems.KeeprItemsCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
+      },
+      "socials": {
+        "twitter": {
+          "url": "https://twitter.com/keeprGG"
+        }
+      }
+    },
+    {
       "id": "WORLD3LandVoucher",
       "contract_name": "MatrixWorldVoucher",
       "logo": "https://world3.ai/assets/WORLD3Logo_black.png",
@@ -721,6 +796,32 @@
       }
     },
     {
+      "id": "TouchstoneSnowyGlobez",
+      "contract_name": "TouchstoneSnowyGlobez",
+      "logo": "https://ipfs.io/ipfs/bafybeihcgke5bku237c2yilh6lt4lezmzneizpmow4w4lr4bl7fmqa5y2u/Snowy Globez PFP.jpeg",
+      "address": "0xc4b1f4387748f389",
+      "name": "Snowy Globez",
+      "banner": "https://ipfs.io/ipfs/bafybeihcgke5bku237c2yilh6lt4lezmzneizpmow4w4lr4bl7fmqa5y2u/Snowy Globez Banner.webp",
+      "official_website": "https://touchstone.city/discover/0xc4b1f4387748f389/TouchstoneSnowyGlobez",
+      "description": "Step into the enchanting world of \"Snowy Globez,\" a curated collection of 42 NFTs all /10 that bring the globe's most iconic landmarks right to your fingertips. Each piece is a window to a different corner of the world, offering a slice of beauty and heritage in a vibrant, fun portrayal. With Snow Globez, you're not just collecting art; you're embracing the spirit of exploration and the joy of discovery. Start your journey today and own a piece of the world's wonders. Any holders of the entire set of 42 will be rewarded.",
+      "path": {
+        "storage_path": "/storage/TouchstoneSnowyGlobezCollection_0xc4b1f4387748f389",
+        "public_path": "/public/TouchstoneSnowyGlobezCollection_0xc4b1f4387748f389",
+        "private_path": "/private/TouchstoneSnowyGlobezCollection_0xc4b1f4387748f389",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "TouchstoneSnowyGlobez.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "TouchstoneSnowyGlobez.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection,NonFungibleToken.Provider}"
+      },
+      "socials": {
+        "discord": {
+          "url": "https://discord.gg/nYy5XMWY4X"
+        },
+        "twitter": {
+          "url": "https://twitter.com/FlowPartyFavorz"
+        }
+      }
+    },
+    {
       "id": "FlownsDomainNameNFT",
       "contract_name": "Domains",
       "logo": "https://www.flowns.org/_next/image?url=%2Fassets%2Fflowns_v_logo_light.svg&w=256&q=75",
@@ -832,6 +933,58 @@
         "private_type": "Lufthaus.Collection{Lufthaus.LufthausCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
       "socials": {}
+    },
+    {
+      "id": "Driverz",
+      "contract_name": "DriverzNFT",
+      "logo": "https://gateway.pinata.cloud/ipfs/QmV4FsnFiU7QY8ybwd5uuXwogVo9wcRExQLwedh7HU1mrU/",
+      "address": "0xa039bd7d55a96c0c",
+      "name": "Driverz",
+      "banner": "https://gateway.pinata.cloud/ipfs/QmYn6vg1pCuKb6jWT3SDHuyX4NDyJB4wvcYarmsyppoGDS/",
+      "official_website": "https://ongaia.com/driverz",
+      "description": "An exclusive collection of energetic Driverz ready to vroom vroom on FLOW.",
+      "path": {
+        "storage_path": "/storage/DriverzNFTCollection",
+        "public_path": "/public/DriverzNFTCollection",
+        "private_path": "/private/DriverzNFTCollection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "DriverzNFT.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "DriverzNFT.Collection{NonFungibleToken.Provider,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
+      },
+      "socials": {
+        "twitter": {
+          "url": "https://twitter.com/DriverzNFT"
+        },
+        "instagram": {
+          "url": "https://www.instagram.com/driverznft/"
+        }
+      }
+    },
+    {
+      "id": "PuffPalz",
+      "contract_name": "PuffPalz",
+      "logo": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
+      "address": "0xa3eb9784ae7dc9c8",
+      "name": "Puff Palz",
+      "banner": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
+      "official_website": "https://puffpalz.io/",
+      "description": "Puff Palz Collection",
+      "path": {
+        "storage_path": "/storage/PuffPalzCollection",
+        "public_path": "/public/PuffPalzCollection",
+        "private_path": "/private/PuffPalzCollection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "PuffPalz.Collection{PuffPalz.CollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "PuffPalz.Collection{PuffPalz.CollectionPublic,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection,NonFungibleToken.Provider}"
+      },
+      "socials": {
+        "discord": {
+          "url": "https://discord.gg/nDxrtnxN"
+        },
+        "twitter": {
+          "url": "https://twitter.com/FlowPartyFavorz"
+        }
+      }
     },
     {
       "id": "BarterYardClub_Werewolves",
@@ -979,6 +1132,32 @@
       "socials": {
         "twitter": {
           "url": "https://twitter.com/jollyjokersnft"
+        }
+      }
+    },
+    {
+      "id": "HWGarageCard",
+      "contract_name": "HWGarageCard",
+      "logo": "",
+      "address": "0xd0bcefdf1e67ea85",
+      "name": "HWGarageCard",
+      "banner": "",
+      "official_website": "",
+      "description": "",
+      "path": {
+        "storage_path": "/storage/HWGarageCardCollection",
+        "public_path": "/public/HWGarageCardCollection",
+        "private_path": "/private/HWGarageCardCollection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "HWGarageCard.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,HWGarageCard.HWGarageCardCollectionPublic,MetadataViews.ResolverCollection}",
+        "private_type": "HWGarageCard.Collection{NonFungibleToken.Provider,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,HWGarageCard.HWGarageCardCollectionPublic,MetadataViews.ResolverCollection}"
+      },
+      "socials": {
+        "twitter": {
+          "url": ""
+        },
+        "instagram": {
+          "url": ""
         }
       }
     },
@@ -1543,6 +1722,29 @@
       }
     },
     {
+      "id": "TheNFTDayTreasureChestCollection",
+      "contract_name": "NFTDayTreasureChest",
+      "logo": "https://basicbeasts.mypinata.cloud/ipfs/QmZLx5Tw7Fydm923kSkqcf5PuABtcwofuv6c2APc9iR41J",
+      "address": "0x117396d8a72ad372",
+      "name": "The NFT Day Treasure Chest Collection",
+      "banner": "https://basicbeasts.mypinata.cloud/ipfs/QmZLx5Tw7Fydm923kSkqcf5PuABtcwofuv6c2APc9iR41J",
+      "official_website": "https://basicbeasts.io",
+      "description": "This collection is used for the Basic Beasts Treasure Hunt to celebrate international #NFTDay.",
+      "path": {
+        "storage_path": "/storage/bbNFTDayTreasureChestCollection",
+        "public_path": "/public/bbNFTDayTreasureChestCollection",
+        "private_path": "/private/NFTDayTreasureChestCollection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "NFTDayTreasureChest.Collection{NFTDayTreasureChest.NFTDayTreasureChestCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "NFTDayTreasureChest.Collection{NFTDayTreasureChest.NFTDayTreasureChestCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
+      },
+      "socials": {
+        "twitter": {
+          "url": "https://twitter.com/basicbeastsnft"
+        }
+      }
+    },
+    {
       "id": "Piece",
       "contract_name": "Piece",
       "logo": "https://media.discordapp.net/attachments/1075564743152107530/1149417271597473913/Piece_collection_image.png?width=1422&height=1422",
@@ -2059,6 +2261,80 @@
       "socials": {}
     },
     {
+      "id": "SeedsOfHappinessGenesis",
+      "contract_name": "SeedsOfHappinessGenesis",
+      "logo": "https://sapphire-rainy-dragonfly-583.mypinata.cloud/ipfs/QmUm7nAtbGrGBgxW5fe8CUjD1yt4PSK6JN7RGBs3W8bTEg",
+      "address": "0x52acb3b399df11fc",
+      "name": "Seeds of Happiness Genesis Collection",
+      "banner": "https://sapphire-rainy-dragonfly-583.mypinata.cloud/ipfs/Qme3CZiRsyGWj4GAYWuhTagUjmpLnhZvi6p6QJyGaTuPj4",
+      "official_website": "https://genesis.seedsofhappiness.io",
+      "description": "The Genesis Collection from artist Jimmy Paintz is a set of 8,888 custom spray-painted and hand-cut paper happy faces, each with their own unique attributes and artistic flourishes. These limited-edition happy faces live as NFTs on the Flow blockchain. Your NFT serves as the gateway to unlocking unique access to utility from Seeds of Happiness, starting with the ability to redeem your NFT for a 1 of 1 physical piece - a representation of your NFT in the real world.",
+      "path": {
+        "storage_path": "/storage/SeedsOfHappinessGenesis_Collection",
+        "public_path": "/public/SeedsOfHappinessGenesis_Collection",
+        "private_path": "/private/SeedsOfHappinessGenesis_Collection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "SeedsOfHappinessGenesis.Collection{SeedsOfHappinessGenesis.SeedsOfHappinessGenesisCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "SeedsOfHappinessGenesis.Collection{SeedsOfHappinessGenesis.SeedsOfHappinessGenesisCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
+      },
+      "socials": {}
+    },
+    {
+      "id": "Zeedz",
+      "contract_name": "ZeedzINO",
+      "logo": "https://play.zeedz.io/logo-zeedz.svg",
+      "address": "0x62b3063fbe672fc8",
+      "name": "Zeedz",
+      "banner": "https://play.zeedz.io/background-zeedz.jpg",
+      "official_website": "https://play.zeedz.io/",
+      "description": "Zeedz is the first play-for-purpose game where players reduce global carbon emissions by collecting plant-inspired creatures: Zeedles. They live as NFTs on an eco-friendly blockchain (Flow) and grow with the real-world weather.",
+      "path": {
+        "storage_path": "/storage/ZeedzINOCollection",
+        "public_path": "/public/ZeedzINOCollection",
+        "private_path": "/private/ZeedzINOCollection",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "ZeedzINO.Collection{ZeedzINO.ZeedzCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "ZeedzINO.Collection{ZeedzINO.ZeedzCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
+      },
+      "socials": {
+        "discord": {
+          "url": "http://discord.com/invite/zeedz"
+        },
+        "twitter": {
+          "url": "https://twitter.com/zeedz_official"
+        },
+        "instagram": {
+          "url": "https://www.instagram.com/zeedz_official/"
+        }
+      }
+    },
+    {
+      "id": "TouchstoneMidnightMunchies",
+      "contract_name": "TouchstoneMidnightMunchies",
+      "logo": "https://ipfs.io/ipfs/bafybeif5fs2qnspikxbkkorpp5owzw67epep7qeaa7yjocsuniuqzcmg2y/Midnight Munchies.png",
+      "address": "0xc4b1f4387748f389",
+      "name": "Midnight Munchies",
+      "banner": "https://ipfs.io/ipfs/bafybeif5fs2qnspikxbkkorpp5owzw67epep7qeaa7yjocsuniuqzcmg2y/banner munchies.png",
+      "official_website": "https://touchstone.city/discover/0xc4b1f4387748f389/TouchstoneMidnightMunchies",
+      "description": "Dive into the mystique of midnight with this exclusive NFT collection. Each piece captures the essence of a forbidden treat, brought to life under the pale glow of the moon. Crafted with intricate detail and a touch of the supernatural, every candy in this collection tells a story of its own. From eerie enchantments to ghostly garnishes, the \"Midnight Munchies\" are not just edible art – they are a feast for the eyes.  But these are no ordinary confections. After ingesting these gummies, a symphony of sensations unfolds. Music tends to hit the ears, soul, and move the body in ways previously unimagined. The rhythm and melodies become an ethereal experience, connecting the consumer to the very essence of sound.  As 1/1 NFTs, these unique creations offer a rare glimpse into a world where sweetness meets the surreal. Own a piece of the night, and let your senses be tantalized by the dark allure of these ethereal edibles.",
+      "path": {
+        "storage_path": "/storage/TouchstoneMidnightMunchiesCollection_0xc4b1f4387748f389",
+        "public_path": "/public/TouchstoneMidnightMunchiesCollection_0xc4b1f4387748f389",
+        "private_path": "/private/TouchstoneMidnightMunchiesCollection_0xc4b1f4387748f389",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "TouchstoneMidnightMunchies.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "TouchstoneMidnightMunchies.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection,NonFungibleToken.Provider}"
+      },
+      "socials": {
+        "discord": {
+          "url": "https://discord.gg/Yw7qzsvV3r"
+        },
+        "twitter": {
+          "url": "https://twitter.com/FlowPartyFavorz"
+        }
+      }
+    },
+    {
       "id": "PartyGooberz",
       "contract_name": "GooberXContract",
       "logo": "https://gateway.pinata.cloud/ipfs/QmeiwpEXCidsPae3ZPpSJTKVit1R2LHiF4cw5pvmMPRC4x/",
@@ -2107,6 +2383,32 @@
         },
         "twitter": {
           "url": "https://twitter.com/StarlyNFT"
+        }
+      }
+    },
+    {
+      "id": "TouchstoneGalacticGourmet",
+      "contract_name": "TouchstoneGalacticGourmet",
+      "logo": "https://ipfs.io/ipfs/bafybeic5jeyqjaactbx2up7nowsm5uobbgp4wd7oirg4ml6wz7ursyce5q/f8856820-90be-481f-9f7e-4095f397ae18.webp",
+      "address": "0xc4b1f4387748f389",
+      "name": "Galactic Gourmet",
+      "banner": "https://ipfs.io/ipfs/bafybeic5jeyqjaactbx2up7nowsm5uobbgp4wd7oirg4ml6wz7ursyce5q/a3210e8a-7c65-4a02-a58e-71c6524d6989.webp",
+      "official_website": "https://touchstone.city/discover/0xc4b1f4387748f389/TouchstoneGalacticGourmet",
+      "description": "Embark on a culinary odyssey that transcends the terrestrial with \"Galactic Gourmet,\" an exquisite collection of NFTs where the cosmos and cuisine collide. This otherworldly anthology is the brainchild of an advanced alien civilization, artfully crafting human culinary classics with a stellar twist. Each piece is a masterpiece of interstellar imagination, featuring familiar foods reimagined through the lens of extraterrestrial artistry.  From the nebulous swirls in a slice of pizza that echo the spiral arms of distant galaxies, to the cosmic glow of celestial bodies on succulent steaks, every morsel is infused with the essence of the stars. Savor the intergalactic interpretation of earthly delights, where each bite is a journey through space and time.  Galactic Gourmet offers not only a visual feast for the eyes but a testament to the universal language of flavor. It's an invitation to explore the infinite possibilities of gastronomy, unhindered by the laws of physics or the boundaries of the known universe. This collection is a tribute to the shared human experience of exploration and discovery, plated on the canvas of the cosmos.  For connoisseurs of the unique, collectors of the extraordinary, and enthusiasts of the vast unknown, Galactic Gourmet presents an unparalleled opportunity to own a slice of the universe, where every NFT is a gateway to cosmic wonder and culinary innovation.",
+      "path": {
+        "storage_path": "/storage/TouchstoneGalacticGourmetCollection_0xc4b1f4387748f389",
+        "public_path": "/public/TouchstoneGalacticGourmetCollection_0xc4b1f4387748f389",
+        "private_path": "/private/TouchstoneGalacticGourmetCollection_0xc4b1f4387748f389",
+        "public_collection_name": "NonFungibleToken.CollectionPublic",
+        "public_type": "TouchstoneGalacticGourmet.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
+        "private_type": "TouchstoneGalacticGourmet.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection,NonFungibleToken.Provider}"
+      },
+      "socials": {
+        "discord": {
+          "url": "https://discord.gg/tQagndt6KE"
+        },
+        "twitter": {
+          "url": "https://twitter.com/FlowPartyFavorz"
         }
       }
     },
