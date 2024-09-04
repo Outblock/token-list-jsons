@@ -24,7 +24,7 @@
       },
       {
         "chainId": 545,
-        "address": "0x89a2c10f518ff6970212b688359a3bb27b1d1013",
+        "address": "0xd50DCCA32B76dBf180cc5Dd7eFD2e6E0a545Ba3a",
         "symbol": "EFT",
         "name": "Example Fungible Token",
         "decimals": 18,
