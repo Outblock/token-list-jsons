@@ -7,5 +7,16 @@
     ],
     "tags": {},
     "timestamp": "",
-    "tokens": []
+    "tokens": [
+        {
+            "chainId": 747,
+            "name": "FLOAT",
+            "address": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342",
+            "symbol": "FLOAT",
+            "logoURI": "",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.2d4c3caffbeab845.FLOAT.NFT"
+        }
+    ]
 }
