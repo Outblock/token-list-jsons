@@ -12,6 +12,16 @@
         "logoURI": "http://images.flovatar.com/logo-round.png",
         "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
         "tags": []
+      },
+      {
+        "chainId": 747,
+        "address": "0x5598c0652B899EB40f169Dd5949BdBE0BF36ffDe",
+        "symbol": "stFLOW",
+        "name": "Liquid Staked Flow",
+        "decimals": 18,
+        "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
+        "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
+        "tags": []
       }
   ],
   "totalAmount": 0,
