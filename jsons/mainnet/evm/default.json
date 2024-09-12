@@ -2,7 +2,18 @@
   "name": "Flow EVM Token List",
   "network": "mainnet",
   "chainId": 747,
-  "tokens": [],
+  "tokens": [
+     {
+        "chainId": 747,
+        "address": "0x6f90ceF53868878be7a2eDBF41D715de09851b54",
+        "symbol": "DUST",
+        "name": "Flovatar Dust",
+        "decimals": 18,
+        "logoURI": "http://images.flovatar.com/logo-round.png",
+        "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
+        "tags": []
+      }
+  ],
   "totalAmount": 0,
   "filterType": "ALL",
   "timestamp": "2024-05-13T05:55:05.604Z",
