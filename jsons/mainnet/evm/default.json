@@ -35,6 +35,16 @@
       },
       {
         "chainId": 747,
+        "address": "0x76A56657d20f572872A81b75530c905fD9F845e5",
+        "symbol": "BR",
+        "name": "brasil",
+        "decimals": 18,
+        "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
+        "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
+        "tags": []
+      },
+      {
+        "chainId": 747,
         "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
         "symbol": "WFLOW",
         "name": "Wrapped Flow",
