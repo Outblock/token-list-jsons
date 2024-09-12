@@ -22,6 +22,25 @@
         "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
         "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
         "tags": []
+      },
+      {
+        "chainId": 747,
+        "address": "0xEC0F7E75128781c2924Ad907A379909Ae531d050",
+        "symbol": "LOPPY",
+        "name": "Sloppy Stakes",
+        "decimals": 18,
+        "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
+        "flowIdentifier": "A.53f389d96fb4ce5e.SloppyStakes.Vault",
+        "tags": []
+      },
+      {
+        "chainId": 747,
+        "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+        "symbol": "WFLOW",
+        "name": "Wrapped Flow",
+        "decimals": 18,
+        "logoURI": "",
+        "tags": []
       }
   ],
   "totalAmount": 0,
