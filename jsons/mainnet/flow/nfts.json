@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": "SportbitCollection",
+      "id": "Sportbit",
       "contract_name": "Sportbit",
       "logo": "https://images.sportvatar.com/logo.svg",
       "address": "0xca5c31c0c03e11be",
@@ -27,10 +27,12 @@
         "instagram": {
           "url": "https://instagram.com/sportvatar_nft"
         }
-      }
+      },
+      "evmAddress": "0xa7b0ee5ada31ee79e83c04541eee14c6f9d92667",
+      "evm_address": "0xa7b0ee5ada31ee79e83c04541eee14c6f9d92667"
     },
     {
-      "id": "ShebaHopeGrowsCollection",
+      "id": "ShebaHopeGrows",
       "contract_name": "ShebaHopeGrows",
       "logo": "https://dkuxa1i6sgo8h.cloudfront.net/sheba/Shebabanner.png",
       "address": "0xe0408e51b0b970a7",
@@ -46,10 +48,12 @@
         "public_type": "ShebaHopeGrows.Collection{ShebaHopeGrows.ShebaHopeGrowsCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "ShebaHopeGrows.Collection{ShebaHopeGrows.ShebaHopeGrowsCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x13775a9c21c75e6297b5b49ce151415457f1f03d",
+      "evm_address": "0x13775a9c21c75e6297b5b49ce151415457f1f03d"
     },
     {
-      "id": "FlovatarCollection",
+      "id": "Flovatar",
       "contract_name": "Flovatar",
       "logo": "https://images.flovatar.com/logo.svg",
       "address": "0x921ea449dffec68a",
@@ -75,10 +79,12 @@
         "instagram": {
           "url": "https://instagram.com/flovatar_nft"
         }
-      }
+      },
+      "evmAddress": "0x99cbb5b90b1e08164281b24ac9217eda4dc0ee62",
+      "evm_address": "0x99cbb5b90b1e08164281b24ac9217eda4dc0ee62"
     },
     {
-      "id": "FRC20SemiNFT_0xd2abb5dbf5e08666collection",
+      "id": "FixesSemiNFTCollection",
       "contract_name": "FRC20SemiNFT",
       "logo": "https://i.imgur.com/hs3U5CY.png",
       "address": "0xd2abb5dbf5e08666",
@@ -98,10 +104,12 @@
         "twitter": {
           "url": "https://twitter.com/fixesOnFlow"
         }
-      }
+      },
+      "evmAddress": "0xd5fa1aff2e92acf3f9875b54b171ee5c20fe9150",
+      "evm_address": "0xd5fa1aff2e92acf3f9875b54b171ee5c20fe9150"
     },
     {
-      "id": "FlunksCollection",
+      "id": "Flunks",
       "contract_name": "Flunks",
       "logo": "https://storage.googleapis.com/zeero-public/logo_full.png",
       "address": "0x807c3d470888cc48",
@@ -121,10 +129,12 @@
         "twitter": {
           "url": "https://twitter.com/flunks_nft"
         }
-      }
+      },
+      "evmAddress": "0x5bb4ec1f05a76a5d85e81448477bd6c4dd93ad65",
+      "evm_address": "0x5bb4ec1f05a76a5d85e81448477bd6c4dd93ad65"
     },
     {
-      "id": "RogueBunnies_NFTCollection",
+      "id": "RogueBunnies",
       "contract_name": "RogueBunnies_NFT",
       "logo": "https://media.gigantik.io/roguebunnies/square.png",
       "address": "0x396646f110afb2e6",
@@ -150,10 +160,12 @@
         "instagram": {
           "url": "https://www.instagram.com/theroguebunnies/"
         }
-      }
+      },
+      "evmAddress": "0xec341ab104f217c5940788503176639ff2713d06",
+      "evm_address": "0xec341ab104f217c5940788503176639ff2713d06"
     },
     {
-      "id": "aiSportsMinterCollection",
+      "id": "aiSports",
       "contract_name": "aiSportsMinter",
       "logo": "https://firebasestorage.googleapis.com/v0/b/fantasyball-6e433.appspot.com/o/upload_image.png?alt=media&token=947bf82d-b697-4cb2-b58f-17b237705ae5",
       "address": "0xabe5a2bf47ce5bf3",
@@ -173,10 +185,12 @@
         "twitter": {
           "url": "https://twitter.com/aisportspro"
         }
-      }
+      },
+      "evmAddress": "0x1899cb99846f7c9891ecdd785474a5d9c2889da6",
+      "evm_address": "0x1899cb99846f7c9891ecdd785474a5d9c2889da6"
     },
     {
-      "id": "HeroesOfTheFlowCollection",
+      "id": "HeroesOfTheFlow",
       "contract_name": "HeroesOfTheFlow",
       "logo": "https://flowverse.myfilebase.com/ipfs/QmU7a1eLvsmLda1VPe2ioikeWmhPwk5Xm7eV2iBUuirm55",
       "address": "0x1dc37ab51a54d83f",
@@ -196,10 +210,12 @@
         "twitter": {
           "url": "https://twitter.com/heroesoftheflow"
         }
-      }
+      },
+      "evmAddress": "0x43ece1a944d3a049c873bca564085d28efd111fd",
+      "evm_address": "0x43ece1a944d3a049c873bca564085d28efd111fd"
     },
     {
-      "id": "UFC_NFTCollection",
+      "id": "UFCStrike",
       "contract_name": "UFC_NFT",
       "logo": "https://media.gigantik.io/ufc/square.png",
       "address": "0x329feb3ab062d289",
@@ -225,10 +241,12 @@
         "instagram": {
           "url": "https://instagram.com/ufcstrike"
         }
-      }
+      },
+      "evmAddress": "0x8a1a321f7feb5dee3cb5b120e1f9937c4478575f",
+      "evm_address": "0x8a1a321f7feb5dee3cb5b120e1f9937c4478575f"
     },
     {
-      "id": "GolazosNFTCollection",
+      "id": "LaligaGolazos",
       "contract_name": "Golazos",
       "logo": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Primary_B.png",
       "address": "0x87ca73a41bb50ad5",
@@ -254,10 +272,12 @@
         "instagram": {
           "url": " https://instagram.com/laligaonflow"
         }
-      }
+      },
+      "evmAddress": "0xf68fafbe9d39fd7cfa69257c2ab1067281b64b87",
+      "evm_address": "0xf68fafbe9d39fd7cfa69257c2ab1067281b64b87"
     },
     {
-      "id": "KaratNFTCollection",
+      "id": "The24KaratCollection",
       "contract_name": "KaratNFT",
       "logo": "https://static.wixstatic.com/media/568614_5676993b65c64da29cecf24d323fd664~mv2.png/v1/fill/w_140,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/568614_5676993b65c64da29cecf24d323fd664~mv2.png",
       "address": "0x82ed1b9cba5bb1b3",
@@ -277,10 +297,12 @@
         "twitter": {
           "url": "https://twitter.com/24karat_io"
         }
-      }
+      },
+      "evmAddress": "0x12782c53bfb950010549f538b8542898d907bf6e",
+      "evm_address": "0x12782c53bfb950010549f538b8542898d907bf6e"
     },
     {
-      "id": "TouchstonePartyFlavorzCollection_0xc4b1f4387748f389",
+      "id": "TouchstonePartyFlavorz",
       "contract_name": "TouchstonePartyFlavorz",
       "logo": "https://ipfs.io/ipfs/bafybeih2gsrw5ykxvx2ivkkyrrcpvisb2doaqvyaynyax3fazfhiwvgnmy/Party Favorz Logo.png",
       "address": "0xc4b1f4387748f389",
@@ -303,10 +325,12 @@
         "twitter": {
           "url": "https://twitter.com/flowpartyfavorz"
         }
-      }
+      },
+      "evmAddress": "0x6dc6fac67020d31e6e623df42f26a3696f7bbfc0",
+      "evm_address": "0x6dc6fac67020d31e6e623df42f26a3696f7bbfc0"
     },
     {
-      "id": "NftMetaverseMarketCollectionVersionTwo",
+      "id": "OzoneMetaverseMarketplace",
       "contract_name": "MetaverseMarket",
       "logo": "https://d19wottuqbmkwr.cloudfront.net/nft/banners1.jpg",
       "address": "0xd756450f386fb4ac",
@@ -329,10 +353,12 @@
         "twitter": {
           "url": "https://twitter.com/ozonemetaverse"
         }
-      }
+      },
+      "evmAddress": "0x63c936f8b6565b81b0b8d999b1a6d8fbbcde5444",
+      "evm_address": "0x63c936f8b6565b81b0b8d999b1a6d8fbbcde5444"
     },
     {
-      "id": "MFLClubCollection",
+      "id": "MFLClubs",
       "contract_name": "MFLClub",
       "logo": "https://d13e14gtps4iwl.cloudfront.net/branding/logos/mfl_logo_black_square_small.svg",
       "address": "0x8ebcbfd516b1da27",
@@ -355,10 +381,12 @@
         "twitter": {
           "url": "https://twitter.com/playMFL"
         }
-      }
+      },
+      "evmAddress": "0x1de931a87d389de298b150ff01d6dc3bd0b7d281",
+      "evm_address": "0x1de931a87d389de298b150ff01d6dc3bd0b7d281"
     },
     {
-      "id": "BWAYX_NFTCollection",
+      "id": "TheBroadwayExchange",
       "contract_name": "BWAYX_NFT",
       "logo": "https://media.gigantik.io/bwayx/square.png",
       "address": "0xf02b15e11eb3715b",
@@ -378,10 +406,12 @@
         "twitter": {
           "url": "https://www.twitter.com/mycompany"
         }
-      }
+      },
+      "evmAddress": "0xc2ecf1de75291a37ff879234fc3053018868ffd5",
+      "evm_address": "0xc2ecf1de75291a37ff879234fc3053018868ffd5"
     },
     {
-      "id": "FlowverseShirtCollection",
+      "id": "FlowverseShirt",
       "contract_name": "FlowverseShirt",
       "logo": "https://flowverse.myfilebase.com/ipfs/QmeFH4AXFLkCzKJ64nRmtRyqxXsVH8N98QDZcUNwJphXBz",
       "address": "0x9212a87501a8a6a2",
@@ -401,10 +431,12 @@
         "twitter": {
           "url": "https://twitter.com/flowverse_"
         }
-      }
+      },
+      "evmAddress": "0xeb073e026713a4c3b06c930f81f2057dfbdb513f",
+      "evm_address": "0xeb073e026713a4c3b06c930f81f2057dfbdb513f"
     },
     {
-      "id": "MintStoreItemCollection",
+      "id": "MintStoreItem",
       "contract_name": "MintStoreItem",
       "logo": "https://dkuxa1i6sgo8h.cloudfront.net/mint/mint-nft-white-thumb.jpg",
       "address": "0x20187093790b9aef",
@@ -420,10 +452,12 @@
         "public_type": "MintStoreItem.Collection{MintStoreItem.MintStoreItemCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "MintStoreItem.Collection{MintStoreItem.MintStoreItemCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xd118ee231eca3efbaaa9196b941535520ccdd34b",
+      "evm_address": "0xd118ee231eca3efbaaa9196b941535520ccdd34b"
     },
     {
-      "id": "TheFabricantKapersCollectionStoragePath",
+      "id": "WHOLELAND,Kapers",
       "contract_name": "TheFabricantKapers",
       "logo": "https://leela.mypinata.cloud/ipfs/QmVPbbS7zVEyBGARHSVX8KcYBZ7bqV48koT2ibBFbL4iYy/BULLISH_KAPER_01.png",
       "address": "0x7752ea736384322f",
@@ -449,10 +483,12 @@
         "instagram": {
           "url": "https://www.instagram.com/the_fab_ric_ant/"
         }
-      }
+      },
+      "evmAddress": "0xe9c76c06f4befe3a35bd1a8c3c6aeebdfef8e434",
+      "evm_address": "0xe9c76c06f4befe3a35bd1a8c3c6aeebdfef8e434"
     },
     {
-      "id": "bl0xNFTs",
+      "id": "bl0x",
       "contract_name": "Bl0x",
       "logo": "https://bl0x.xyz/assets/home/Bl0xlogo.webp",
       "address": "0x7620acf6d7f2468a",
@@ -475,7 +511,9 @@
         "twitter": {
           "url": "https://twitter.com/Bl0xNFT"
         }
-      }
+      },
+      "evmAddress": "0xeaed52be00f58219399bf3e32a870b509d6a80d2",
+      "evm_address": "0xeaed52be00f58219399bf3e32a870b509d6a80d2"
     },
     {
       "id": "StanzClubCollection",
@@ -498,10 +536,12 @@
         "twitter": {
           "url": "https://twitter.com/NFTKred"
         }
-      }
+      },
+      "evmAddress": "0x340ded40fa59893cb3d1544db5aa4fa608c40189",
+      "evm_address": "0x340ded40fa59893cb3d1544db5aa4fa608c40189"
     },
     {
-      "id": "IconoGraphikaNFT",
+      "id": "PantheonCollection",
       "contract_name": "IconoGraphika",
       "logo": "https://gateway.pinata.cloud/ipfs/QmVUqQW4KUgom5dHss5PrZ2JTyMoREuU77ecvFWodvg5zv/",
       "address": "0xa6ee47da88e6cbde",
@@ -517,10 +557,12 @@
         "public_type": "IconoGraphika.Collection{IconoGraphika.IconoGraphikaCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "IconoGraphika.Collection{IconoGraphika.IconoGraphikaCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xf2222eee871acf5e67128b8dc998f95ec97d3939",
+      "evm_address": "0xf2222eee871acf5e67128b8dc998f95ec97d3939"
     },
     {
-      "id": "TiblesSk8tiblesCollection",
+      "id": "Sk8tiblesCollection",
       "contract_name": "Sk8tibles",
       "logo": "https://i.tibles.com/m/sk8tibles-flow-icon.png",
       "address": "0x0a2fbb92a8ae5c6d",
@@ -540,10 +582,12 @@
         "twitter": {
           "url": "https://twitter.com/sk8tibles"
         }
-      }
+      },
+      "evmAddress": "0x2aae88007dbdb7a06506cd4ffcf11e27cde5dcd5",
+      "evm_address": "0x2aae88007dbdb7a06506cd4ffcf11e27cde5dcd5"
     },
     {
-      "id": "AllDayNFTCollection",
+      "id": "NFLAllDay",
       "contract_name": "AllDay",
       "logo": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
       "address": "0xe4cf4bdc1751c65d",
@@ -569,10 +613,12 @@
         "instagram": {
           "url": "https://www.instagram.com/nflallday/"
         }
-      }
+      },
+      "evmAddress": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0",
+      "evm_address": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0"
     },
     {
-      "id": "MagnetiqTokensCollection",
+      "id": "MAGNETIQ",
       "contract_name": "Magnetiq",
       "logo": "https://magnetiq-static.s3.amazonaws.com/media/public/magnetiq-logo.png",
       "address": "0x5257f1455ed366fe",
@@ -598,10 +644,12 @@
         "instagram": {
           "url": "https://www.instagram.com/magnetiq_xyz"
         }
-      }
+      },
+      "evmAddress": "0x2a4ba366e2168d02a86d072aef7b55a39c1e7da6",
+      "evm_address": "0x2a4ba366e2168d02a86d072aef7b55a39c1e7da6"
     },
     {
-      "id": "KeeprItemsCollectionV10",
+      "id": "TheKeeprCollection",
       "contract_name": "KeeprItems",
       "logo": "https://firebasestorage.googleapis.com/v0/b/keepr-86355.appspot.com/o/static%2Flogo-dark.svg?alt=media&token=9d66d7ea-9b3e-4fe0-8604-04df064af359",
       "address": "0x5eb12ad3d5a99945",
@@ -621,10 +669,12 @@
         "twitter": {
           "url": "https://twitter.com/keeprGG"
         }
-      }
+      },
+      "evmAddress": "0x24212c12535b3d0e39cf5aec81e87446d91e8dcc",
+      "evm_address": "0x24212c12535b3d0e39cf5aec81e87446d91e8dcc"
     },
     {
-      "id": "MatrixWorldVoucherCollection",
+      "id": "WORLD3LandVoucher",
       "contract_name": "MatrixWorldVoucher",
       "logo": "https://world3.ai/assets/WORLD3Logo_black.png",
       "address": "0x0d77ec47bbad8ef6",
@@ -644,10 +694,12 @@
         "twitter": {
           "url": "https://x.com/WORLD3_AI"
         }
-      }
+      },
+      "evmAddress": "0x279443ba076c7370cd2808bdd617596f3ca28fde",
+      "evm_address": "0x279443ba076c7370cd2808bdd617596f3ca28fde"
     },
     {
-      "id": "TheFabricantXXoriesCollectionStoragePath",
+      "id": "TheFabricant_WHOLELAND_XXories",
       "contract_name": "TheFabricantXXories",
       "logo": "https://xxories.s3.eu-central-1.amazonaws.com/images/campaign-image.png",
       "address": "0x7752ea736384322f",
@@ -673,10 +725,12 @@
         "instagram": {
           "url": "https://www.instagram.com/the_fab_ric_ant/"
         }
-      }
+      },
+      "evmAddress": "0xd5106868acf73387ee3b600449b5f549a27bb5de",
+      "evm_address": "0xd5106868acf73387ee3b600449b5f549a27bb5de"
     },
     {
-      "id": "MikoSeaCollection",
+      "id": "MIKOSEANFT",
       "contract_name": "MIKOSEANFT",
       "logo": "https://app.mikosea.io/mikosea_1.png",
       "address": "0x0b80e42aaab305f0",
@@ -696,10 +750,12 @@
         "twitter": {
           "url": "https://twitter.com/MikoSea_io"
         }
-      }
+      },
+      "evmAddress": "0x16d1a3e82d908651e96ba1d4338b10eb35860132",
+      "evm_address": "0x16d1a3e82d908651e96ba1d4338b10eb35860132"
     },
     {
-      "id": "FlobotCollection",
+      "id": "Flobot",
       "contract_name": "Flobot",
       "logo": "https://images.flovatar.com/logo.svg",
       "address": "0x921ea449dffec68a",
@@ -725,10 +781,12 @@
         "instagram": {
           "url": "https://instagram.com/flovatar_nft"
         }
-      }
+      },
+      "evmAddress": "0x37157785224b13140e6254178544a4e824867b01",
+      "evm_address": "0x37157785224b13140e6254178544a4e824867b01"
     },
     {
-      "id": "nfgNFTCollection",
+      "id": "NonFunGerbils",
       "contract_name": "NFGv3",
       "logo": "https://gateway.pinata.cloud/ipfs/QmeG1rPaLWmn4uUSjQ2Wbs7QnjxdQDyeadCGWyGwvHTB7c/",
       "address": "0x123cb666996b8432",
@@ -748,10 +806,12 @@
         "twitter": {
           "url": "https://twitter.com/NonFunGerbils"
         }
-      }
+      },
+      "evmAddress": "0x76da69879644c03e1cf338a9bcb57f562318c77b",
+      "evm_address": "0x76da69879644c03e1cf338a9bcb57f562318c77b"
     },
     {
-      "id": "CryptoPiggoV2Collection",
+      "id": "CryptoPiggoV2NFTCollection",
       "contract_name": "CryptoPiggoV2",
       "logo": "https://s3.us-west-2.amazonaws.com/piggos-2/banner.png",
       "address": "0xd3df824bf81910a4",
@@ -767,10 +827,12 @@
         "public_type": "CryptoPiggoV2.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "CryptoPiggoV2.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x966d3499a46ac3fc15f5aee9cafd42db52a6716d",
+      "evm_address": "0x966d3499a46ac3fc15f5aee9cafd42db52a6716d"
     },
     {
-      "id": "MFLPackCollection",
+      "id": "MFLPacks",
       "contract_name": "MFLPack",
       "logo": "https://d13e14gtps4iwl.cloudfront.net/branding/logos/mfl_logo_black_square_small.svg",
       "address": "0x8ebcbfd516b1da27",
@@ -793,10 +855,12 @@
         "twitter": {
           "url": "https://twitter.com/playMFL"
         }
-      }
+      },
+      "evmAddress": "0xd77da66125bb2d9ace3bd703b17a231eee9f093b",
+      "evm_address": "0xd77da66125bb2d9ace3bd703b17a231eee9f093b"
     },
     {
-      "id": "TouchstoneSnowyGlobezCollection_0xc4b1f4387748f389",
+      "id": "TouchstoneSnowyGlobez",
       "contract_name": "TouchstoneSnowyGlobez",
       "logo": "https://ipfs.io/ipfs/bafybeihcgke5bku237c2yilh6lt4lezmzneizpmow4w4lr4bl7fmqa5y2u/Snowy Globez PFP.jpeg",
       "address": "0xc4b1f4387748f389",
@@ -819,10 +883,12 @@
         "twitter": {
           "url": "https://twitter.com/FlowPartyFavorz"
         }
-      }
+      },
+      "evmAddress": "0x2ef50564e8ed05ada66c95e0a25ba40ad056a25e",
+      "evm_address": "0x2ef50564e8ed05ada66c95e0a25ba40ad056a25e"
     },
     {
-      "id": "fnsDomainCollection",
+      "id": "FlownsDomainNameNFT",
       "contract_name": "Domains",
       "logo": "https://www.flowns.org/_next/image?url=%2Fassets%2Fflowns_v_logo_light.svg&w=256&q=75",
       "address": "0x233eb012d34b0070",
@@ -845,10 +911,12 @@
         "twitter": {
           "url": "https://twitter.com/flownsorg"
         }
-      }
+      },
+      "evmAddress": "0xb94378faa50722cc651ac19dfad3f1f01db0e31f",
+      "evm_address": "0xb94378faa50722cc651ac19dfad3f1f01db0e31f"
     },
     {
-      "id": "versusArtCollection",
+      "id": "Versus",
       "contract_name": "Art",
       "logo": "https://pbs.twimg.com/profile_images/1295757455679528963/ibkAIRww_400x400.jpg",
       "address": "0xd796ff17107bbff6",
@@ -868,10 +936,12 @@
         "twitter": {
           "url": "https://twitter.com/FlowVersus"
         }
-      }
+      },
+      "evmAddress": "0xa3405bd059979e10f73a15b5efa21affcead8496",
+      "evm_address": "0xa3405bd059979e10f73a15b5efa21affcead8496"
     },
     {
-      "id": "BreakingT_NFTCollection",
+      "id": "BreakingT",
       "contract_name": "BreakingT_NFT",
       "logo": "https://media.gigantik.io/breakingt/square.png",
       "address": "0x329feb3ab062d289",
@@ -887,10 +957,12 @@
         "public_type": "BreakingT_NFT.Collection{BreakingT_NFT.BreakingT_NFTCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "BreakingT_NFT.Collection{BreakingT_NFT.BreakingT_NFTCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x478a94c2b821f4864700e39f22fa6b7584df42a1",
+      "evm_address": "0x478a94c2b821f4864700e39f22fa6b7584df42a1"
     },
     {
-      "id": "dmxCollection",
+      "id": "DimensionX",
       "contract_name": "DimensionX",
       "logo": "https://metadata.flow.dimensionxnft.com/collection_image.png",
       "address": "0xe3ad6030cbaff1c2",
@@ -913,10 +985,12 @@
         "twitter": {
           "url": "https://twitter.com/DimensionX_NFT"
         }
-      }
+      },
+      "evmAddress": "0x1fafb71a650e8e923bef6616036379310de629b3",
+      "evm_address": "0x1fafb71a650e8e923bef6616036379310de629b3"
     },
     {
-      "id": "LufthausCollection",
+      "id": "Lufthaus",
       "contract_name": "Lufthaus",
       "logo": "https://mint-store-metadata.s3.us-east-2.amazonaws.com/lufthaus/Laufthause+1+x+1.png",
       "address": "0x20187093790b9aef",
@@ -932,10 +1006,12 @@
         "public_type": "Lufthaus.Collection{Lufthaus.LufthausCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "Lufthaus.Collection{Lufthaus.LufthausCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x60b71f157eb5506b715070da64875866a7561c72",
+      "evm_address": "0x60b71f157eb5506b715070da64875866a7561c72"
     },
     {
-      "id": "DriverzNFTCollection",
+      "id": "Driverz",
       "contract_name": "DriverzNFT",
       "logo": "https://gateway.pinata.cloud/ipfs/QmV4FsnFiU7QY8ybwd5uuXwogVo9wcRExQLwedh7HU1mrU/",
       "address": "0xa039bd7d55a96c0c",
@@ -958,10 +1034,12 @@
         "instagram": {
           "url": "https://www.instagram.com/driverznft/"
         }
-      }
+      },
+      "evmAddress": "0xdfaa0b31907181bd370599d817563f80a3585224",
+      "evm_address": "0xdfaa0b31907181bd370599d817563f80a3585224"
     },
     {
-      "id": "PuffPalzCollection",
+      "id": "PuffPalz",
       "contract_name": "PuffPalz",
       "logo": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
       "address": "0xa3eb9784ae7dc9c8",
@@ -984,10 +1062,12 @@
         "twitter": {
           "url": "https://twitter.com/FlowPartyFavorz"
         }
-      }
+      },
+      "evmAddress": "0xeb7bc35d8bb7ef56bf4a3b620f65a317de915654",
+      "evm_address": "0xeb7bc35d8bb7ef56bf4a3b620f65a317de915654"
     },
     {
-      "id": "BarterYardClubWerewolfCollection",
+      "id": "BarterYardClub_Werewolves",
       "contract_name": "BarterYardClubWerewolf",
       "logo": "https://images.barteryard.club/logo.svg",
       "address": "0x28abb9f291cadaf2",
@@ -1010,10 +1090,12 @@
         "twitter": {
           "url": "https://twitter.com/barteryard"
         }
-      }
+      },
+      "evmAddress": "0xd065f4190b1886939803ea1eaf851a758877a6f4",
+      "evm_address": "0xd065f4190b1886939803ea1eaf851a758877a6f4"
     },
     {
-      "id": "OpenLockerIncBoneYardHuskyzClubCollection",
+      "id": "OpenLockerIncBoneYardHuskyzClub",
       "contract_name": "OpenLockerIncBoneYardHuskyzClub",
       "logo": "",
       "address": "0x20187093790b9aef",
@@ -1029,10 +1111,12 @@
         "public_type": "OpenLockerIncBoneYardHuskyzClub.Collection{OpenLockerIncBoneYardHuskyzClub.OpenLockerIncBoneYardHuskyzClubCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "OpenLockerIncBoneYardHuskyzClub.Collection{OpenLockerIncBoneYardHuskyzClub.OpenLockerIncBoneYardHuskyzClubCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xb662fd75c60309648d8e194f34b04ea608c3295f",
+      "evm_address": "0xb662fd75c60309648d8e194f34b04ea608c3295f"
     },
     {
-      "id": "yahooPartnersCollectibleCollection",
+      "id": "YahooPartners",
       "contract_name": "YahooPartnersCollectible",
       "logo": "https://raw.githubusercontent.com/portto/assets/main/nft/flow/yahoo/logo.png",
       "address": "0x758252ab932a3416",
@@ -1052,10 +1136,12 @@
         "twitter": {
           "url": "https://twitter.com/Yahoo"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "FlovatarComponentCollection",
+      "id": "FlovatarComponent",
       "contract_name": "FlovatarComponent",
       "logo": "https://images.flovatar.com/logo.svg",
       "address": "0x921ea449dffec68a",
@@ -1081,10 +1167,12 @@
         "instagram": {
           "url": "https://instagram.com/flovatar_nft"
         }
-      }
+      },
+      "evmAddress": "0x478b816cfcb33bf16396c8dae59ae1dd20b15786",
+      "evm_address": "0x478b816cfcb33bf16396c8dae59ae1dd20b15786"
     },
     {
-      "id": "FlovatarDustCollectibleCollection",
+      "id": "FlovatarDustCollectible",
       "contract_name": "FlovatarDustCollectible",
       "logo": "https://images.flovatar.com/logo.svg",
       "address": "0x921ea449dffec68a",
@@ -1110,10 +1198,12 @@
         "instagram": {
           "url": "https://instagram.com/flovatar_nft"
         }
-      }
+      },
+      "evmAddress": "0x7d16c291bd1af000ea5a5fed70ed1204235199ed",
+      "evm_address": "0x7d16c291bd1af000ea5a5fed70ed1204235199ed"
     },
     {
-      "id": "JollyJokersCollection",
+      "id": "JollyJokers",
       "contract_name": "JollyJokers",
       "logo": "https://otmnft-jj.s3.amazonaws.com/Jolly_Jokers.png",
       "address": "0x699bf284101a76f1",
@@ -1133,10 +1223,12 @@
         "twitter": {
           "url": "https://twitter.com/jollyjokersnft"
         }
-      }
+      },
+      "evmAddress": "0xf71f5868299b48d542c40951d4d1e91f132a8002",
+      "evm_address": "0xf71f5868299b48d542c40951d4d1e91f132a8002"
     },
     {
-      "id": "HWGarageCardCollection",
+      "id": "HWGarageCard",
       "contract_name": "HWGarageCard",
       "logo": "",
       "address": "0xd0bcefdf1e67ea85",
@@ -1159,10 +1251,12 @@
         "instagram": {
           "url": ""
         }
-      }
+      },
+      "evmAddress": "0x7a7bd3afc37be2402b83d667d4fbf57d671bafab",
+      "evm_address": "0x7a7bd3afc37be2402b83d667d4fbf57d671bafab"
     },
     {
-      "id": "HighsnobietyNotInParisCollectionStoragePath",
+      "id": "HighsnobietyNotInParis",
       "contract_name": "HighsnobietyNotInParis",
       "logo": "https://highsnobiety-collection-display.s3.eu-central-1.amazonaws.com/images/HS_squareImage.png",
       "address": "0x7752ea736384322f",
@@ -1188,10 +1282,12 @@
         "instagram": {
           "url": "https://www.instagram.com/the_fab_ric_ant/"
         }
-      }
+      },
+      "evmAddress": "0xb453d7ed3dbe7d61ff592219030eb79076c2a949",
+      "evm_address": "0xb453d7ed3dbe7d61ff592219030eb79076c2a949"
     },
     {
-      "id": "YoungBoysBernCollection",
+      "id": "YoungBoysBern",
       "contract_name": "YoungBoysBern",
       "logo": "https://dkuxa1i6sgo8h.cloudfront.net/BSC-Young-Boys/BSC_Young_Boys_logo.png",
       "address": "0x20187093790b9aef",
@@ -1207,10 +1303,12 @@
         "public_type": "YoungBoysBern.Collection{YoungBoysBern.YoungBoysBernCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "YoungBoysBern.Collection{YoungBoysBern.YoungBoysBernCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x24702c917fe2f42cfba099b0e9ec1ffc13130b51",
+      "evm_address": "0x24702c917fe2f42cfba099b0e9ec1ffc13130b51"
     },
     {
-      "id": "CarCollection",
+      "id": "Car",
       "contract_name": "Car",
       "logo": "https://driverzinc.io/DriverzNFT-logo.png",
       "address": "0xf887ece39166906e",
@@ -1233,10 +1331,12 @@
         "twitter": {
           "url": "https://twitter.com/driverznft"
         }
-      }
+      },
+      "evmAddress": "0x2d03fccc951c98ce1824299437158f9bbdbbb1ed",
+      "evm_address": "0x2d03fccc951c98ce1824299437158f9bbdbbb1ed"
     },
     {
-      "id": "WheelCollection",
+      "id": "Wheel",
       "contract_name": "Wheel",
       "logo": "https://driverzinc.io/DriverzNFT-logo.png",
       "address": "0xf887ece39166906e",
@@ -1259,10 +1359,12 @@
         "twitter": {
           "url": "https://twitter.com/driverznft"
         }
-      }
+      },
+      "evmAddress": "0xbf7b462be057adaaaabeaa320dc8ce29826238f4",
+      "evm_address": "0xbf7b462be057adaaaabeaa320dc8ce29826238f4"
     },
     {
-      "id": "InceptionBlackBoxCollection",
+      "id": "InceptionBlackBox",
       "contract_name": "InceptionBlackBox",
       "logo": "https://inceptionanimals.com/logo.png",
       "address": "0x83ed64a1d4f3833f",
@@ -1282,10 +1384,12 @@
         "twitter": {
           "url": "https://twitter.com/Inceptionft"
         }
-      }
+      },
+      "evmAddress": "0x6d5984db99789436fba142d7f899433a63137e63",
+      "evm_address": "0x6d5984db99789436fba142d7f899433a63137e63"
     },
     {
-      "id": "RaceDay_NFTCollection",
+      "id": "RaceDayNFT",
       "contract_name": "RaceDay_NFT",
       "logo": "https://media.gigantik.io/raceday/square.png",
       "address": "0x329feb3ab062d289",
@@ -1311,10 +1415,12 @@
         "instagram": {
           "url": "https://www.instagram.com/racedaynft/"
         }
-      }
+      },
+      "evmAddress": "0xc7aac70c7ca640060bb6146deb2e4549758496f6",
+      "evm_address": "0xc7aac70c7ca640060bb6146deb2e4549758496f6"
     },
     {
-      "id": "CryptoPiggoCollection",
+      "id": "CryptoPiggoNFTCollection",
       "contract_name": "CryptoPiggo",
       "logo": "https://ipfs.tenzingai.com/ipfs/QmUk3s7BoVSS56V2U4rxd1syVp8USUEygu7NmARppH183U",
       "address": "0xd3df824bf81910a4",
@@ -1330,10 +1436,12 @@
         "public_type": "CryptoPiggo.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "CryptoPiggo.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x21008d0d4f3ebd34b336e95321228a65351b3eb9",
+      "evm_address": "0x21008d0d4f3ebd34b336e95321228a65351b3eb9"
     },
     {
-      "id": "doodles",
+      "id": "Doodles",
       "contract_name": "Doodles",
       "logo": "https://gateway.pinata.cloud/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb/",
       "address": "0xe81193c424cfd3fb",
@@ -1356,10 +1464,12 @@
         "twitter": {
           "url": "https://twitter.com/Doodles"
         }
-      }
+      },
+      "evmAddress": "0x422df8e241cabd526cdc08ee83bbf903ee83966c",
+      "evm_address": "0x422df8e241cabd526cdc08ee83bbf903ee83966c"
     },
     {
-      "id": "PartyMansionDrinkCollection",
+      "id": "PartyDrinks",
       "contract_name": "PartyMansionDrinksContract",
       "logo": "https://gateway.pinata.cloud/ipfs/QmSEJEwqdpotJ7RX42RKDy5sVgQzhNy3XiDmFsc81wgzNC/",
       "address": "0x34f2bf4a80bb0f69",
@@ -1382,10 +1492,12 @@
         "twitter": {
           "url": "https://mobile.twitter.com/the_goobz_nft"
         }
-      }
+      },
+      "evmAddress": "0x3e3aae8772379226665d04b736be2f7881d30ca4",
+      "evm_address": "0x3e3aae8772379226665d04b736be2f7881d30ca4"
     },
     {
-      "id": "PickemCollection",
+      "id": "Pickem",
       "contract_name": "Pickem",
       "logo": "",
       "address": "0x20187093790b9aef",
@@ -1401,10 +1513,12 @@
         "public_type": "Pickem.Collection{Pickem.PickemCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "Pickem.Collection{Pickem.PickemCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xfe6b5ae49f89d77f820716bc6a62a8be45a35062",
+      "evm_address": "0xfe6b5ae49f89d77f820716bc6a62a8be45a35062"
     },
     {
-      "id": "TiblesOneShotsCollection",
+      "id": "OneShotsComicBookTradingCardsbyTibles",
       "contract_name": "OneShots",
       "logo": "https://i.tibles.com/m/oneshots-flow-icon.png",
       "address": "0x4f7ff543c936072b",
@@ -1424,10 +1538,12 @@
         "twitter": {
           "url": "https://twitter.com/oneshotstibles"
         }
-      }
+      },
+      "evmAddress": "0xb266949a9d976d0e52cc746c2676c103757c8e11",
+      "evm_address": "0xb266949a9d976d0e52cc746c2676c103757c8e11"
     },
     {
-      "id": "FlowversePassCollection",
+      "id": "FlowverseMysteryPass",
       "contract_name": "FlowversePass",
       "logo": "https://flowverse-mystery-pass.s3.filebase.com/mainnet/squareImage.jpg",
       "address": "0x9212a87501a8a6a2",
@@ -1453,10 +1569,12 @@
         "instagram": {
           "url": "https://www.instagram.com/flowverseofficial"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "FantastecNFTCollection",
+      "id": "Fantastec-SWAP",
       "contract_name": "FantastecNFT",
       "logo": "https://bafkreihvx3vfgnpn4ygfdcq4w7pdlamw4maasok7xuzcfoutm3lbitwprm.ipfs.nftstorage.link/",
       "address": "0x4bbff461fa8f6192",
@@ -1476,7 +1594,9 @@
         "twitter": {
           "url": "https://twitter.com/fantastecSWAP"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
       "id": "BoneyardCollection",
@@ -1499,10 +1619,12 @@
         "twitter": {
           "url": "https://twitter.com/TheBoneyardNFT"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "Canes_Vault_NFTCollection",
+      "id": "CanesVault",
       "contract_name": "Canes_Vault_NFT",
       "logo": "https://media.gigantik.io/canes_vault/square.png",
       "address": "0x329feb3ab062d289",
@@ -1525,10 +1647,12 @@
         "instagram": {
           "url": "https://www.instagram.com/CanesVault"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "DGD_NFTCollection",
+      "id": "ThePlayersLounge",
       "contract_name": "DGD_NFT",
       "logo": "https://media.gigantik.io/dgd/square.png",
       "address": "0x329feb3ab062d289",
@@ -1554,10 +1678,12 @@
         "instagram": {
           "url": "https://instagram.com/ThPlayersLounge"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "WeekdayCollectionStoragePath",
+      "id": "WeekdayArtifact001",
       "contract_name": "Weekday",
       "logo": "https://weekday-collection-display.s3.eu-central-1.amazonaws.com/images/WD_squareImage.png",
       "address": "0x7752ea736384322f",
@@ -1583,10 +1709,12 @@
         "instagram": {
           "url": "https://www.instagram.com/the_fab_ric_ant/"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "PartyFavorzCollection",
+      "id": "PartyFavorz",
       "contract_name": "PartyFavorz",
       "logo": "https://gateway.pinata.cloud/ipfs/QmWXrHbmCZJKvD4wQbwt8ZNj3e9pdFbzLTshEtMRH6ZNo6/",
       "address": "0x123cb666996b8432",
@@ -1609,10 +1737,12 @@
         "twitter": {
           "url": "https://twitter.com/FlowPartyFavorz"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "wearables",
+      "id": "Wearables",
       "contract_name": "Wearables",
       "logo": "https://gateway.pinata.cloud/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb/",
       "address": "0xe81193c424cfd3fb",
@@ -1635,10 +1765,12 @@
         "twitter": {
           "url": "https://twitter.com/doodles"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "Bobblz_NFTCollection",
+      "id": "Bobblz",
       "contract_name": "Bobblz_NFT",
       "logo": "https://media.gigantik.io/bobblz/square.png",
       "address": "0xd45e2bd9a3d5003b",
@@ -1664,10 +1796,12 @@
         "instagram": {
           "url": "https://www.instagram.com/bobblznft"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "blovizeNFTCollection",
+      "id": "BlovizeNFTTrophies",
       "contract_name": "BlovizeNFT",
       "logo": "https://blovize.azureedge.net/blovizenft-onflow/thumbnail-white.jpg",
       "address": "0xee4567ab7f63abf2",
@@ -1690,10 +1824,12 @@
         "instagram": {
           "url": "https://www.instagram.com/blovizenftlabs"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "FlowverseTreasuresCollection",
+      "id": "FlowverseTreasures",
       "contract_name": "FlowverseTreasures",
       "logo": "https://flowverse-treasures.s3.filebase.com/mainnet/afterfuture/afterfuture_fv_city_thumbnail.png",
       "address": "0x9212a87501a8a6a2",
@@ -1719,10 +1855,12 @@
         "instagram": {
           "url": "https://www.instagram.com/flowverseofficial"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "bbNFTDayTreasureChestCollection",
+      "id": "TheNFTDayTreasureChestCollection",
       "contract_name": "NFTDayTreasureChest",
       "logo": "https://basicbeasts.mypinata.cloud/ipfs/QmZLx5Tw7Fydm923kSkqcf5PuABtcwofuv6c2APc9iR41J",
       "address": "0x117396d8a72ad372",
@@ -1742,10 +1880,12 @@
         "twitter": {
           "url": "https://twitter.com/basicbeastsnft"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "Piece_Collection0xfdc436fd7db22e01",
+      "id": "Piece",
       "contract_name": "Piece",
       "logo": "https://media.discordapp.net/attachments/1075564743152107530/1149417271597473913/Piece_collection_image.png?width=1422&height=1422",
       "address": "0xfdc436fd7db22e01",
@@ -1765,10 +1905,12 @@
         "twitter": {
           "url": "https://twitter.com/CreateAPiece"
         }
-      }
+      },
+      "evmAddress": "0x2cd1d5cd8ab5335c66aa52cfa1af4eb0d5857eb6",
+      "evm_address": "0x2cd1d5cd8ab5335c66aa52cfa1af4eb0d5857eb6"
     },
     {
-      "id": "BackpackCollection",
+      "id": "Backpack",
       "contract_name": "Backpack",
       "logo": "https://storage.googleapis.com/flunks_public/website-assets/classroom.png",
       "address": "0x807c3d470888cc48",
@@ -1788,10 +1930,12 @@
         "twitter": {
           "url": "https://twitter.com/flunks_nft"
         }
-      }
+      },
+      "evmAddress": "0xf261d16f49907b445bb131598ffaf87c898d65fe",
+      "evm_address": "0xf261d16f49907b445bb131598ffaf87c898d65fe"
     },
     {
-      "id": "OrdinalCollection",
+      "id": "Ordinals",
       "contract_name": "Ordinal",
       "logo": "https://flowverse.myfilebase.com/ipfs/QmQ45TvzGVTmoMCfGqxgbiMmR4rdmSHAhz661bPyUfFrAT",
       "address": "0x9212a87501a8a6a2",
@@ -1817,10 +1961,12 @@
         "instagram": {
           "url": "https://www.instagram.com/flowverseofficial"
         }
-      }
+      },
+      "evmAddress": "0x83bdd800526cc870624c07bd22c09f82f0b3e76c",
+      "evm_address": "0x83bdd800526cc870624c07bd22c09f82f0b3e76c"
     },
     {
-      "id": "RTLStoreItemCollection",
+      "id": "RTLStoreItem",
       "contract_name": "RTLStoreItem",
       "logo": "https://dkuxa1i6sgo8h.cloudfront.net/sisi/Sisi-square-whitebackground-small.png",
       "address": "0x9d1d0d0c82bf1c59",
@@ -1836,10 +1982,12 @@
         "public_type": "RTLStoreItem.Collection{RTLStoreItem.RTLStoreItemCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "RTLStoreItem.Collection{RTLStoreItem.RTLStoreItemCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xd458c48cf374cf9a70203bb43aa345faef2b32fc",
+      "evm_address": "0xd458c48cf374cf9a70203bb43aa345faef2b32fc"
     },
     {
-      "id": "FlowtyWrapped_0x592eb32b47d8b85f",
+      "id": "Flowty-Wrapped",
       "contract_name": "FlowtyWrapped",
       "address": "0x592eb32b47d8b85f",
       "name": "Flowty Wrapped",
@@ -1857,10 +2005,12 @@
         "twitter": {
           "url": "https://twitter.com/flowty_io"
         }
-      }
+      },
+      "evmAddress": "0x2c2e2ef011a8ad5a89f1a2d59358c455e3336250",
+      "evm_address": "0x2c2e2ef011a8ad5a89f1a2d59358c455e3336250"
     },
     {
-      "id": "findCharityCollection",
+      "id": "NeoCharity2021",
       "contract_name": "CharityNFT",
       "logo": "https://pbs.twimg.com/profile_images/1467546091780550658/R1uc6dcq_400x400.jpg",
       "address": "0x097bafa4e0b48eef",
@@ -1876,10 +2026,12 @@
         "public_type": "CharityNFT.Collection{NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,CharityNFT.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "CharityNFT.Collection{NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,CharityNFT.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x67f3e53dec8d8d16bd737dd25df43225b230a620",
+      "evm_address": "0x67f3e53dec8d8d16bd737dd25df43225b230a620"
     },
     {
-      "id": "YBeesCollection",
+      "id": "YBees",
       "contract_name": "YBees",
       "logo": "https://mint-store-metadata.s3.us-east-2.amazonaws.com/BSC-Young-Boys/BSC_Young_Boys_logo.png",
       "address": "0x20187093790b9aef",
@@ -1895,10 +2047,12 @@
         "public_type": "YBees.Collection{YBees.YBeesCollectionPublic,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}",
         "private_type": "YBees.Collection{YBees.YBeesCollectionPublic,NonFungibleToken.Provider,NonFungibleToken.Receiver,NonFungibleToken.CollectionPublic,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x0bc850be5a6e7e35bbb009f74ab5dcada097e958",
+      "evm_address": "0x0bc850be5a6e7e35bbb009f74ab5dcada097e958"
     },
     {
-      "id": "InceptionAvatarCollection",
+      "id": "InceptionAvatar",
       "contract_name": "InceptionAvatar",
       "logo": "https://inceptionanimals.com/logo.png",
       "address": "0x83ed64a1d4f3833f",
@@ -1918,10 +2072,12 @@
         "twitter": {
           "url": "https://twitter.com/Inceptionft"
         }
-      }
+      },
+      "evmAddress": "0xc2d234f8629a66931e0c51cc06f1d4fb55071d21",
+      "evm_address": "0xc2d234f8629a66931e0c51cc06f1d4fb55071d21"
     },
     {
-      "id": "yahooCollectibleCollection",
+      "id": "Yahoo",
       "contract_name": "YahooCollectible",
       "logo": "https://raw.githubusercontent.com/portto/assets/main/nft/flow/yahoo/logo.png",
       "address": "0x758252ab932a3416",
@@ -1941,10 +2097,12 @@
         "twitter": {
           "url": "https://twitter.com/Yahoo"
         }
-      }
+      },
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "FLOATCollectionStoragePath",
+      "id": "FLOAT",
       "contract_name": "FLOAT",
       "logo": "https://i.imgur.com/v0Njnnk.png",
       "address": "0x2d4c3caffbeab845",
@@ -1960,8 +2118,6 @@
         "public_type": "FLOAT.Collection{FLOAT.CollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "FLOAT.Collection{FLOAT.CollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
       },
-      "evmAddress": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342",
-      "evm_address": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342",
       "socials": {
         "discord": {
           "url": "https://discord.gg/emeraldcity"
@@ -1969,10 +2125,12 @@
         "twitter": {
           "url": "https://twitter.com/emerald_dao"
         }
-      }
+      },
+      "evmAddress": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342",
+      "evm_address": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342"
     },
     {
-      "id": "aeraRewardsNFT",
+      "id": "AeraRewards",
       "contract_name": "AeraRewards",
       "logo": "https://gateway.pinata.cloud/ipfs/bafkreiameqwyluog75u7zg3dmf56b5mbed7cdgv6uslkph6nvmdf2aipmy/",
       "address": "0x30cf5dcf6ea8d379",
@@ -1998,10 +2156,12 @@
         "instagram": {
           "url": "https://www.instagram.com/aera_football/"
         }
-      }
+      },
+      "evmAddress": "0xd134864fac0dfea2319063a79368e09fa661f0b4",
+      "evm_address": "0xd134864fac0dfea2319063a79368e09fa661f0b4"
     },
     {
-      "id": "CarClubCollection",
+      "id": "CarClub",
       "contract_name": "CarClub",
       "logo": "https://driverzinc.io/DriverzNFT-logo.png",
       "address": "0xf887ece39166906e",
@@ -2024,10 +2184,12 @@
         "twitter": {
           "url": "https://twitter.com/driverznft"
         }
-      }
+      },
+      "evmAddress": "0x9b989cd4ee12bfd0d83f74bbfbc102d042c79dd0",
+      "evm_address": "0x9b989cd4ee12bfd0d83f74bbfbc102d042c79dd0"
     },
     {
-      "id": "PackNFTCollection",
+      "id": "NFLAllDayPacks",
       "contract_name": "PackNFT",
       "logo": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
       "address": "0xe4cf4bdc1751c65d",
@@ -2053,10 +2215,12 @@
         "instagram": {
           "url": "https://www.instagram.com/nflallday/"
         }
-      }
+      },
+      "evmAddress": "0xae799bc4db1a77960a1dd236fb6d9931b301feb1",
+      "evm_address": "0xae799bc4db1a77960a1dd236fb6d9931b301feb1"
     },
     {
-      "id": "TiblesSeussiblesCollection",
+      "id": "SeussiblesNFTCollectionbyTibles",
       "contract_name": "Seussibles",
       "logo": "https://i.tibles.com/m/seussibles-flow-icon.png",
       "address": "0x321d8fcde05f6e8c",
@@ -2079,10 +2243,12 @@
         "twitter": {
           "url": "https://twitter.com/seussibles"
         }
-      }
+      },
+      "evmAddress": "0x3f013cd02c8803217366ee9587fde1652ac5a57e",
+      "evm_address": "0x3f013cd02c8803217366ee9587fde1652ac5a57e"
     },
     {
-      "id": "HelmetCollection",
+      "id": "Helmet",
       "contract_name": "Helmet",
       "logo": "https://driverzinc.io/DriverzNFT-logo.png",
       "address": "0xf887ece39166906e",
@@ -2105,10 +2271,12 @@
         "twitter": {
           "url": "https://twitter.com/driverznft"
         }
-      }
+      },
+      "evmAddress": "0x2c20fc197ac025ee283464ce5e49c9510c1e27aa",
+      "evm_address": "0x2c20fc197ac025ee283464ce5e49c9510c1e27aa"
     },
     {
-      "id": "Fuchibola_NFTCollection",
+      "id": "Fuchibola",
       "contract_name": "Fuchibola_NFT",
       "logo": "https://media.gigantik.io/fuchibola/square.png",
       "address": "0xf3ee684cd0259fed",
@@ -2134,10 +2302,12 @@
         "instagram": {
           "url": "https://www.instagram.com/la_fuchibola"
         }
-      }
+      },
+      "evmAddress": "0x6f7a202a1280264c0f3505c142c04e45e91c0bd3",
+      "evm_address": "0x6f7a202a1280264c0f3505c142c04e45e91c0bd3"
     },
     {
-      "id": "Cimelio_NFTCollection",
+      "id": "Cimelio",
       "contract_name": "Cimelio_NFT",
       "logo": "https://media.gigantik.io/cimelio/square.png",
       "address": "0x2c9de937c319468d",
@@ -2163,10 +2333,12 @@
         "instagram": {
           "url": "https://www.instagram.com/cimelio.io/"
         }
-      }
+      },
+      "evmAddress": "0xcb0fcde1736775aab08bbb443d1bca88ff1eecef",
+      "evm_address": "0xcb0fcde1736775aab08bbb443d1bca88ff1eecef"
     },
     {
-      "id": "GaiaCollection001",
+      "id": "Gaia",
       "contract_name": "Gaia",
       "logo": "https://d3ihoi13u6g9y2.cloudfront.net/metadata/ballerz-square.png",
       "address": "0x8b148183c28ff88f",
@@ -2186,10 +2358,12 @@
         "twitter": {
           "url": "https://twitter.com/ongaia"
         }
-      }
+      },
+      "evmAddress": "0x798b0effe43a1144acf1be107f2e04bc5688fab6",
+      "evm_address": "0x798b0effe43a1144acf1be107f2e04bc5688fab6"
     },
     {
-      "id": "MFLPlayerCollection",
+      "id": "MFLPlayers",
       "contract_name": "MFLPlayer",
       "logo": "https://d13e14gtps4iwl.cloudfront.net/branding/logos/mfl_logo_black_square_small.svg",
       "address": "0x8ebcbfd516b1da27",
@@ -2212,10 +2386,12 @@
         "twitter": {
           "url": "https://twitter.com/playMFL"
         }
-      }
+      },
+      "evmAddress": "0x117cc97619c11f17333bd8229c50f0ccc600bf8c",
+      "evm_address": "0x117cc97619c11f17333bd8229c50f0ccc600bf8c"
     },
     {
-      "id": "flowRewardsCollection",
+      "id": "FlowRewards",
       "contract_name": "FlowRewards",
       "logo": "https://gateway.pinata.cloud/ipfs/QmXPXRZwZByuC5jFV8Lhk5E6HQCkBxYYMkrkJ4b1FYNmf6/",
       "address": "0xa45ead1cf1ca9eda",
@@ -2241,10 +2417,12 @@
         "instagram": {
           "url": "https://www.instagram.com/flowblockchain"
         }
-      }
+      },
+      "evmAddress": "0x45fd22727acd6e7dce5c8f5d5b929d0f82f567ee",
+      "evm_address": "0x45fd22727acd6e7dce5c8f5d5b929d0f82f567ee"
     },
     {
-      "id": "SturdyItemsCollection",
+      "id": "Hoodlums",
       "contract_name": "SturdyItems",
       "logo": "https://ipfs.io/ipfs/bafkreigos42bix6eyvdqwgsbpwwpiemttt772g7ql5khsrutzrfflc4bpq",
       "address": "0x427ceada271aa0b1",
@@ -2260,10 +2438,12 @@
         "public_type": "SturdyItems.Collection{SturdyItems.SturdyItemsCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "SturdyItems.Collection{SturdyItems.SturdyItemsCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xa7f6f20aef160b7d6ae6faf35b752e8822172cd9",
+      "evm_address": "0xa7f6f20aef160b7d6ae6faf35b752e8822172cd9"
     },
     {
-      "id": "SeedsOfHappinessGenesis_Collection",
+      "id": "SeedsOfHappinessGenesis",
       "contract_name": "SeedsOfHappinessGenesis",
       "logo": "https://sapphire-rainy-dragonfly-583.mypinata.cloud/ipfs/QmUm7nAtbGrGBgxW5fe8CUjD1yt4PSK6JN7RGBs3W8bTEg",
       "address": "0x52acb3b399df11fc",
@@ -2279,10 +2459,12 @@
         "public_type": "SeedsOfHappinessGenesis.Collection{SeedsOfHappinessGenesis.SeedsOfHappinessGenesisCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "SeedsOfHappinessGenesis.Collection{SeedsOfHappinessGenesis.SeedsOfHappinessGenesisCollectionPublic,NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "",
+      "evm_address": ""
     },
     {
-      "id": "ZeedzINOCollection",
+      "id": "Zeedz",
       "contract_name": "ZeedzINO",
       "logo": "https://play.zeedz.io/logo-zeedz.svg",
       "address": "0x62b3063fbe672fc8",
@@ -2308,10 +2490,12 @@
         "instagram": {
           "url": "https://www.instagram.com/zeedz_official/"
         }
-      }
+      },
+      "evmAddress": "0xd50a7eacabd654f1a1c5ea05f9c74a1022340408",
+      "evm_address": "0xd50a7eacabd654f1a1c5ea05f9c74a1022340408"
     },
     {
-      "id": "TouchstoneMidnightMunchiesCollection_0xc4b1f4387748f389",
+      "id": "TouchstoneMidnightMunchies",
       "contract_name": "TouchstoneMidnightMunchies",
       "logo": "https://ipfs.io/ipfs/bafybeif5fs2qnspikxbkkorpp5owzw67epep7qeaa7yjocsuniuqzcmg2y/Midnight Munchies.png",
       "address": "0xc4b1f4387748f389",
@@ -2334,10 +2518,12 @@
         "twitter": {
           "url": "https://twitter.com/FlowPartyFavorz"
         }
-      }
+      },
+      "evmAddress": "0xcbc09613c2a3471b7ce8b718766954129b2d7428",
+      "evm_address": "0xcbc09613c2a3471b7ce8b718766954129b2d7428"
     },
     {
-      "id": "GooberzPartyFolksCollection",
+      "id": "PartyGooberz",
       "contract_name": "GooberXContract",
       "logo": "https://gateway.pinata.cloud/ipfs/QmeiwpEXCidsPae3ZPpSJTKVit1R2LHiF4cw5pvmMPRC4x/",
       "address": "0x34f2bf4a80bb0f69",
@@ -2360,10 +2546,12 @@
         "twitter": {
           "url": "https://mobile.twitter.com/the_goobz_nft"
         }
-      }
+      },
+      "evmAddress": "0x653e0bdcd20f84ad401d2ffa38b007486a850d5f",
+      "evm_address": "0x653e0bdcd20f84ad401d2ffa38b007486a850d5f"
     },
     {
-      "id": "starlyCardCollection",
+      "id": "Starly",
       "contract_name": "StarlyCard",
       "logo": "https://storage.googleapis.com/starly-prod.appspot.com/assets/starly-square-logo.jpg",
       "address": "0x5b82f21c0edf76e3",
@@ -2386,10 +2574,12 @@
         "twitter": {
           "url": "https://twitter.com/StarlyNFT"
         }
-      }
+      },
+      "evmAddress": "0xc4ddf229e021fc079c2f14d5624abfb99619e41c",
+      "evm_address": "0xc4ddf229e021fc079c2f14d5624abfb99619e41c"
     },
     {
-      "id": "TouchstoneGalacticGourmetCollection_0xc4b1f4387748f389",
+      "id": "TouchstoneGalacticGourmet",
       "contract_name": "TouchstoneGalacticGourmet",
       "logo": "https://ipfs.io/ipfs/bafybeic5jeyqjaactbx2up7nowsm5uobbgp4wd7oirg4ml6wz7ursyce5q/f8856820-90be-481f-9f7e-4095f397ae18.webp",
       "address": "0xc4b1f4387748f389",
@@ -2412,10 +2602,12 @@
         "twitter": {
           "url": "https://twitter.com/FlowPartyFavorz"
         }
-      }
+      },
+      "evmAddress": "0xa92b515eb089b522d273ef5f736cc889607a123f",
+      "evm_address": "0xa92b515eb089b522d273ef5f736cc889607a123f"
     },
     {
-      "id": "findDandy",
+      "id": "Dandy",
       "contract_name": "Dandy",
       "logo": "https://pbs.twimg.com/profile_images/1467546091780550658/R1uc6dcq_400x400.jpg",
       "address": "0x097bafa4e0b48eef",
@@ -2431,10 +2623,12 @@
         "public_type": "Dandy.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection,Dandy.CollectionPublic}",
         "private_type": "Dandy.Collection{NonFungibleToken.Provider,NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection,Dandy.CollectionPublic}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0xc8039a6179ac71e21ff49575cdb4c39949422487",
+      "evm_address": "0xc8039a6179ac71e21ff49575cdb4c39949422487"
     },
     {
-      "id": "aeraNFTs",
+      "id": "Aera",
       "contract_name": "AeraNFT",
       "logo": "https://miro.medium.com/fit/c/176/176/1*hzfP51MATg3et5vghYy1uQ.png",
       "address": "0x30cf5dcf6ea8d379",
@@ -2460,10 +2654,12 @@
         "instagram": {
           "url": "https://www.instagram.com/aera_football/"
         }
-      }
+      },
+      "evmAddress": "0x5fd25838361b4ae8b705691b4fd19a36e8fc64a2",
+      "evm_address": "0x5fd25838361b4ae8b705691b4fd19a36e8fc64a2"
     },
     {
-      "id": "CryptoPiggoPotionCollection",
+      "id": "TheCryptoPiggoPotionCollection",
       "contract_name": "CryptoPiggoPotion",
       "logo": "https://ipfs.tenzingai.com/ipfs/QmbkTGNXowKhrxQXu4A8FwEb1Nf5YbZTtfwPoqogKrqaH4",
       "address": "0xd3df824bf81910a4",
@@ -2479,10 +2675,12 @@
         "public_type": "CryptoPiggoPotion.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Receiver,MetadataViews.ResolverCollection}",
         "private_type": "CryptoPiggoPotion.Collection{NonFungibleToken.CollectionPublic,NonFungibleToken.Provider,MetadataViews.ResolverCollection}"
       },
-      "socials": {}
+      "socials": {},
+      "evmAddress": "0x0d21723e8445dfa9c00f667b01c14eff1f51f266",
+      "evm_address": "0x0d21723e8445dfa9c00f667b01c14eff1f51f266"
     },
     {
-      "id": "redeemables",
+      "id": "Redeemables",
       "contract_name": "Redeemables",
       "logo": "https://gateway.pinata.cloud/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb/",
       "address": "0xe81193c424cfd3fb",
@@ -2508,10 +2706,12 @@
         "instagram": {
           "url": "https://www.instagram.com/thedoodles"
         }
-      }
+      },
+      "evmAddress": "0x2c9bd29bb1c00c0af63a3a25b64b5bfcd0e6f966",
+      "evm_address": "0x2c9bd29bb1c00c0af63a3a25b64b5bfcd0e6f966"
     },
     {
-      "id": "MomentCollection",
+      "id": "NBATopShot",
       "contract_name": "TopShot",
       "logo": "https://nbatopshot.com/static/img/og/og.png",
       "address": "0x0b2a3299cc857e29",
@@ -2537,10 +2737,12 @@
         "instagram": {
           "url": "https://www.instagram.com/nbatopshot"
         }
-      }
+      },
+      "evmAddress": "0x50ab3a827ad268e9d5a24d340108fad5c25dad5f",
+      "evm_address": "0x50ab3a827ad268e9d5a24d340108fad5c25dad5f"
     },
     {
-      "id": "SportvatarCollection",
+      "id": "Sportvatar",
       "contract_name": "Sportvatar",
       "logo": "https://images.sportvatar.com/logo.svg",
       "address": "0xca5c31c0c03e11be",
@@ -2566,10 +2768,12 @@
         "instagram": {
           "url": "https://instagram.com/sportvatar_nft"
         }
-      }
+      },
+      "evmAddress": "0xfbf3d60b68f3b5b0e5ca5a6430fe3439d3dd50a1",
+      "evm_address": "0xfbf3d60b68f3b5b0e5ca5a6430fe3439d3dd50a1"
     },
     {
-      "id": "MatrixMarketFlowverseSocksCollection",
+      "id": "FlowverseSocks",
       "contract_name": "FlowverseSocks",
       "logo": "https://media.nft.matrixmarket.xyz/media/dbbrUIkarYLXKKjiY5AYk_IMAGE.png",
       "address": "0xce4c02539d1fabe8",
@@ -2592,7 +2796,9 @@
         "twitter": {
           "url": "https://twitter.com/flowverse_"
         }
-      }
+      },
+      "evmAddress": "0xf5e1953971497b86ddc2b7a5bc61182da3cb0e47",
+      "evm_address": "0xf5e1953971497b86ddc2b7a5bc61182da3cb0e47"
     }
   ],
   "status": 200
