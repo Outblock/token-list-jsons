@@ -70,30 +70,6 @@
         },
         {
             "chainId": 747,
-            "name": "Blovize NFT Trophies",
-            "symbol": "BLOV",
-            "logoURI": "https://blovize.azureedge.net/blovizenft-onflow/thumbnail-white.jpg",
-            "tokenURI": "",
-            "tags": []
-        },
-        {
-            "chainId": 747,
-            "name": "Bobblz shop",
-            "symbol": "BOBB",
-            "logoURI": "https://media-local.gigantik.io/bobblz/square.png",
-            "tokenURI": "",
-            "tags": []
-        },
-        {
-            "chainId": 747,
-            "name": "BONEYARD COLLECTION",
-            "symbol": "BONE",
-            "logoURI": "https://ipfs.io/ipfs/QmfFEnmDdtd79q7X4f4RX7GzFvp2UezBVaXTMz4ZibH1m1",
-            "tokenURI": "",
-            "tags": []
-        },
-        {
-            "chainId": 747,
             "name": "BreakingT shop",
             "address": "0x478a94c2b821f4864700e39f22fa6b7584df42a1",
             "symbol": "BREA",
@@ -111,14 +87,6 @@
             "tokenURI": "",
             "tags": [],
             "flowIdentifier": "A.f02b15e11eb3715b.BWAYX_NFT.NFT"
-        },
-        {
-            "chainId": 747,
-            "name": "Canes_Vault shop",
-            "symbol": "CANE",
-            "logoURI": "https://media-local.gigantik.io/canes_vault/square.png",
-            "tokenURI": "",
-            "tags": []
         },
         {
             "chainId": 747,
@@ -192,14 +160,6 @@
         },
         {
             "chainId": 747,
-            "name": "DGD shop",
-            "symbol": "DGD ",
-            "logoURI": "https://media-local.gigantik.io/dgd/square.png",
-            "tokenURI": "",
-            "tags": []
-        },
-        {
-            "chainId": 747,
             "name": "Dimension X",
             "address": "0x1fafb71a650e8e923bef6616036379310de629b3",
             "symbol": "DIME",
@@ -237,14 +197,6 @@
             "tokenURI": "",
             "tags": [],
             "flowIdentifier": "A.a039bd7d55a96c0c.DriverzNFT.NFT"
-        },
-        {
-            "chainId": 747,
-            "name": "Fantastec SWAP",
-            "symbol": "FANT",
-            "logoURI": "https://bafkreihvx3vfgnpn4ygfdcq4w7pdlamw4maasok7xuzcfoutm3lbitwprm.ipfs.nftstorage.link/",
-            "tokenURI": "",
-            "tags": []
         },
         {
             "chainId": 747,
@@ -318,14 +270,6 @@
         },
         {
             "chainId": 747,
-            "name": "Flowverse Mystery Pass",
-            "symbol": "FLOW",
-            "logoURI": "https://flowverse-mystery-pass.s3.filebase.com/mainnet/squareImage.jpg",
-            "tokenURI": "",
-            "tags": []
-        },
-        {
-            "chainId": 747,
             "name": "Flowverse Shirt",
             "address": "0xeb073e026713a4c3b06c930f81f2057dfbdb513f",
             "symbol": "FLOW",
@@ -343,14 +287,6 @@
             "tokenURI": "",
             "tags": [],
             "flowIdentifier": "A.ce4c02539d1fabe8.FlowverseSocks.NFT"
-        },
-        {
-            "chainId": 747,
-            "name": "Treasures by Flowverse",
-            "symbol": "TREA",
-            "logoURI": "https://flowverse-treasures.s3.filebase.com/mainnet/collectionSquareImage.png",
-            "tokenURI": "",
-            "tags": []
         },
         {
             "chainId": 747,
@@ -721,14 +657,6 @@
             "tokenURI": "",
             "tags": [],
             "flowIdentifier": "A.329feb3ab062d289.UFC_NFT.NFT"
-        },
-        {
-            "chainId": 747,
-            "name": "Wearables",
-            "symbol": "WEAR",
-            "logoURI": "https://ipfs.io/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb",
-            "tokenURI": "",
-            "tags": []
         },
         {
             "chainId": 747,
