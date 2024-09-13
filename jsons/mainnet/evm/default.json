@@ -3,55 +3,465 @@
   "network": "mainnet",
   "chainId": 747,
   "tokens": [
-     {
-        "chainId": 747,
-        "address": "0x6f90ceF53868878be7a2eDBF41D715de09851b54",
-        "symbol": "DUST",
-        "name": "Flovatar Dust",
-        "decimals": 18,
-        "logoURI": "http://images.flovatar.com/logo-round.png",
-        "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
-        "tags": []
-      },
-      {
-        "chainId": 747,
-        "address": "0x5598c0652B899EB40f169Dd5949BdBE0BF36ffDe",
-        "symbol": "stFLOW",
-        "name": "Liquid Staked Flow",
-        "decimals": 18,
-        "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
-        "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
-        "tags": []
-      },
-      {
-        "chainId": 747,
-        "address": "0xEC0F7E75128781c2924Ad907A379909Ae531d050",
-        "symbol": "LOPPY",
-        "name": "Sloppy Stakes",
-        "decimals": 18,
-        "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
-        "flowIdentifier": "A.53f389d96fb4ce5e.SloppyStakes.Vault",
-        "tags": []
-      },
-      {
-        "chainId": 747,
-        "address": "0x76A56657d20f572872A81b75530c905fD9F845e5",
-        "symbol": "BR",
-        "name": "brasil",
-        "decimals": 18,
-        "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
-        "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
-        "tags": []
-      },
-      {
-        "chainId": 747,
-        "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
-        "symbol": "WFLOW",
-        "name": "Wrapped Flow",
-        "decimals": 18,
-        "logoURI": "",
-        "tags": []
-      }
+    {
+      "chainId": 747,
+      "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
+      "symbol": "ADU",
+      "name": "All Day Unlimited",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
+      "flowIdentifier": "A.e452a2f5665728f5.ADUToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x3a33c904c132822ce01948ce318c15988727d1db",
+      "symbol": "JUICE",
+      "name": "JUICE by aiSports",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreidrywo4xhmfqtzjbqxplwjfwhuvifsfquc7q7zoysg6bdrxjbxa5e",
+      "flowIdentifier": "A.9db94c9564243ba7.aiSportsJuice.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xd2bff0d1afc88849c012d08d16906065303977af",
+      "symbol": "BFC",
+      "name": "Ballerz FC",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
+      "flowIdentifier": "A.4ea047c3e73ca460.BallerzFC.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
+      "symbol": "PUSS",
+      "name": "Beaver",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/pIwQW2b.png",
+      "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x439b028e1de93f41d1aed6b6caf4b5900497105c",
+      "symbol": "BLT",
+      "name": "Blocto Token",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.0f9df91c9121c460.BloctoToken/logo.png",
+      "flowIdentifier": "A.0f9df91c9121c460.BloctoToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x76a56657d20f572872a81b75530c905fd9f845e5",
+      "symbol": "BR",
+      "name": "Brasil",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
+      "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceAVAX",
+      "name": "Avalanche (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceAVAX/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceBNB",
+      "name": "Binance Coin (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceBNB/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceBUSD",
+      "name": "Binance USD (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceBUSD/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceDAI",
+      "name": "Dai Stablecoin (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceDAI/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceFTM",
+      "name": "Fantom (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceFTM/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceMATIC",
+      "name": "Matic Token (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceMATIC/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceUSDT",
+      "name": "Tether USD (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceUSDT/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceWBTC",
+      "name": "Wrapped BTC (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceWBTC/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "ceWETH",
+      "name": "Wrapped Ether (Celer)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceWETH/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x7854ed61f74595bdd232e953764d6c9a626b8e9a",
+      "symbol": "DAMO",
+      "name": "DA.Marijuana.O",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
+      "flowIdentifier": "A.3399d7c6c609b7e5.DAMO420.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "OLDO",
+      "name": "Seniors of the flow",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/36SU1HXzIwMj1721128795777",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xadb17e4751af7c5c4784275910b1746d268f57e8",
+      "symbol": "TBH",
+      "name": "Bohao Token",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/12SEVBRC5qcG1720669462541",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "BIFF",
+      "name": "BIFF 2 THE FUTURE",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/12QklGRi5qcG1721060623168",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "RUG",
+      "name": "RUG",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/12UlVHLmpwZw1720687769219",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "TIT",
+      "name": "Tit Token",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/8Mi5wbmc=1723120086130",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "BUCKSY",
+      "name": "cryptocat",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/40UG9saXNoXz1721047112447",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
+      "symbol": "TRUMP",
+      "name": "Trump 2024",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
+      "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/28MDQuMDcuMj1721708675913",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xcb0febe5211e2abff3a49a87dc81c30e4dd0e87a",
+      "symbol": "FIX",
+      "name": "Fixes World",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/24bG9nby01MT1720627439281",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "RDB",
+      "name": "Ricky Dragoon on Bitcoin",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/20SU1HXzA1MD1721051954174",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "RND",
+      "name": "Random Coin",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/16cmFuZG9tLn1720670911873",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "CAM",
+      "name": "Scammy coin",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/16UG9vXzI5Lm1720730336857",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "VENUS",
+      "name": "Venus",
+      "decimals": 18,
+      "logoURI": "https://static.fixes.world/16cmVzdWx0Ln1721059951002",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x6f90cef53868878be7a2edbf41d715de09851b54",
+      "symbol": "DUST",
+      "name": "Flovatar DUST",
+      "decimals": 18,
+      "logoURI": "http://images.flovatar.com/logo-round.png",
+      "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060",
+      "symbol": "HIT",
+      "name": "Flow Blockchain $hit Coin",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
+      "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x0000000000000000000000010000000000000000",
+      "symbol": "FLOW",
+      "name": "Flow",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x8b968e49ee13bd481d77e48d674c30f862ff5cd8",
+      "symbol": "FUSD",
+      "name": "FUSD(Deprecated)",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
+      "flowIdentifier": "A.3c5959b568896393.FUSD.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449",
+      "symbol": "MLC",
+      "name": "Mainledger",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
+      "flowIdentifier": "A.fd1ccaaae39d0e79.Mainledger.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x4dcdd1b9a5103fa5f13cc4c3b758e05ffaccb4dd",
+      "symbol": "MVP",
+      "name": "Pet Jokic's Horses",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
+      "flowIdentifier": "A.6fd2465f3a22e34c.PetJokicsHorses.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xef230c189e5d687377911a3f11ebe4e250d4ac72",
+      "symbol": "PKR",
+      "name": "Poker time",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreic46yqws7xfq3sytyim7s3naf2wpjhvp3ufpcussfmqbgrna766tu",
+      "flowIdentifier": "A.fd1ccaaae39d0e79.Pokertime.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "MOKE",
+      "name": "Puff Palz",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafybeic24hbznfwsmknsci7kqmt6n2xzu4veui7lzke2bueidthbs5vmb4",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
+      "symbol": "REVV",
+      "name": "REVV",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
+      "flowIdentifier": "A.d01e482eb680ec9f.REVV.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "RLY",
+      "name": "Rally",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.RLY/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xec0f7e75128781c2924ad907a379909ae531d050",
+      "symbol": "LOPPY",
+      "name": "Sloppy Stakes",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
+      "flowIdentifier": "A.53f389d96fb4ce5e.SloppyStakes.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
+      "symbol": "STARLY",
+      "name": "Starly Token",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.142fa6570b62fd97.StarlyToken/logo.png",
+      "flowIdentifier": "A.142fa6570b62fd97.StarlyToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x5598c0652b899eb40f169dd5949bdbe0bf36ffde",
+      "symbol": "stFLOW",
+      "name": "Liquid Staked Flow",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
+      "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "symbol": "tUSDT",
+      "name": "Teleported Tether Token",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
+      "flowIdentifier": "A.cfdd90d4a00f7b5b.TeleportedTetherToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x42d8962e5e2305367281570f0a8323983e442ae9",
+      "symbol": "WOLF",
+      "name": "The Wolf of Flow",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/Vq4POe3.png",
+      "flowIdentifier": "A.8259c73e487422d7.TheWolfofFlow.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "TIT",
+      "name": "TIT Token",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1775300465405636608/2Lyf_CaB_400x400.jpg",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x1eca8e09bc745143824853575b132559cf0b2ed5",
+      "symbol": "BETA",
+      "name": "Top Shot $BETA",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/9MWLZ47.png",
+      "flowIdentifier": "A.ee09029f1dbcd9d1.TopShotBETA.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "USDCf",
+      "name": "USDC (Flow)",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
+      "symbol": "UJLC",
+      "name": "Utah Jazz Legends Club",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
+      "flowIdentifier": "A.cbba4d41aef83fe3.UtahJazzLegendsClub.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
+      "symbol": "SUCK",
+      "name": "Vampire",
+      "decimals": 18,
+      "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
+      "flowIdentifier": "A.67daad91e3782c80.Vampire.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xe83b56c8b96d02ac0add53f69267abd231f3c425",
+      "symbol": "VROOM",
+      "name": "Vroom",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f887ece39166906e.VroomToken/logo.png",
+      "flowIdentifier": "A.f887ece39166906e.VroomToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "symbol": "LIGA",
+      "name": "weareliga",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmSkMKUyMfBj8gpMFyRPNPMWXbviiw3Z4Z95yBA5ka72cf",
+      "tags": []
+    }
   ],
   "totalAmount": 0,
   "filterType": "ALL",
