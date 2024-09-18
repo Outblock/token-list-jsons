@@ -9,7 +9,7 @@
       "symbol": "USDC.e",
       "name": "Bridged USDC (Celer)",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
       "tags": []
     },
