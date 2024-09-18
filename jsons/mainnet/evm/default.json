@@ -5,6 +5,16 @@
   "tokens": [
     {
       "chainId": 747,
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC (Celer)",
+      "decimals": 6,
+      "logoURI": "",
+      "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 747,
       "address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
       "symbol": "ADU",
       "name": "All Day Unlimited",
