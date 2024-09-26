@@ -907,8 +907,8 @@
         "receiver": "/public/usdcFlowReceiver",
         "balance": "/public/usdcFlowMetadata"
       },
-      "symbol": "USDCf",
-      "name": "USDC (Flow)",
+      "symbol": "USDC.e",
+      "name": "USDC.e (Flow)",
       "description": "This fungible token representation of Axelar USDC is bridged from Flow EVM.",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/FlowFans/flow-token-list/main/token-registry/A.f1ab99c82dee3526.USDCFlow/USDCf.png",
