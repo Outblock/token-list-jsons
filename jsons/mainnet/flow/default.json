@@ -924,9 +924,30 @@
       },
       "evmAddress": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52",
       "evm_address": "0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault",
+        "receiver": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbReceiver",
+        "balance": "/public/EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdbVault"
+      },
+      "evmAddress": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "evm_address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "symbol": "ankrFLOWEVM",
+      "name": "Ankr Staked FLOW EVM",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "decimals": 8,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      }
     }
   ],
-  "totalAmount": 49,
+  "totalAmount": 50,
   "filterType": "ALL",
   "timestamp": "2024-05-13T05:55:05.604Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
