@@ -252,6 +252,16 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f887ece39166906e.VroomToken/logo.png",
       "flowIdentifier": "A.f887ece39166906e.VroomToken.Vault",
       "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb",
+      "symbol": "ankrFLOWEVM",
+      "name": "Ankr Staked FLOW EVM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Outblock/Assets/refs/heads/main/ft/ankrFLOW/logo.png",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb.Vault",
+      "tags": []
     }
   ],
   "totalAmount": 0,
