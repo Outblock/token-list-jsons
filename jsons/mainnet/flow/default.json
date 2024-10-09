@@ -940,7 +940,7 @@
       "name": "Ankr Staked FLOW EVM",
       "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 1b97100ea1d7126c4d60027e231ea4cb25314bdb",
       "decimals": 8,
-      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "logoURI": "https://raw.githubusercontent.com/Outblock/Assets/refs/heads/main/ft/ankrFLOW/logo.png",
       "tags": [],
       "extensions": {
         "website": "https://port.flow.com"
