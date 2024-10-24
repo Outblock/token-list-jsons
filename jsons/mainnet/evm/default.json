@@ -262,6 +262,16 @@
       "logoURI": "https://raw.githubusercontent.com/Outblock/Assets/refs/heads/main/ft/ankrFLOW/logo.png",
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb.Vault",
       "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+      "symbol": "WFLOW",
+      "name": "Wrapped Flow",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "flowIdentifier": "",
+      "tags": []
     }
   ],
   "totalAmount": 0,
