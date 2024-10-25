@@ -95,6 +95,25 @@
         "website": "https://docs.axelar.dev/learn/axlusdc",
         "displaySource": "0xa51d7fe9e0080662"
       }
+    },
+    {
+      "chainId": 545,
+      "address": "0xe45c64ecfe31e465",
+      "contractName": "stFlowToken",
+      "path": {
+        "vault": "/storage/stFlowTokenVault",
+        "receiver": "/public/stFlowTokenReceiver",
+        "balance": "/public/stFlowTokenBalance"
+      },
+      "symbol": "stFlow",
+      "name": "Increment Staked FLOW",
+      "description": "stFlow is a liquid staking token representing the underlying staked flow position, allowing users to earn staking rewards and enjoy unlocked liquidity to participate in Flow's DeFi ecosystem at the same time.",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://app.increment.fi/"
+      }
     }
   ],
   "totalAmount": 4,
