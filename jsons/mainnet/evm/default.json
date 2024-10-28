@@ -272,6 +272,16 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
       "flowIdentifier": "",
       "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x68eb683a393C8a1C816255b4FC4B89d73C52AD4b",
+      "symbol": "PUMP",
+      "name": "pump.flow",
+      "decimals": 18,
+      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v…s/images/b34b8cfc-3668-4572-a434-e73e3aa82338.jpg",
+      "flowIdentifier": "",
+      "tags": []
     }
   ],
   "totalAmount": 0,
