@@ -715,7 +715,7 @@
         "receiver": "/public/stFlowTokenReceiver",
         "balance": "/public/stFlowTokenBalance"
       },
-      "symbol": "stFLOW",
+      "symbol": "stFlow",
       "name": "Liquid Staked Flow",
       "description": "",
       "decimals": 8,
