@@ -282,6 +282,26 @@
       "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/b34b8cfc-3668-4572-a434-e73e3aa82338.jpg",
       "flowIdentifier": "",
       "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x995258cea49c25595cd94407fad9e99b81406a84",
+      "symbol": "AVO",
+      "name": "Avocado",
+      "decimals": 18,
+      "logoURI": "https://swap.kittypunch.xyz/avo.png",
+      "flowIdentifier": "",
+      "tags": []
+    },
+    {
+      "chainId": 747,
+      "address": "0x6a2cd141d75864944318acf272443febc54855a9",
+      "symbol": "VINYL",
+      "name": "VINYL",
+      "decimals": 18,
+      "logoURI": "https://swap.kittypunch.xyz/vinyl.png",
+      "flowIdentifier": "",
+      "tags": []
     }
   ],
   "totalAmount": 0,
