@@ -307,7 +307,7 @@
       "chainId": 747,
       "address": "0xd8ad8ae8375aa31bff541e17dc4b4917014ebdaa",
       "symbol": "BETA",
-      "name": "BETA (BETA)",
+      "name": "BETA",
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/BETA.png",
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaa.Vault",
