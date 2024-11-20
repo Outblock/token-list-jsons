@@ -219,7 +219,7 @@
       "symbol": "BETA",
       "name": "Top Shot $BETA",
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/9MWLZ47.png",
+      "logoURI": "https://swap.kittypunch.xyz/BETA.png",
       "flowIdentifier": "A.ee09029f1dbcd9d1.TopShotBETA.Vault",
       "tags": []
     },
@@ -269,7 +269,7 @@
       "symbol": "WFLOW",
       "name": "Wrapped Flow",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "logoURI": "https://swap.kittypunch.xyz/flow.png",
       "flowIdentifier": "",
       "tags": []
     },
@@ -279,7 +279,7 @@
       "symbol": "PUMP",
       "name": "pump.flow",
       "decimals": 18,
-      "logoURI": "https://fcljjsnuzjacwqgiqiib.supabase.co/storage/v1/object/public/token_images/images/b34b8cfc-3668-4572-a434-e73e3aa82338.jpg",
+      "logoURI": "https://swap.kittypunch.xyz/PUMP.png",
       "flowIdentifier": "",
       "tags": []
     },
