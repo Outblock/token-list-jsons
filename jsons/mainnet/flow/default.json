@@ -945,6 +945,27 @@
       "extensions": {
         "website": "https://port.flow.com"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaa",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaaVault",
+        "receiver": "/public/EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaaReceiver",
+        "balance": "/public/EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaaVault"
+      },
+      "evmAddress": "0xd8ad8ae8375aa31bff541e17dc4b4917014ebdaa",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "BETA",
+      "name": "BETA",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d8ad8ae8375aa31bff541e17dc4b4917014ebdaa",
+      "decimals": 8,
+      "logoURI": "https://i.imgur.com/9MWLZ47.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://topshotbeta.com/",
+      }
     }
   ],
   "totalAmount": 50,
