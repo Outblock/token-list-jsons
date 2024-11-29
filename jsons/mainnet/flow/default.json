@@ -75,7 +75,7 @@
       "extensions": {
         "discord": "VKvUxMwu5r",
         "twitter": "aisportspro",
-        "website": "www.aisportspro.com/"
+        "website": "https://www.aisportspro.com/"
       },
       "evmAddress": "0x3a33c904c132822ce01948ce318c15988727d1db",
       "evm_address": "0x3a33c904c132822ce01948ce318c15988727d1db"
@@ -123,7 +123,7 @@
       "extensions": {
         "discord": "",
         "twitter": "beavercoinflow",
-        "website": "beavercoin.io"
+        "website": "https://beavercoin.io"
       },
       "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
       "evm_address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056"
@@ -436,7 +436,7 @@
       "extensions": {
         "discord": "",
         "twitter": "",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.3399d7c6c609b7e5.DAMO420"
       },
       "evmAddress": "0x7854ed61f74595bdd232e953764d6c9a626b8e9a",
       "evm_address": "0x7854ed61f74595bdd232e953764d6c9a626b8e9a"
@@ -505,7 +505,7 @@
       "extensions": {
         "twitter": "",
         "discord": "",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.d3b62ffbbc632f5a.FlowBlockchainhitCoin"
       },
       "evmAddress": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060",
       "evm_address": "0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060"
@@ -553,7 +553,7 @@
       "extensions": {
         "discord": "",
         "twitter": "",
-        "website": "mainledger.net/",
+        "website": "https://mainledger.net/",
         "displaySource": "0xa2de93114bae3e73"
       },
       "evmAddress": "0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449",
@@ -577,7 +577,7 @@
       "extensions": {
         "twitter": "",
         "discord": "",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.6fd2465f3a22e34c.PetJokicsHorses"
       },
       "evmAddress": "0x4dcdd1b9a5103fa5f13cc4c3b758e05ffaccb4dd",
       "evm_address": "0x4dcdd1b9a5103fa5f13cc4c3b758e05ffaccb4dd"
@@ -600,7 +600,7 @@
       "extensions": {
         "twitter": "",
         "discord": "dMQfs3WA",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.fd1ccaaae39d0e79.Pokertime"
       },
       "evmAddress": "0xef230c189e5d687377911a3f11ebe4e250d4ac72",
       "evm_address": "0xef230c189e5d687377911a3f11ebe4e250d4ac72"
@@ -777,7 +777,7 @@
       "extensions": {
         "discord": "",
         "twitter": "thewolfofflow",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.8259c73e487422d7.TheWolfofFlow"
       },
       "evmAddress": "0x42d8962e5e2305367281570f0a8323983e442ae9",
       "evm_address": "0x42d8962e5e2305367281570f0a8323983e442ae9"
@@ -800,7 +800,7 @@
       "extensions": {
         "discord": "",
         "twitter": "TopShotBETA",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.ee09029f1dbcd9d1.TopShotBETA"
       },
       "evmAddress": "0x1eca8e09bc745143824853575b132559cf0b2ed5",
       "evm_address": "0x1eca8e09bc745143824853575b132559cf0b2ed5"
@@ -847,7 +847,7 @@
       "extensions": {
         "twitter": "",
         "discord": "",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.67daad91e3782c80.Vampire"
       },
       "evmAddress": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96",
       "evm_address": "0x4278b3080d062f4104216d2d5e6e11b367ecfc96"
@@ -868,7 +868,7 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f887ece39166906e.VroomToken/logo.png",
       "tags": [],
       "extensions": {
-        "website": "",
+        "website": "https://www.flowscan.io/contract/A.f887ece39166906e.VroomToken",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
@@ -893,7 +893,7 @@
       "extensions": {
         "discord": "",
         "twitter": "",
-        "website": ""
+        "website": "https://www.flowscan.io/contract/A.ead892083b3e2c6c.DapperUtilityCoin"
       },
       "evmAddress": "0xcd950ff023f6595824248f3d54e69148c19b1597",
       "evm_address": "0xcd950ff023f6595824248f3d54e69148c19b1597"
