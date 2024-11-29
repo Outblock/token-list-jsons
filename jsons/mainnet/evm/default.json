@@ -11,7 +11,8 @@
       "decimals": 6,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
       "flowIdentifier": "A.f1ab99c82dee3526.USDCFlow.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52"
     },
     {
       "chainId": 747,
@@ -21,7 +22,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.e452a2f5665728f5.ADUToken/logo.png",
       "flowIdentifier": "A.e452a2f5665728f5.ADUToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a"
     },
     {
       "chainId": 747,
@@ -31,7 +33,8 @@
       "decimals": 18,
       "logoURI": "https://nftstorage.link/ipfs/bafkreidrywo4xhmfqtzjbqxplwjfwhuvifsfquc7q7zoysg6bdrxjbxa5e",
       "flowIdentifier": "A.9db94c9564243ba7.aiSportsJuice.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x3a33c904c132822ce01948ce318c15988727d1db"
     },
     {
       "chainId": 747,
@@ -41,7 +44,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
       "flowIdentifier": "A.4ea047c3e73ca460.BallerzFC.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xd2bff0d1afc88849c012d08d16906065303977af"
     },
     {
       "chainId": 747,
@@ -51,7 +55,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/pIwQW2b.png",
       "flowIdentifier": "A.687e1a7aef17b78b.Beaver.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xcd2336c1a78662c1302eb916ff3d49a073af2056"
     },
     {
       "chainId": 747,
@@ -61,7 +66,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.0f9df91c9121c460.BloctoToken/logo.png",
       "flowIdentifier": "A.0f9df91c9121c460.BloctoToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x439b028e1de93f41d1aed6b6caf4b5900497105c"
     },
     {
       "chainId": 747,
@@ -71,7 +77,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
       "flowIdentifier": "A.7bf07d719dcb8480.brasil.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x76a56657d20f572872a81b75530c905fd9f845e5"
     },
     {
       "chainId": 747,
@@ -81,7 +88,8 @@
       "decimals": 18,
       "logoURI": "https://nftstorage.link/ipfs/bafybeihxwtp3pzuusuvzclt2ptosk3uvyhqbirdu347gblzwv73g33r3e4",
       "flowIdentifier": "A.3399d7c6c609b7e5.DAMO420.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x7854ed61f74595bdd232e953764d6c9a626b8e9a"
     },
     {
       "chainId": 747,
@@ -91,7 +99,8 @@
       "decimals": 18,
       "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
       "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
     },
     {
       "chainId": 747,
@@ -101,7 +110,8 @@
       "decimals": 18,
       "logoURI": "http://images.flovatar.com/logo-round.png",
       "flowIdentifier": "A.921ea449dffec68a.FlovatarDustToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x6f90cef53868878be7a2edbf41d715de09851b54"
     },
     {
       "chainId": 747,
@@ -111,7 +121,8 @@
       "decimals": 18,
       "logoURI": "https://nftstorage.link/ipfs/bafkreihgkcx73e444ehgfwdwthhs7ghvhwv7hnb65csuwsvskk7v6fhsu4",
       "flowIdentifier": "A.d3b62ffbbc632f5a.FlowBlockchainhitCoin.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x59516b9b39fd75f6acc2dcc7bd3d63c4d1fff060"
     },
     {
       "chainId": 747,
@@ -121,7 +132,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.3c5959b568896393.FUSD/logo.png",
       "flowIdentifier": "A.3c5959b568896393.FUSD.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x8b968e49ee13bd481d77e48d674c30f862ff5cd8"
     },
     {
       "chainId": 747,
@@ -131,7 +143,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.fd1ccaaae39d0e79.Mainledger/logo.png",
       "flowIdentifier": "A.fd1ccaaae39d0e79.Mainledger.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xe1a90d7d9509c2cef116e7c2cd6d4b1ea1e32449"
     },
     {
       "chainId": 747,
@@ -141,7 +154,8 @@
       "decimals": 18,
       "logoURI": "https://ipfs.io/ipfs/QmYQ4xQ3nDGvz9ndzoGKTuACj2LaJsLQ8ro8tvamoDcCGd",
       "flowIdentifier": "A.6fd2465f3a22e34c.PetJokicsHorses.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x4dcdd1b9a5103fa5f13cc4c3b758e05ffaccb4dd"
     },
     {
       "chainId": 747,
@@ -151,7 +165,8 @@
       "decimals": 18,
       "logoURI": "https://nftstorage.link/ipfs/bafkreic46yqws7xfq3sytyim7s3naf2wpjhvp3ufpcussfmqbgrna766tu",
       "flowIdentifier": "A.fd1ccaaae39d0e79.Pokertime.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xef230c189e5d687377911a3f11ebe4e250d4ac72"
     },
     {
       "chainId": 747,
@@ -161,7 +176,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
       "flowIdentifier": "A.d01e482eb680ec9f.REVV.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57"
     },
     {
       "chainId": 747,
@@ -171,7 +187,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
       "flowIdentifier": "A.53f389d96fb4ce5e.SloppyStakes.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xec0f7e75128781c2924ad907a379909ae531d050"
     },
     {
       "chainId": 747,
@@ -181,7 +198,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.142fa6570b62fd97.StarlyToken/logo.png",
       "flowIdentifier": "A.142fa6570b62fd97.StarlyToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51"
     },
     {
       "chainId": 747,
@@ -191,7 +209,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d6f80565193ad727.stFlowToken/logo.png",
       "flowIdentifier": "A.d6f80565193ad727.stFlowToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x5598c0652b899eb40f169dd5949bdbe0bf36ffde"
     },
     {
       "chainId": 747,
@@ -201,7 +220,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
       "flowIdentifier": "A.cfdd90d4a00f7b5b.TeleportedTetherToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
     },
     {
       "chainId": 747,
@@ -211,7 +231,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/Vq4POe3.png",
       "flowIdentifier": "A.8259c73e487422d7.TheWolfofFlow.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x42d8962e5e2305367281570f0a8323983e442ae9"
     },
     {
       "chainId": 747,
@@ -221,7 +242,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/9MWLZ47.png",
       "flowIdentifier": "A.ee09029f1dbcd9d1.TopShotBETA.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x1eca8e09bc745143824853575b132559cf0b2ed5"
     },
     {
       "chainId": 747,
@@ -231,7 +253,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "flowIdentifier": "A.cbba4d41aef83fe3.UtahJazzLegendsClub.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xff827ae7ce750ef0037aea09f509f9755ae20275"
     },
     {
       "chainId": 747,
@@ -241,7 +264,8 @@
       "decimals": 18,
       "logoURI": "https://nftstorage.link/ipfs/bafkreidbnf5tonl24v6akeryw23vvqxsepuv3csmmzwdeafdph6nk5vtuu",
       "flowIdentifier": "A.67daad91e3782c80.Vampire.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x4278b3080d062f4104216d2d5e6e11b367ecfc96"
     },
     {
       "chainId": 747,
@@ -251,7 +275,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.f887ece39166906e.VroomToken/logo.png",
       "flowIdentifier": "A.f887ece39166906e.VroomToken.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xe83b56c8b96d02ac0add53f69267abd231f3c425"
     },
     {
       "chainId": 747,
@@ -261,7 +286,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Outblock/Assets/refs/heads/main/ft/ankrFLOW/logo.png",
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_1b97100ea1d7126c4d60027e231ea4cb25314bdb.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x1b97100ea1d7126c4d60027e231ea4cb25314bdb"
     },
     {
       "chainId": 747,
@@ -271,7 +297,8 @@
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/flow.png",
       "flowIdentifier": "",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e"
     },
     {
       "chainId": 747,
@@ -281,7 +308,8 @@
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/PUMP.png",
       "flowIdentifier": "",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x68eb683a393C8a1C816255b4FC4B89d73C52AD4b"
     },
     {
       "chainId": 747,
@@ -291,7 +319,8 @@
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/avo.png",
       "flowIdentifier": "",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x995258cea49c25595cd94407fad9e99b81406a84"
     },
     {
       "chainId": 747,
@@ -301,7 +330,8 @@
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/vinyl.png",
       "flowIdentifier": "",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0x6a2cd141d75864944318acf272443febc54855a9"
     },
     {
       "chainId": 747,
@@ -311,7 +341,8 @@
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/BETA.png",
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaa.Vault",
-      "tags": []
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xd8ad8ae8375aa31bff541e17dc4b4917014ebdaa"
     }
   ],
   "totalAmount": 0,
