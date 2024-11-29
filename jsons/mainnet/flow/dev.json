@@ -1103,8 +1103,8 @@
         "receiver": "/public/TopShotBETAReceiver",
         "balance": "/public/TopShotBETAMetadata"
       },
-      "symbol": "BETA",
-      "name": "Top Shot $BETA",
+      "symbol": "BETA.C",
+      "name": "BETA.Classic",
       "description": "Top Shots Rookie Debut Meme Coin",
       "decimals": 8,
       "logoURI": "https://nftstorage.link/ipfs/bafkreifkjlkzfjml77ogwnxnbqbeixbxau6lyubwtrcfsi3uwaeep664mu",
@@ -1113,7 +1113,9 @@
         "discord": "",
         "twitter": "TopShotBETA",
         "website": ""
-      }
+      },
+      "evmAddress": "0x1eca8e09bc745143824853575b132559cf0b2ed5",
+      "evm_address": "0x1eca8e09bc745143824853575b132559cf0b2ed5"
     },
     {
       "chainId": 747,
