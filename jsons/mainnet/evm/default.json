@@ -343,6 +343,17 @@
       "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d8ad8ae8375aa31bff541e17dc4b4917014ebdaa.Vault",
       "tags": [],
       "website": "https://evm.flowscan.io/token/0xd8ad8ae8375aa31bff541e17dc4b4917014ebdaa"
+    },
+    {
+      "chainId": 747,
+      "address": "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
+      "symbol": "FROTH",
+      "name": "Froth (FROTH)",
+      "decimals": 18,
+      "logoURI": "https://swap.kittypunch.xyz/froth.png",
+      "flowIdentifier": "",
+      "tags": [],
+      "website": "https://evm.flowscan.io/token/0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
     }
   ],
   "totalAmount": 0,
