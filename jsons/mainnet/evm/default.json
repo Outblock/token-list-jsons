@@ -318,7 +318,7 @@
       "name": "Avocado",
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/avo.png",
-      "flowIdentifier": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84.Vault",
       "tags": [],
       "website": "https://evm.flowscan.io/token/0x995258cea49c25595cd94407fad9e99b81406a84"
     },
@@ -351,7 +351,7 @@
       "name": "Froth (FROTH)",
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/froth.png",
-      "flowIdentifier": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba.Vault",
       "tags": [],
       "website": "https://evm.flowscan.io/token/0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
     }
