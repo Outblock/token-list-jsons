@@ -991,7 +991,7 @@
     {
       "chainId": 747,
       "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84",
+      "contractName": "EVMVMBridgedToken_0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
       "path": {
         "vault": "/storage/EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04baVault",
         "receiver": "/public/EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04baReceiver",
