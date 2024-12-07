@@ -966,6 +966,48 @@
       "extensions": {
         "website": "https://topshotbeta.com/"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Vault",
+        "receiver": "/public/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Receiver",
+        "balance": "/public/EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84Vault"
+      },
+      "evmAddress": "0x995258cea49c25595cd94407fad9e99b81406a84",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "AVO",
+      "name": "Avocado",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://swap.kittypunch.xyz/avo.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.flowscan.io/contract/A.0x1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04baVault",
+        "receiver": "/public/EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04baReceiver",
+        "balance": "/public/EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04baVault"
+      },
+      "evmAddress": "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "FROTH",
+      "name": "Froth (FROTH)",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://swap.kittypunch.xyz/froth.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.flowscan.io/contract/A.0x1e4aa0b87d10b141.EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
+      }
     }
   ],
   "totalAmount": 50,
