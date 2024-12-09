@@ -28,7 +28,7 @@
         "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
         "github": "https://github.com/onflow/flow-core-contracts",
         "twitter": "https://twitter.com/flow_blockchain",
-        "website": "http://flow.com/",
+        "website": "https://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
@@ -528,7 +528,7 @@
         "Deprecated"
       ],
       "extensions": {
-        "website": "http://flow.com/",
+        "website": "https://flow.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
@@ -675,7 +675,7 @@
         "telegram": "https://t.co/E8FzKLuMnH",
         "discord": "https://discord.com/invite/GYV8JRR",
         "twitter": "https://twitter.com/SloppyStakesDAO",
-        "website": "http://sloppystakes.com/",
+        "website": "https://sloppystakes.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       },
@@ -985,7 +985,7 @@
       "logoURI": "https://swap.kittypunch.xyz/avo.png",
       "tags": [],
       "extensions": {
-        "website": "https://www.flowscan.io/contract/A.0x1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84"
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84"
       }
     },
     {
@@ -1006,7 +1006,49 @@
       "logoURI": "https://swap.kittypunch.xyz/froth.png",
       "tags": [],
       "extensions": {
-        "website": "https://www.flowscan.io/contract/A.0x1e4aa0b87d10b141.EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_6a2cd141d75864944318acf272443febc54855a9",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_6a2cd141d75864944318acf272443febc54855a9Vault",
+        "receiver": "/public/EVMVMBridgedToken_6a2cd141d75864944318acf272443febc54855a9Receiver",
+        "balance": "/public/EVMVMBridgedToken_6a2cd141d75864944318acf272443febc54855a9Vault"
+      },
+      "evmAddress": "0x6a2cd141d75864944318acf272443febc54855a9",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "VINYL",
+      "name": "VINYL",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://swap.kittypunch.xyz/vinyl.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_6a2cd141d75864944318acf272443febc54855a9"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_68eb683a393c8a1c816255b4fc4b89d73c52ad4b",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_68eb683a393c8a1c816255b4fc4b89d73c52ad4bVault",
+        "receiver": "/public/EVMVMBridgedToken_68eb683a393c8a1c816255b4fc4b89d73c52ad4bReceiver",
+        "balance": "/public/EVMVMBridgedToken_68eb683a393c8a1c816255b4fc4b89d73c52ad4bVault"
+      },
+      "evmAddress": "0x68eb683a393c8a1c816255b4fc4b89d73c52ad4b",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "PUMP",
+      "name": "pump.flow",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://swap.kittypunch.xyz/PUMP.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.pumpflow.meme/"
       }
     }
   ],
