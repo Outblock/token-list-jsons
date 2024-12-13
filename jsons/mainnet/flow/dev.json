@@ -183,10 +183,9 @@
       "contractName": "ceAVAX",
       "path": {
         "vault": "/storage/ceAVAXVault",
-        "receiver": "/public/ceAVAXVault",
-        "balance": "/public/ceAVAXReceiver"
+        "receiver": "/public/ceAVAXReceiver",
+        "balance": "/public/ceAVAXBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceAVAX",
       "name": "Avalanche (Celer)",
       "description": "",
@@ -199,7 +198,8 @@
         "bridgeContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "coingeckoId": "avalanche-2",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -210,10 +210,9 @@
       "contractName": "ceBNB",
       "path": {
         "vault": "/storage/ceBNBVault",
-        "receiver": "/public/ceBNBVault",
-        "balance": "/public/ceBNBReceiver"
+        "receiver": "/public/ceBNBReceiver",
+        "balance": "/public/ceBNBBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceBNB",
       "name": "Binance Coin (Celer)",
       "description": "",
@@ -223,10 +222,11 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "coingeckoId": "binancecoin",
+        "bridgeContract": "https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -237,10 +237,9 @@
       "contractName": "ceBUSD",
       "path": {
         "vault": "/storage/ceBUSDVault",
-        "receiver": "/public/ceBUSDVault",
-        "balance": "/public/ceBUSDReceiver"
+        "receiver": "/public/ceBUSDReceiver",
+        "balance": "/public/ceBUSDBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceBUSD",
       "name": "Binance USD (Celer)",
       "description": "",
@@ -250,10 +249,11 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "coingeckoId": "binance-usd",
         "bridgeContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "coingeckoId": "binance-usd",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -264,10 +264,9 @@
       "contractName": "ceDAI",
       "path": {
         "vault": "/storage/ceDAIVault",
-        "receiver": "/public/ceDAIVault",
-        "balance": "/public/ceDAIReceiver"
+        "receiver": "/public/ceDAIReceiver",
+        "balance": "/public/ceDAIBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceDAI",
       "name": "Dai Stablecoin (Celer)",
       "description": "",
@@ -281,7 +280,8 @@
         "bridgeContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -292,10 +292,9 @@
       "contractName": "ceFTM",
       "path": {
         "vault": "/storage/ceFTMVault",
-        "receiver": "/public/ceFTMVault",
-        "balance": "/public/ceFTMReceiver"
+        "receiver": "/public/ceFTMReceiver",
+        "balance": "/public/ceFTMBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceFTM",
       "name": "Fantom (Celer)",
       "description": "",
@@ -307,7 +306,8 @@
       "extensions": {
         "coingeckoId": "fantom",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -318,10 +318,9 @@
       "contractName": "ceMATIC",
       "path": {
         "vault": "/storage/ceMATICVault",
-        "receiver": "/public/ceMATICVault",
-        "balance": "/public/ceMATICReceiver"
+        "receiver": "/public/ceMATICReceiver",
+        "balance": "/public/ceMATICBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceMATIC",
       "name": "Matic Token (Celer)",
       "description": "",
@@ -333,21 +332,21 @@
       "extensions": {
         "coingeckoId": "matic-network",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
     },
     {
-     "chainId": 747,
+      "chainId": 747,
       "address": "0x231cc0dbbcffc4b7",
       "contractName": "ceUSDT",
       "path": {
         "vault": "/storage/ceUSDTVault",
-        "receiver": "/public/ceUSDTVault",
-        "balance": "/public/ceUSDTReceiver"
+        "receiver": "/public/ceUSDTReceiver",
+        "balance": "/public/ceUSDTBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceUSDT",
       "name": "Tether USD (Celer)",
       "description": "",
@@ -360,7 +359,8 @@
       "extensions": {
         "coingeckoId": "tether",
         "website": "https://tether.to",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -371,10 +371,9 @@
       "contractName": "ceWBTC",
       "path": {
         "vault": "/storage/ceWBTCVault",
-        "receiver": "/public/ceWBTCVault",
-        "balance": "/public/ceWBTCReceiver"
+        "receiver": "/public/ceWBTCReceiver",
+        "balance": "/public/ceWBTCBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceWBTC",
       "name": "Wrapped BTC (Celer)",
       "description": "",
@@ -384,10 +383,11 @@
         "wrapped-celer"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "coingeckoId": "wrapped-bitcoin",
+        "bridgeContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -398,10 +398,9 @@
       "contractName": "ceWETH",
       "path": {
         "vault": "/storage/ceWETHVault",
-        "receiver": "/public/ceWETHVault",
-        "balance": "/public/ceWETHReceiver"
+        "receiver": "/public/ceWETHReceiver",
+        "balance": "/public/ceWETHBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "ceWETH",
       "name": "Wrapped Ether (Celer)",
       "description": "",
@@ -413,7 +412,8 @@
       "extensions": {
         "coingeckoId": "weth",
         "website": "https://cbridge.celer.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
@@ -629,15 +629,14 @@
       "evm_address": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57"
     },
     {
-     "chainId": 747,
+      "chainId": 747,
       "address": "0x231cc0dbbcffc4b7",
       "contractName": "RLY",
       "path": {
         "vault": "/storage/RLYVault",
-        "receiver": "/public/RLYVault",
-        "balance": "/public/RLYReceiver"
+        "receiver": "/public/RLYReceiver",
+        "balance": "/public/RLYBalance"
       },
-      "flowAddress": "0x231cc0dbbcffc4b7",
       "symbol": "RLY",
       "name": "Rally",
       "description": "",
@@ -649,7 +648,8 @@
       "extensions": {
         "coingeckoId": "rally-2",
         "website": "https://rly.network/",
-        "displaySource": "0xa2de93114bae3e73"
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
       },
       "evmAddress": "",
       "evm_address": ""
