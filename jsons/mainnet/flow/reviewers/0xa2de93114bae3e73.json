@@ -80,8 +80,7 @@
       ],
       "extensions": {
         "coingeckoId": "usd-coin",
-        "twitter": "https://x.com/axelar",
-        "website": "https://docs.axelar.dev/learn/axlusdc",
+        "website": "https://www.circle.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
       }
