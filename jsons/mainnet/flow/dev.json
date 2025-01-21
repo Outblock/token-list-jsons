@@ -443,28 +443,6 @@
     },
     {
       "chainId": 747,
-      "address": "0xa9102e56a8b7a680",
-      "contractName": "FixesFungibleToken",
-      "path": {
-        "vault": "/storage/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Vault",
-        "receiver": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Receiver",
-        "balance": "/public/FixsStandardFT_0xa9102e56a8b7a680TRUMP_Balance"
-      },
-      "symbol": "TRUMP",
-      "name": "Trump 2024",
-      "description": "2024.07.13 @Pennsylvania",
-      "decimals": 8,
-      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
-      "tags": [],
-      "extensions": {
-        "twitter": "https://x.com/wallstreetbets/status/1812255169330950218",
-        "website": "https://linktr.ee/fixes.world/"
-      },
-      "evmAddress": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
-      "evm_address": "0x028be6d9f1df0152b9b8e1caaf88913702802244"
-    },
-    {
-      "chainId": 747,
       "address": "0x921ea449dffec68a",
       "contractName": "FlovatarDustToken",
       "path": {
