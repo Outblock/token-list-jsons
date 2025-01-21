@@ -984,7 +984,7 @@
       "logoURI": "https://swap.kittypunch.xyz/avo.png",
       "tags": [],
       "extensions": {
-        "website": "https://www.flowscan.io/contract/A.0x1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84"
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_995258cea49c25595cd94407fad9e99b81406a84"
       }
     },
     {
@@ -1005,7 +1005,7 @@
       "logoURI": "https://swap.kittypunch.xyz/froth.png",
       "tags": [],
       "extensions": {
-        "website": "https://www.flowscan.io/contract/A.0x1e4aa0b87d10b141.EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_b73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
       }
     },
     {
@@ -1030,6 +1030,27 @@
         "github": "https://github.com/fixes-world",
         "telegram": "https://t.me/fixes_world",
         "website": "https://linktr.ee/fixes.world"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault",
+        "receiver": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Receiver",
+        "balance": "/public/EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760Vault"
+      },
+      "evmAddress": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of d3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/flowevm/0xd3378b419feae4e3a4bb4f3349dba43a1b511760.png?size=xl&key=2f7d83",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760"
       }
     }
   ],

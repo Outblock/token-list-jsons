@@ -418,6 +418,19 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xd3378b419feae4e3a4bb4f3349dba43a1b511760",
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "decimals": 18,
+      "logoURI": "https://swap.kittypunch.xyz/trump.png",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_d3378b419feae4e3a4bb4f3349dba43a1b511760.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://evm.flowscan.io/token/0xd3378b419feae4e3a4bb4f3349dba43a1b511760"
+      }
     }
   ],
   "totalAmount": 0,
