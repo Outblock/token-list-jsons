@@ -109,19 +109,6 @@
     },
     {
       "chainId": 747,
-      "address": "0x028be6d9f1df0152b9b8e1caaf88913702802244",
-      "symbol": "TRUMP",
-      "name": "Trump 2024",
-      "decimals": 18,
-      "logoURI": "https://static.fixes.world/16VFJVTVAuan1720929622589",
-      "flowIdentifier": "A.a9102e56a8b7a680.FixesFungibleToken.Vault",
-      "tags": [],
-      "extensions": {
-        "website": "https://evm.flowscan.io/token/0x028be6d9f1df0152b9b8e1caaf88913702802244"
-      }
-    },
-    {
-      "chainId": 747,
       "address": "0x6f90cef53868878be7a2edbf41d715de09851b54",
       "symbol": "DUST",
       "name": "Flovatar DUST",
