@@ -418,6 +418,19 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0xd3378b419feae4e3a4bb4f3349dba43a1b511760"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x83900c7ffece2a47cac867f87252cdf52bd017a2",
+      "symbol": "PS-V2",
+      "name": "PunchSwap V2",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://evm.flowscan.io/token/0x83900c7ffece2a47cac867f87252cdf52bd017a2"
+      }
     }
   ],
   "totalAmount": 0,
