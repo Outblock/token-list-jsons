@@ -1094,9 +1094,30 @@
       "extensions": {
         "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x790b8e6b2fa3760b",
+      "contractName": "FixesFungibleToken",
+      "path": {
+        "vault": "/storage/FixsStandardFT_0x790b8e6b2fa3760bBUCKSY_Vault",
+        "receiver": "/public/FixsStandardFT_0x790b8e6b2fa3760bBUCKSY_Receiver",
+        "balance": "/public/FixsStandardFT_0x790b8e6b2fa3760bBUCKSY_Balance"
+      },
+      "flowAddress": "0x790b8e6b2fa3760b",
+      "symbol": "BUCKSY",
+      "name": "cryptocat",
+      "description": "Give me flow fish and I'll give you back gold fish, meow🐱🐱🐱",
+      "decimals": 8,
+      "logoURI": "https://static.fixes.world/40UG9saXNoXz1721047112447",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://x.com/timon4room",
+        "website": "https://x.com/timon4room"
+      }
     }
   ],
-  "totalAmount": 50,
+  "totalAmount": 51,
   "filterType": "ALL",
   "timestamp": "2024-05-13T05:55:05.604Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
