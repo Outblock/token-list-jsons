@@ -5,6 +5,36 @@
   "tokens": [
     {
       "chainId": 747,
+      "address": "0x1654653399040a61",
+      "contractName": "FlowToken",
+      "path": {
+        "vault": "/storage/flowTokenVault",
+        "receiver": "/public/flowTokenReceiver",
+        "balance": "/public/flowTokenBalance"
+      },
+      "symbol": "FLOW",
+      "name": "Flow",
+      "description": "",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
+      "tags": [
+        "Verified",
+        "Featured",
+        "utility-token"
+      ],
+      "extensions": {
+        "coingeckoId": "flow",
+        "discord": "http://discord.gg/flow",
+        "documentation": "https://developers.flow.com/references/core-contracts/flow-token",
+        "github": "https://github.com/onflow/flow-core-contracts",
+        "twitter": "https://twitter.com/flow_blockchain",
+        "website": "https://flow.com/",
+        "displaySource": "0xa2de93114bae3e73",
+        "pathSource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
       "address": "0xe452a2f5665728f5",
       "contractName": "ADUToken",
       "path": {
@@ -12,7 +42,6 @@
         "receiver": "/public/ADUTokenReceiver",
         "balance": "/public/ADUTokenMetadata"
       },
-      "evmAddress": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
       "flowAddress": "0xe452a2f5665728f5",
       "symbol": "ADU",
       "name": "All Day Unlimited",
@@ -25,7 +54,9 @@
         "discord": "alldayunlimited",
         "website": "https://toucans.ecdao.org/p/ADUToken",
         "displaySource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a",
+      "evm_address": "0xe6ffc15a5bde7dd33c127670ba2b9fcb82db971a"
     },
     {
       "chainId": 747,
@@ -59,7 +90,6 @@
         "receiver": "/public/BallerzFCReceiver",
         "balance": "/public/BallerzFCMetadata"
       },
-      "evmAddress": "0xd2bff0d1afc88849c012d08d16906065303977af",
       "flowAddress": "0x4ea047c3e73ca460",
       "symbol": "BFC",
       "name": "Ballerz FC",
@@ -73,7 +103,9 @@
         "website": "https://twitter.com/Ballerz__FC",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0xd2bff0d1afc88849c012d08d16906065303977af",
+      "evm_address": "0xd2bff0d1afc88849c012d08d16906065303977af"
     },
     {
       "chainId": 747,
@@ -84,7 +116,6 @@
         "receiver": "/public/BeaverReceiver",
         "balance": "/public/BeaverMetadata"
       },
-      "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
       "flowAddress": "0x687e1a7aef17b78b",
       "symbol": "PUSS",
       "name": "Beaver",
@@ -95,8 +126,10 @@
       "extensions": {
         "discord": "",
         "twitter": "beavercoinflow",
-        "website": "beavercoin.io"
-      }
+        "website": "https://beavercoin.io"
+      },
+      "evmAddress": "0xcd2336c1a78662c1302eb916ff3d49a073af2056",
+      "evm_address": "0xcd2336c1a78662c1302eb916ff3d49a073af2056"
     },
     {
       "chainId": 747,
@@ -107,7 +140,6 @@
         "receiver": "/public/bloctoTokenReceiver",
         "balance": "/public/bloctoTokenBalance"
       },
-      "evmAddress": "0x439b028e1de93f41d1aed6b6caf4b5900497105c",
       "flowAddress": "0x0f9df91c9121c460",
       "symbol": "BLT",
       "name": "Blocto Token",
@@ -120,7 +152,9 @@
         "website": "https://blocto.app/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0x439b028e1de93f41d1aed6b6caf4b5900497105c",
+      "evm_address": "0x439b028e1de93f41d1aed6b6caf4b5900497105c"
     },
     {
       "chainId": 747,
@@ -917,7 +951,6 @@
         "receiver": "/public/revvReceiver",
         "balance": "/public/revvBalance"
       },
-      "evmAddress": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
       "flowAddress": "0xd01e482eb680ec9f",
       "symbol": "REVV",
       "name": "REVV",
@@ -929,7 +962,9 @@
         "website": "https://revvmotorsport.com/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57",
+      "evm_address": "0x071d786aa0736a8ce1c12d298e35fd53eb9d6a57"
     },
     {
       "chainId": 747,
@@ -964,7 +999,6 @@
         "receiver": "/public/starlyTokenReceiver",
         "balance": "/public/starlyTokenBalance"
       },
-      "evmAddress": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
       "flowAddress": "0x142fa6570b62fd97",
       "symbol": "STARLY",
       "name": "Starly Token",
@@ -977,7 +1011,9 @@
         "website": "https://starly.io/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51",
+      "evm_address": "0xbc22ba2150366a7860f9fd19f5b9ffe3b7b80c51"
     },
     {
       "chainId": 747,
@@ -1977,8 +2013,8 @@
         "utility-token"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/incrementfi",
         "discord": "https://discord.gg/r2keKxuKqX",
+        "twitter": "https://twitter.com/incrementfi",
         "website": "https://app.increment.fi/staking",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
@@ -1993,7 +2029,6 @@
         "receiver": "/public/teleportedTetherTokenReceiver",
         "balance": "/public/teleportedTetherTokenBalance"
       },
-      "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
       "flowAddress": "0xcfdd90d4a00f7b5b",
       "symbol": "tUSDT",
       "name": "Teleported Tether Token",
@@ -2008,7 +2043,9 @@
         "website": "https://blocto.app/",
         "displaySource": "0xa2de93114bae3e73",
         "pathSource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874",
+      "evm_address": "0x8dcdece0a8f643500cfd7bdb621ca46490dd7874"
     },
     {
       "chainId": 747,
@@ -2043,7 +2080,6 @@
         "receiver": "/public/UtahJazzLegendsClubReceiver",
         "balance": "/public/UtahJazzLegendsClubMetadata"
       },
-      "evmAddress": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
       "flowAddress": "0xcbba4d41aef83fe3",
       "symbol": "UJLC",
       "name": "Utah Jazz Legends Club",
@@ -2052,11 +2088,13 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cbba4d41aef83fe3.UtahJazzLegendsClub/logo.png",
       "tags": [],
       "extensions": {
-        "twitter": "UtahJazzLegends",
         "discord": "wGjBcsGjcG",
+        "twitter": "UtahJazzLegends",
         "website": "https://toucans.ecdao.org/p/UtahJazzLegendsClub",
         "displaySource": "0xa2de93114bae3e73"
-      }
+      },
+      "evmAddress": "0xff827ae7ce750ef0037aea09f509f9755ae20275",
+      "evm_address": "0xff827ae7ce750ef0037aea09f509f9755ae20275"
     },
     {
       "chainId": 747,

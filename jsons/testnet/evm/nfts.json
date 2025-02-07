@@ -1,0 +1,41 @@
+{
+    "name": "Flow testnet EVM NFT List",
+    "logoURI": "",
+    "keywords": [
+        "testnet",
+        "NFTs"
+    ],
+    "tags": {},
+    "timestamp": "",
+    "tokens": [
+        {
+            "chainId": 545,
+            "name": "MyNFT",
+            "address": "0x4437F4d5671Cce47784986375cd48Dd12Ad57C55",
+            "symbol": "MNFT",
+            "logoURI": "",
+            "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+            "tags": []
+        },
+        {
+            "chainId": 545,
+            "name": "ExampleNFT",
+            "address": "0x89a2c10f518ff6970212b688359a3bb27b1d1013",
+            "symbol": "EFT",
+            "logoURI": "",
+            "tokenURI": "",
+            "flowIdentifier": "A.390b4705da6305c3.ExampleNFT.NFT",
+            "tags": []
+        },
+        {
+            "chainId": 545,
+            "name": "MonsterMaker",
+            "address": "0x19d08757b43a7f6271321b353ad78d6661e10e04",
+            "symbol": "EFT",
+            "logoURI": "",
+            "tokenURI": "",
+            "flowIdentifier": "A.724a9da00340f14c.MonsterMaker.NFT",
+            "tags": []
+        }
+    ]
+}

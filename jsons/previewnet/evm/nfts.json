@@ -1,0 +1,52 @@
+{
+    "name": "Flow previewnet EVM NFT List",
+    "logoURI": "",
+    "keywords": [
+        "previewnet",
+        "NFTs"
+    ],
+    "tags": {},
+    "timestamp": "",
+    "tokens": [
+        {
+            "chainId": 646,
+            "name": "MyToken",
+            "address": "0xE5Ef7894A2F5C58A1040d5fA7Ab1e4Fd86FEF946",
+            "symbol": "MTK",
+            "logoURI": "",
+            "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+            "tags": []
+        },
+        {
+            "chainId": 646,
+            "address": "0xdafbac220f0d24541d126cd42b694c3f42df97fe",
+            "symbol": "BT",
+            "name": "BridgedNFT",
+            "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+            "logoURI": "https://i.ibb.co/Bt9YZTp/Connect.png",
+            "tags": [],
+            "decimals": 18,
+            "flowIdentifier": "A.8920ffd3d8768daa.ExampleNFT.NFT"
+        },
+        {
+            "chainId": 646,
+            "name": "MyNFT",
+            "address": "0xE530Dd95593c3F3D2F7A1BA614E45808D6f412b3",
+            "symbol": "MNFT",
+            "logoURI": "",
+            "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+            "tags": []
+        },
+        {
+            "chainId": 646,
+            "address": "0x227Cf97F2D90C76c45eAbB289e9560a82A36aaF6",
+            "symbol": "THEE",
+            "name": "The Example Collection",
+            "tokenURI": "ipfs://bafybeianuazrta5x72q5abeft4fm2y2amnsex4fpiygutxegtei3zbg2fa/",
+            "logoURI": "https://i.ibb.co/Bt9YZTp/Connect.png",
+            "decimals": 18,
+            "tags": [],
+            "flowIdentifier": "A.9f749ae0417287cb.ExampleNFT.NFT"
+        }
+    ]
+}

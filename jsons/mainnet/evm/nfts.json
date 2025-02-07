@@ -1,0 +1,682 @@
+{
+    "name": "Flow mainnet EVM NFT List",
+    "logoURI": "",
+    "keywords": [
+        "maintnet",
+        "NFTs"
+    ],
+    "tags": {},
+    "timestamp": "",
+    "tokens": [
+        {
+            "chainId": 747,
+            "name": "Aera",
+            "address": "0x5fd25838361b4ae8b705691b4fd19a36e8fc64a2",
+            "symbol": "AERA",
+            "logoURI": "https://miro.medium.com/fit/c/176/176/1*hzfP51MATg3et5vghYy1uQ.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.30cf5dcf6ea8d379.AeraNFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Aera Rewards",
+            "address": "0xd134864fac0dfea2319063a79368e09fa661f0b4",
+            "symbol": "AERA",
+            "logoURI": "https://ipfs.io/ipfs/bafkreiameqwyluog75u7zg3dmf56b5mbed7cdgv6uslkph6nvmdf2aipmy",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.30cf5dcf6ea8d379.AeraRewards.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The aiSports Collection",
+            "address": "0x1899cb99846f7c9891ecdd785474a5d9c2889da6",
+            "symbol": "THE ",
+            "logoURI": "https://firebasestorage.googleapis.com/v0/b/fantasyball-6e433.appspot.com/o/upload_image.png?alt=media&token=947bf82d-b697-4cb2-b58f-17b237705ae5",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.abe5a2bf47ce5bf3.aiSportsMinter.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "NFL All Day",
+            "address": "0x4f43e0357e7e3d61718e412fd38eaf692fac96c0",
+            "symbol": "NFL ",
+            "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.e4cf4bdc1751c65d.AllDay.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Versus",
+            "address": "0xa3405bd059979e10f73a15b5efa21affcead8496",
+            "symbol": "VERS",
+            "logoURI": "https://pbs.twimg.com/profile_images/1295757455679528963/ibkAIRww_400x400.jpg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d796ff17107bbff6.Art.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "bl0x",
+            "address": "0xeaed52be00f58219399bf3e32a870b509d6a80d2",
+            "symbol": "BL0X",
+            "logoURI": "https://bl0x.xyz/assets/home/Bl0xlogo.webp",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.7620acf6d7f2468a.Bl0x.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "BreakingT shop",
+            "address": "0x478a94c2b821f4864700e39f22fa6b7584df42a1",
+            "symbol": "BREA",
+            "logoURI": "https://media-local.gigantik.io/breakingt/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.329feb3ab062d289.BreakingT_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "BWAYX shop",
+            "address": "0xc2ecf1de75291a37ff879234fc3053018868ffd5",
+            "symbol": "BWAY",
+            "logoURI": "https://media-local.gigantik.io/bwayx/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.f02b15e11eb3715b.BWAYX_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Driverz Utility Cars",
+            "address": "0x2d03fccc951c98ce1824299437158f9bbdbbb1ed",
+            "symbol": "DRIV",
+            "logoURI": "https://driverz.world/DriverzNFT-logo.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.f887ece39166906e.Car.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Driverz Car Club",
+            "address": "0x9b989cd4ee12bfd0d83f74bbfbc102d042c79dd0",
+            "symbol": "DRIV",
+            "logoURI": "https://driverz.world/DriverzNFT-logo.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.f887ece39166906e.CarClub.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Neo Charity 2021",
+            "address": "0x67f3e53dec8d8d16bd737dd25df43225b230a620",
+            "symbol": "NEO ",
+            "logoURI": "https://pbs.twimg.com/profile_images/1467546091780550658/R1uc6dcq_400x400.jpg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.097bafa4e0b48eef.CharityNFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Cimelio shop",
+            "address": "0xcb0fcde1736775aab08bbb443d1bca88ff1eecef",
+            "symbol": "CIME",
+            "logoURI": "https://media-local.gigantik.io/cimelio/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.2c9de937c319468d.Cimelio_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The Crypto Piggo NFT Collection",
+            "address": "0x21008d0d4f3ebd34b336e95321228a65351b3eb9",
+            "symbol": "THE ",
+            "logoURI": "https://ipfs.tenzingai.com/ipfs/QmUk3s7BoVSS56V2U4rxd1syVp8USUEygu7NmARppH183U",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d3df824bf81910a4.CryptoPiggo.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The Crypto Piggo Potion NFT Collection",
+            "address": "0x0d21723e8445dfa9c00f667b01c14eff1f51f266",
+            "symbol": "THE ",
+            "logoURI": "https://ipfs.tenzingai.com/ipfs/QmbkTGNXowKhrxQXu4A8FwEb1Nf5YbZTtfwPoqogKrqaH4",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d3df824bf81910a4.CryptoPiggoPotion.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The Crypto Piggo V2 NFT Collection",
+            "address": "0x966d3499a46ac3fc15f5aee9cafd42db52a6716d",
+            "symbol": "THE ",
+            "logoURI": "https://ipfs.tenzingai.com/ipfs/QmbkTGNXowKhrxQXu4A8FwEb1Nf5YbZTtfwPoqogKrqaH4",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d3df824bf81910a4.CryptoPiggoV2.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Dimension X",
+            "address": "0x1fafb71a650e8e923bef6616036379310de629b3",
+            "symbol": "DIME",
+            "logoURI": "https://metadata.flow.dimensionxnft.com/heroes/collection_image.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.e3ad6030cbaff1c2.DimensionX.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The Flowns domain Collection",
+            "address": "0xb94378faa50722cc651ac19dfad3f1f01db0e31f",
+            "symbol": "THE ",
+            "logoURI": "https://www.flowns.org/assets/flowns_logo_light.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.233eb012d34b0070.Domains.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Doodles",
+            "address": "0x422df8e241cabd526cdc08ee83bbf903ee83966c",
+            "symbol": "DOOD",
+            "logoURI": "https://ipfs.io/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.e81193c424cfd3fb.Doodles.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Driverz",
+            "address": "0xdfaa0b31907181bd370599d817563f80a3585224",
+            "symbol": "DRIV",
+            "logoURI": "https://ipfs.io/ipfs/QmV4FsnFiU7QY8ybwd5uuXwogVo9wcRExQLwedh7HU1mrU",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.a039bd7d55a96c0c.DriverzNFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "FLOAT",
+            "address": "0x2b7cfe0f24c18690a4e34a154e313859b7c6e342",
+            "symbol": "FLOA",
+            "logoURI": "https://i.imgur.com/v0Njnnk.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.2d4c3caffbeab845.FLOAT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flovatar Flobot Collection",
+            "address": "0x37157785224b13140e6254178544a4e824867b01",
+            "symbol": "FLOV",
+            "logoURI": "https://images.flovatar.com/logo.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.921ea449dffec68a.Flobot.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flovatar Collection",
+            "address": "0x99cbb5b90b1e08164281b24ac9217eda4dc0ee62",
+            "symbol": "FLOV",
+            "logoURI": "https://images.flovatar.com/logo.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.921ea449dffec68a.Flovatar.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flovatar Component Collection",
+            "address": "0x478b816cfcb33bf16396c8dae59ae1dd20b15786",
+            "symbol": "FLOV",
+            "logoURI": "https://images.flovatar.com/logo.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.921ea449dffec68a.FlovatarComponent.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flovatar Dust Collectible Collection",
+            "address": "0x7d16c291bd1af000ea5a5fed70ed1204235199ed",
+            "symbol": "FLOV",
+            "logoURI": "https://images.flovatar.com/logo.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.921ea449dffec68a.FlovatarDustCollectible.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flow Rewards NFT",
+            "address": "0x45fd22727acd6e7dce5c8f5d5b929d0f82f567ee",
+            "symbol": "FLOW",
+            "logoURI": "https://ipfs.io/ipfs/QmYuLdXMbmDoUjGwKxfv3Jk3cgKV6mxYBAewNpxijkYYZn",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.a45ead1cf1ca9eda.FlowRewards.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flowty Wrapped",
+            "address": "0x2c2e2ef011a8ad5a89f1a2d59358c455e3336250",
+            "symbol": "FLOW",
+            "logoURI": "https://ipfs.io/ipfs/QmdCiwwJ7z2gQecDr6hn4pJj91miWYnFC178o9p6JKftmi",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.592eb32b47d8b85f.FlowtyWrapped.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flowverse Shirt",
+            "address": "0xeb073e026713a4c3b06c930f81f2057dfbdb513f",
+            "symbol": "FLOW",
+            "logoURI": "https://flowverse.myfilebase.com/ipfs/QmeFH4AXFLkCzKJ64nRmtRyqxXsVH8N98QDZcUNwJphXBz",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.9212a87501a8a6a2.FlowverseShirt.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Flowverse Socks",
+            "address": "0xf5e1953971497b86ddc2b7a5bc61182da3cb0e47",
+            "symbol": "FLOW",
+            "logoURI": "https://media.nft.matrixmarket.xyz/media/dbbrUIkarYLXKKjiY5AYk_IMAGE.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.ce4c02539d1fabe8.FlowverseSocks.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "FIXeS 𝔉rc20 Semi-NFT",
+            "address": "0xd5fa1aff2e92acf3f9875b54b171ee5c20fe9150",
+            "symbol": "FIXE",
+            "logoURI": "https://i.imgur.com/hs3U5CY.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d2abb5dbf5e08666.FRC20SemiNFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Fuchibola shop",
+            "address": "0x6f7a202a1280264c0f3505c142c04e45e91c0bd3",
+            "symbol": "FUCH",
+            "logoURI": "https://media-local.gigantik.io/fuchibola/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.f3ee684cd0259fed.Fuchibola_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Ballerz",
+            "address": "0x798b0effe43a1144acf1be107f2e04bc5688fab6",
+            "symbol": "BALL",
+            "logoURI": "https://ballerz.com/images/onchain/logo-stack.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.8b148183c28ff88f.Gaia.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Laliga Golazos",
+            "address": "0xf68fafbe9d39fd7cfa69257c2ab1067281b64b87",
+            "symbol": "LALI",
+            "logoURI": "https://assets.laligagolazos.com/static/golazos-logos/Golazos_Logo_Primary_B.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.87ca73a41bb50ad5.Golazos.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Party Mansion Gooberz",
+            "address": "0x653e0bdcd20f84ad401d2ffa38b007486a850d5f",
+            "symbol": "PART",
+            "logoURI": "https://ipfs.io/ipfs/QmeiwpEXCidsPae3ZPpSJTKVit1R2LHiF4cw5pvmMPRC4x",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.34f2bf4a80bb0f69.GooberXContract.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Driverz Utility Helmet",
+            "address": "0x2c20fc197ac025ee283464ce5e49c9510c1e27aa",
+            "symbol": "DRIV",
+            "logoURI": "https://driverz.world/DriverzNFT-logo.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.f887ece39166906e.Helmet.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Heroes of the Flow",
+            "address": "0x43ece1a944d3a049c873bca564085d28efd111fd",
+            "symbol": "HERO",
+            "logoURI": "https://flowverse.myfilebase.com/ipfs/QmU7a1eLvsmLda1VPe2ioikeWmhPwk5Xm7eV2iBUuirm55",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.1dc37ab51a54d83f.HeroesOfTheFlow.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Hot Wheels Garage Card",
+            "address": "0x7a7bd3afc37be2402b83d667d4fbf57d671bafab",
+            "symbol": "HOT ",
+            "logoURI": "",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d0bcefdf1e67ea85.HWGarageCard.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "PANTHEON COLLECTION",
+            "address": "0xf2222eee871acf5e67128b8dc998f95ec97d3939",
+            "symbol": "PANT",
+            "logoURI": "https://ipfs.io/ipfs/QmVUqQW4KUgom5dHss5PrZ2JTyMoREuU77ecvFWodvg5zv",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.a6ee47da88e6cbde.IconoGraphika.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Jolly Jokers",
+            "address": "0xf71f5868299b48d542c40951d4d1e91f132a8002",
+            "symbol": "JOLL",
+            "logoURI": "https://otmnft-jj.s3.amazonaws.com/Jolly_Jokers.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.699bf284101a76f1.JollyJokers.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The 24Karat Collection",
+            "address": "0x12782c53bfb950010549f538b8542898d907bf6e",
+            "symbol": "THE ",
+            "logoURI": "https://static.wixstatic.com/media/568614_5676993b65c64da29cecf24d323fd664~mv2.png/v1/fill/w_140,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/568614_5676993b65c64da29cecf24d323fd664~mv2.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.82ed1b9cba5bb1b3.KaratNFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "The Keepr Collection",
+            "address": "0x24212c12535b3d0e39cf5aec81e87446d91e8dcc",
+            "symbol": "THE ",
+            "logoURI": "https://firebasestorage.googleapis.com/v0/b/keepr-86355.appspot.com/o/static%2Flogo-dark.svg?alt=media&token=9d66d7ea-9b3e-4fe0-8604-04df064af359",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.5eb12ad3d5a99945.KeeprItems.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "MAGNETIQ",
+            "address": "0x2a4ba366e2168d02a86d072aef7b55a39c1e7da6",
+            "symbol": "MAGN",
+            "logoURI": "https://magnetiq-static.s3.amazonaws.com/media/public/MAGNETIQ_Square_Logo.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.5257f1455ed366fe.Magnetiq.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "WORLD3 Land Voucher",
+            "address": "0x279443ba076c7370cd2808bdd617596f3ca28fde",
+            "symbol": "WORL",
+            "logoURI": "https://world3.ai/assets/WORLD3Logo_black.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.0d77ec47bbad8ef6.MatrixWorldVoucher.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Ozone Metaverse Marketplace",
+            "address": "0x63c936f8b6565b81b0b8d999b1a6d8fbbcde5444",
+            "symbol": "OZON",
+            "logoURI": "https://d19wottuqbmkwr.cloudfront.net/nft/banners1.jpg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.d756450f386fb4ac.MetaverseMarket.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "MFL Club Collection",
+            "address": "0x1de931a87d389de298b150ff01d6dc3bd0b7d281",
+            "symbol": "MFL ",
+            "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.8ebcbfd516b1da27.MFLClub.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "MFL Pack Collection",
+            "address": "0xd77da66125bb2d9ace3bd703b17a231eee9f093b",
+            "symbol": "MFL ",
+            "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.8ebcbfd516b1da27.MFLPack.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "MFL Player Collection",
+            "address": "0x117cc97619c11f17333bd8229c50f0ccc600bf8c",
+            "symbol": "MFL ",
+            "logoURI": "https://app.playmfl.com/img/mflAvatar.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.8ebcbfd516b1da27.MFLPlayer.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "MikoSea",
+            "address": "0x16d1a3e82d908651e96ba1d4338b10eb35860132",
+            "symbol": "MIKO",
+            "logoURI": "https://mikosea.io/mikosea_1.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.0b80e42aaab305f0.MIKOSEANFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "NonFunGerbils",
+            "address": "0x76da69879644c03e1cf338a9bcb57f562318c77b",
+            "symbol": "NONF",
+            "logoURI": "https://ipfs.io/ipfs/QmeG1rPaLWmn4uUSjQ2Wbs7QnjxdQDyeadCGWyGwvHTB7c",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.123cb666996b8432.NFGv3.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "OneShots Comic Book Trading Cards by Tibles",
+            "address": "0xb266949a9d976d0e52cc746c2676c103757c8e11",
+            "symbol": "ONES",
+            "logoURI": "https://i.tibles.com/m/oneshots-flow-icon.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.4f7ff543c936072b.OneShots.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Ordinals",
+            "address": "0x83bdd800526cc870624c07bd22c09f82f0b3e76c",
+            "symbol": "ORDI",
+            "logoURI": "https://flowverse.myfilebase.com/ipfs/QmQ45TvzGVTmoMCfGqxgbiMmR4rdmSHAhz661bPyUfFrAT",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.9212a87501a8a6a2.Ordinal.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "NFL All Day Packs",
+            "address": "0xae799bc4db1a77960a1dd236fb6d9931b301feb1",
+            "symbol": "NFL ",
+            "logoURI": "https://assets.nflallday.com/flow/catalogue/NFLAD_SQUARE.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.e4cf4bdc1751c65d.PackNFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Party Mansion Drinks",
+            "address": "0x3e3aae8772379226665d04b736be2f7881d30ca4",
+            "symbol": "PART",
+            "logoURI": "https://ipfs.io/ipfs/QmSEJEwqdpotJ7RX42RKDy5sVgQzhNy3XiDmFsc81wgzNC",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.34f2bf4a80bb0f69.PartyMansionDrinksContract.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Piece",
+            "address": "0x2cd1d5cd8ab5335c66aa52cfa1af4eb0d5857eb6",
+            "symbol": "PIEC",
+            "logoURI": "https://www.piece.gg/static/media/logo.48da6adac82863dd4955abe125b5c8dd.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.fdc436fd7db22e01.Piece.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "NBA-Top-Shot",
+            "address": "0xeb7bc35d8bb7ef56bf4a3b620f65a317de915654",
+            "symbol": "NBA-",
+            "logoURI": "https://puffpalz.io/static/media/logo_trans.23a0132ea8d91f699ce0.webp",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.a3eb9784ae7dc9c8.PuffPalz.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "RaceDay shop",
+            "address": "0xc7aac70c7ca640060bb6146deb2e4549758496f6",
+            "symbol": "RACE",
+            "logoURI": "https://media-local.gigantik.io/raceday/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.329feb3ab062d289.RaceDay_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Redeemables",
+            "address": "0x2c9bd29bb1c00c0af63a3a25b64b5bfcd0e6f966",
+            "symbol": "REDE",
+            "logoURI": "https://ipfs.io/ipfs/QmVpAiutpnzp3zR4q2cUedMxsZd8h5HDeyxs9x3HibsnJb",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.e81193c424cfd3fb.Redeemables.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "RogueBunnies shop",
+            "address": "0xec341ab104f217c5940788503176639ff2713d06",
+            "symbol": "ROGU",
+            "logoURI": "https://media-local.gigantik.io/roguebunnies/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.396646f110afb2e6.RogueBunnies_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Seussibles! Dr. Seuss Collection by Tibles",
+            "address": "0x3f013cd02c8803217366ee9587fde1652ac5a57e",
+            "symbol": "SEUS",
+            "logoURI": "https://i.tibles.com/m/seussibles-flow-icon.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.321d8fcde05f6e8c.Seussibles.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Sk8tibles Collection",
+            "address": "0x2aae88007dbdb7a06506cd4ffcf11e27cde5dcd5",
+            "symbol": "SK8T",
+            "logoURI": "https://i.tibles.com/m/sk8tibles-flow-icon.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.0a2fbb92a8ae5c6d.Sk8tibles.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Sportvatar Accessories Collection",
+            "address": "0xa7b0ee5ada31ee79e83c04541eee14c6f9d92667",
+            "symbol": "SPOR",
+            "logoURI": "https://images.sportvatar.com/logo.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.ca5c31c0c03e11be.Sportbit.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Sportvatar Collection",
+            "address": "0xfbf3d60b68f3b5b0e5ca5a6430fe3439d3dd50a1",
+            "symbol": "SPOR",
+            "logoURI": "https://images.sportvatar.com/logo.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.ca5c31c0c03e11be.Sportvatar.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Starly",
+            "address": "0xc4ddf229e021fc079c2f14d5624abfb99619e41c",
+            "symbol": "STAR",
+            "logoURI": "https://storage.googleapis.com/starly-prod.appspot.com/assets/starly-square-logo.jpg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.5b82f21c0edf76e3.StarlyCard.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Hoodlums",
+            "address": "0xa7f6f20aef160b7d6ae6faf35b752e8822172cd9",
+            "symbol": "HOOD",
+            "logoURI": "https://ipfs.io/ipfs/QmYQPsikmJxRAtCFGTa3coUoG6bZqduyckAwodUQ35T8p9",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.427ceada271aa0b1.SturdyItems.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "NBA-Top-Shot",
+            "address": "0x50ab3a827ad268e9d5a24d340108fad5c25dad5f",
+            "symbol": "NBA-",
+            "logoURI": "https://nbatopshot.com/static/img/og/og.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.0b2a3299cc857e29.TopShot.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "UFC Strike",
+            "address": "0x8a1a321f7feb5dee3cb5b120e1f9937c4478575f",
+            "symbol": "UFC ",
+            "logoURI": "https://media-local.gigantik.io/ufc/square.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.329feb3ab062d289.UFC_NFT.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Driverz Utility Wheels",
+            "address": "0xbf7b462be057adaaaabeaa320dc8ce29826238f4",
+            "symbol": "DRIV",
+            "logoURI": "https://driverz.world/DriverzNFT-logo.png",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.f887ece39166906e.Wheel.NFT"
+        },
+        {
+            "chainId": 747,
+            "name": "Zeedz",
+            "address": "0xd50a7eacabd654f1a1c5ea05f9c74a1022340408",
+            "symbol": "ZEED",
+            "logoURI": "https://play.zeedz.io/logo-zeedz.svg",
+            "tokenURI": "",
+            "tags": [],
+            "flowIdentifier": "A.62b3063fbe672fc8.ZeedzINO.NFT"
+        }
+    ]
+}
