@@ -1094,6 +1094,50 @@
       "extensions": {
         "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_83900c7ffece2a47cac867f87252cdf52bd017a2"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Vault",
+        "receiver": "/public/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Receiver",
+        "balance": "/public/EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14Vault"
+      },
+      "evmAddress": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "stgUSDC",
+      "name": "Bridged USDC (Stargate)",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of f1815bd50389c46847f0bda824ec8da914045d14",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x1e4aa0b87d10b141",
+      "contractName": "EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "path": {
+        "vault": "/storage/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault",
+        "receiver": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedReceiver",
+        "balance": "/public/EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabedVault"
+      },
+      "evmAddress": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "flowAddress": "0x1e4aa0b87d10b141",
+      "symbol": "USDF",
+      "name": "USD Flow",
+      "description": "This fungible token was bridged from EVM on Flow with the ERC20 contract address of 2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa2de93114bae3e73"
+      }
     }
   ],
   "totalAmount": 50,
