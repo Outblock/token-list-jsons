@@ -431,9 +431,22 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0x83900c7ffece2a47cac867f87252cdf52bd017a2"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x8b2f3a6e7ad5f971ff5d4e597a4ebc58b2d2758e",
+      "symbol": "DUCAT",
+      "name": "DUCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/5f6294c0c7a8cdd643b1c820/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.svg",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_8b2f3a6e7ad5f971ff5d4e597a4ebc58b2d2758e.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com"
+      }
     }
   ],
-  "totalAmount": 0,
+  "totalAmount": 1,
   "filterType": "ALL",
   "timestamp": "2024-05-13T05:55:05.604Z",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
