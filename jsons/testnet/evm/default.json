@@ -1,36 +1,51 @@
 {
-    "name": "Flow testnet EVM FT List",
-    "logoURI": "",
-    "keywords": [
-      "testnet",
-      "FTs"
-    ],
-    "tags": {
-      "stablecoin": {
-        "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-      }
+  "name": "Flow testnet EVM FT List",
+  "logoURI": "",
+  "keywords": [
+    "testnet",
+    "FTs"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "timestamp": "",
+  "tokens": [
+    {
+      "chainId": 545,
+      "address": "0x01f4F81F57da8bC8F1005cF800aFdD4A2EfbF5f5",
+      "symbol": "MTK",
+      "name": "MyToken",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
     },
-    "timestamp": "",
-    "tokens": [
-      {
-        "chainId": 545,
-        "address": "0x01f4F81F57da8bC8F1005cF800aFdD4A2EfbF5f5",
-        "symbol": "MTK",
-        "name": "MyToken",
-        "decimals": 18,
-        "logoURI": "",
-        "tags": []
-      },
-      {
-        "chainId": 545,
-        "address": "0xd50DCCA32B76dBf180cc5Dd7eFD2e6E0a545Ba3a",
-        "symbol": "EFT",
-        "name": "Example Fungible Token",
-        "decimals": 18,
-        "logoURI": "",
-        "flowIdentifier": "A.390b4705da6305c3.ExampleToken.Vault",
-        "tags": []
+    {
+      "chainId": 545,
+      "address": "0xd50DCCA32B76dBf180cc5Dd7eFD2e6E0a545Ba3a",
+      "symbol": "EFT",
+      "name": "Example Fungible Token",
+      "decimals": 18,
+      "logoURI": "",
+      "flowIdentifier": "A.390b4705da6305c3.ExampleToken.Vault",
+      "tags": []
+    },
+    {
+      "chainId": 545,
+      "address": "0x3c9469d8c179c35c9b908ca46a8670a419628f0a",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.b19436aae4d94622.FiatToken/logo.png",
+      "flowIdentifier": "A.dfc20aee650fcbdf.EVMVMBridgedToken_3c9469d8c179c35c9b908ca46a8670a419628f0a.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://port.flow.com",
+        "displaySource": "0xa51d7fe9e0080662"
       }
-    ]
-  }
+    }
+  ],
+  "totalAmount": null
+}
