@@ -431,6 +431,32 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0x83900c7ffece2a47cac867f87252cdf52bd017a2"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "symbol": "stgUSDC",
+      "name": "Bridged USDC (Stargate)",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_f1815bd50389c46847f0bda824ec8da914045d14.Vault"
+    },
+    {
+      "chainId": 747,
+      "address": "0x2aabea2058b5ac2d339b163c6ab6f2b6d53aabed",
+      "symbol": "USDF",
+      "name": "USD Flow",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fixes-world/token-list-jsons/refs/heads/main/assets/USDF_Logo_250x250.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.flowscan.io/contract/A.1e4aa0b87d10b141.EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed"
+      },
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_2aabea2058b5ac2d339b163c6ab6f2b6d53aabed.Vault"
     }
   ],
   "totalAmount": 0,
