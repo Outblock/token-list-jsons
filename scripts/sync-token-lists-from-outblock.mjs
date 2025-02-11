@@ -20,11 +20,20 @@ const endpoints = {
 }
 
 const queryTokenList = async (network, executionEnv) => {
-
-  let url = `${endpoints[network]}/${executionEnv}/default.json?token=${token}`
+  let url = `${endpoints[network]}/${executionEnv}/default.json`
 
   try {
-    const response = await fetch(url)
+    // const response = await fetch(url)
+    const response = await fetch(url, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github.v3.raw',
+        'User-Agent': 'node-fetch',
+      },
+    })
+    if (!response.ok) {
+      throw new Error(`请求失败: ${response.status} ${response.statusText}`)
+    }
     const data = await response.json()
     if (data.tokens !== undefined) {
       return data
@@ -43,9 +52,7 @@ const writeJSONFile = async (data, network, executionEnv) => {
     'jsons',
     network,
     executionEnv,
-    ...(reviewer === undefined
-      ? ['default.json']
-      : ['reviewers', `${reviewer}${filterKeys[filter]}.json`]),
+    'default.json',
   )
 
   let originList
@@ -86,16 +93,16 @@ const writeJSONFile = async (data, network, executionEnv) => {
     oldTokenDeleted = origTokensSet.size > newTokensSet.size
   }
 
-  if (oldTokenDeleted) {
-    data.version.major = (originList ?? data).version.major + 1
-    data.version.minor = 0
-    data.version.patch = 0
-  } else if (newTokenAdded) {
-    data.version.minor = (originList ?? data).version.minor + 1
-    data.version.patch = 0
-  } else {
-    data.version.patch = (originList ?? data).version.patch + 1
-  }
+  // if (oldTokenDeleted) {
+  //   data.version.major = (originList ?? data).version.major + 1
+  //   data.version.minor = 0
+  //   data.version.patch = 0
+  // } else if (newTokenAdded) {
+  //   data.version.minor = (originList ?? data).version.minor + 1
+  //   data.version.patch = 0
+  // } else {
+  //   data.version.patch = (originList ?? data).version.patch + 1
+  // }
 
   fs.writeFileSync(filename, JSON.stringify(data, null, 2))
   console.log(`Wrote ${filename}`)
