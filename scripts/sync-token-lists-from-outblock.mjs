@@ -55,6 +55,7 @@ const writeJSONFile = async (data, network, executionEnv) => {
     'default.json',
   )
 
+  console.log(filename, 'filename')
   let originList
   try {
     originList = JSON.parse(fs.readFileSync(filename, 'utf8'))
@@ -77,21 +78,21 @@ const writeJSONFile = async (data, network, executionEnv) => {
   }
 
   // update version
-  let newTokenAdded = true
-  let oldTokenDeleted = false
+  // let newTokenAdded = true
+  // let oldTokenDeleted = false
 
-  if (!!originList) {
-    const origTokens = originList.tokens.map((token) => {
-      return `${token.address}-${token.contractName}`
-    })
-    const origTokensSet = new Set(origTokens)
-    const newTokens = data.tokens.filter((token) => {
-      return `${token.address}-${token.contractName}`
-    })
-    const newTokensSet = new Set(newTokens)
-    newTokenAdded = newTokensSet.size > origTokensSet.size
-    oldTokenDeleted = origTokensSet.size > newTokensSet.size
-  }
+  // if (!!originList) {
+  //   const origTokens = originList.tokens.map((token) => {
+  //     return `${token.address}-${token.contractName}`
+  //   })
+  //   const origTokensSet = new Set(origTokens)
+  //   const newTokens = data.tokens.filter((token) => {
+  //     return `${token.address}-${token.contractName}`
+  //   })
+  //   const newTokensSet = new Set(newTokens)
+  //   newTokenAdded = newTokensSet.size > origTokensSet.size
+  //   oldTokenDeleted = origTokensSet.size > newTokensSet.size
+  // }
 
   // if (oldTokenDeleted) {
   //   data.version.major = (originList ?? data).version.major + 1
