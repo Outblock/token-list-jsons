@@ -47,15 +47,9 @@ const queryTokenList = async (network, executionEnv) => {
 }
 
 const writeJSONFile = async (data, network, executionEnv) => {
-  const filename = join(
-    process.cwd(),
-    'jsons',
-    network,
-    executionEnv,
-    ...(reviewer === undefined
-      ? ['default.json']
-      : ['reviewers', `${reviewer}${filterKeys[filter]}.json`]),
-  )
+  const filename = join(process.cwd(), 'jsons', network, executionEnv, [
+    'default.json',
+  ])
 
   let originList
   try {
