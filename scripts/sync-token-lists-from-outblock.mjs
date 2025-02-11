@@ -20,11 +20,20 @@ const endpoints = {
 }
 
 const queryTokenList = async (network, executionEnv) => {
-
-  let url = `${endpoints[network]}/${executionEnv}/default.json?token=${token}`
+  let url = `${endpoints[network]}/${executionEnv}/default.json`
 
   try {
-    const response = await fetch(url)
+    // const response = await fetch(url)
+    const response = await fetch(url, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github.v3.raw',
+        'User-Agent': 'node-fetch',
+      },
+    })
+    if (!response.ok) {
+      throw new Error(`请求失败: ${response.status} ${response.statusText}`)
+    }
     const data = await response.json()
     if (data.tokens !== undefined) {
       return data
