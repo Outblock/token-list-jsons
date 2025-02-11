@@ -4,7 +4,8 @@
   "description": "The token list JSONs synced from https://token-list.fixes.world/",
   "scripts": {
     "sync-fts": "node ./scripts/sync-token-lists.mjs",
-    "sync-nfts": "node ./scripts/sync-nft-lists.mjs"
+    "sync-nfts": "node ./scripts/sync-nft-lists.mjs",
+    "sync-fts-from-outblock": "node ./scripts/sync-token-lists-from-outblock.mjs"
   },
   "keywords": [
     "TokenList",
