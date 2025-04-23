@@ -1138,6 +1138,28 @@
         "website": "https://port.flow.com",
         "displaySource": "0xa2de93114bae3e73"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x05b67ba314000b2d",
+      "contractName": "TSHOT",
+      "path": {
+        "vault": "/storage/TSHOTTokenVault",
+        "receiver": "/public/TSHOTTokenReceiver",
+        "balance": "/public/TSHOTTokenBalance"
+      },
+      "evmAddress": "0xc618a7356fcf601f694c51578cd94144deaee690",
+      "flowAddress": "0x05b67ba314000b2d",
+      "symbol": "TSHOT",
+      "name": "TSHOT Token",
+      "description": "TSHOT is a token minted by exchanging Common or Fandom Top Shot Moments.",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/vaultopolis/TSHOT.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/Vaultopolis",
+        "website": "https://vaultopolis.com"
+      }
     }
   ],
   "totalAmount": 50,

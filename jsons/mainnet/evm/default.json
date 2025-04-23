@@ -348,7 +348,7 @@
       "name": "pump.flow",
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/PUMP.png",
-      "flowIdentifier": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_68eb683a393c8a1c816255b4fc4b89d73c52ad4b.Vault",
       "tags": [],
       "extensions": {
         "website": "https://evm.flowscan.io/token/0x68eb683a393C8a1C816255b4FC4B89d73C52AD4b"
@@ -374,7 +374,7 @@
       "name": "VINYL",
       "decimals": 18,
       "logoURI": "https://swap.kittypunch.xyz/vinyl.png",
-      "flowIdentifier": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_6a2cd141d75864944318acf272443febc54855a9.Vault",
       "tags": [],
       "extensions": {
         "website": "https://evm.flowscan.io/token/0x6a2cd141d75864944318acf272443febc54855a9"
@@ -557,6 +557,30 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0xf45cbe30bd953590c9917799142edb05be3f293f"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0xc618a7356fcf601f694c51578cd94144deaee690",
+      "contractName": "TSHOT",
+      "path": {
+        "vault": "/storage/TSHOTTokenVault",
+        "receiver": "/public/TSHOTTokenReceiver",
+        "balance": "/public/TSHOTTokenBalance"
+      },
+      "evmAddress": "0xc618a7356fcf601f694c51578cd94144deaee690",
+      "flowAddress": "0x05b67ba314000b2d",
+      "symbol": "TSHOT",
+      "name": "TSHOT Token",
+      "description": "TSHOT is a token minted by exchanging Common or Fandom Top Shot Moments.",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/vaultopolis/TSHOT.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/Vaultopolis",
+        "website": "https://vaultopolis.com"
+      },
+      "flowIdentifier": "A.05b67ba314000b2d.TSHOT.Vault",
+      "website": "https://evm.flowscan.io/token/0xc618a7356fcf601f694c51578cd94144deaee690"
     }
   ],
   "totalAmount": 0,
