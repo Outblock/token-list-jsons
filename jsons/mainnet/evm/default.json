@@ -581,19 +581,6 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0xf45cbe30bd953590c9917799142edb05be3f293f"
       }
-    },
-    {
-      "chainId": 747,
-      "address": "0xa0197b2044d28b08be34d98b23c9312158ea9a18",
-      "symbol": "cbBTC",
-      "name": "Coinbase Wrapped BTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/refs/heads/main/deployments/warp_routes/CBBTC/logo.svg",
-      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_a0197b2044d28b08be34d98b23c9312158ea9a18.Vault",
-      "tags": [],
-      "extensions": {
-        "website": "https://evm.flowscan.io/token/0xa0197b2044d28b08be34d98b23c9312158ea9a18"
-      }
     }
   ],
   "totalAmount": 0,

@@ -1160,29 +1160,6 @@
         "twitter": "https://twitter.com/Vaultopolis",
         "website": "https://vaultopolis.com"
       }
-    },
-    {
-      "chainId": 747,
-      "address": "0x1e4aa0b87d10b141",
-      "contractName": "EVMVMBridgedToken_a0197b2044d28b08be34d98b23c9312158ea9a18",
-      "path": {
-        "vault": "/storage/EVMVMBridgedToken_a0197b2044d28b08be34d98b23c9312158ea9a18Vault",
-        "receiver": "/public/EVMVMBridgedToken_a0197b2044d28b08be34d98b23c9312158ea9a18Receiver",
-        "balance": "/public/EVMVMBridgedToken_a0197b2044d28b08be34d98b23c9312158ea9a18Vault"
-      },
-      "symbol": "cbBTC",
-      "name": "Coinbase Wrapped BTC (cbBTC)",
-      "description": "",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/hyperlane-xyz/hyperlane-registry/refs/heads/main/deployments/warp_routes/CBBTC/logo.svg",
-      "tags": [
-        "wrapped"
-      ],
-      "extensions": {
-        "website": "https://www.coinbase.com/"
-      },
-      "evmAddress": "0xa0197b2044d28b08be34d98b23c9312158ea9a18",
-      "evm_address": "0xa0197b2044d28b08be34d98b23c9312158ea9a18"
     }
   ],
   "totalAmount": 50,
