@@ -594,6 +594,58 @@
       "extensions": {
         "website": "https://evm.flowscan.io/token/0xa0197b2044d28b08be34d98b23c9312158ea9a18"
       }
+    },
+    {
+      "chainId": 747,
+      "address": "0x5ec4e27da9358935c52c92b7bfcda78708da3c82",
+      "symbol": "LUNA",
+      "name": "Luna (Not that LUNA)",
+      "decimals": 18,
+      "logoURI": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_5ec4e27da9358935c52c92b7bfcda78708da3c82.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://evm.flowscan.io/token/0x5ec4e27da9358935c52c92b7bfcda78708da3c82"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xe2aac46c1272eeaa49ec7e7b9e7d34b90aadb966",
+      "symbol": "fadFLOW",
+      "name": "Flow All Day",
+      "decimals": 18,
+      "logoURI": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_e2aac46c1272eeaa49ec7e7b9e7d34b90aadb966.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://evm.flowscan.io/token/0xe2aac46c1272eeaa49ec7e7b9e7d34b90aadb966"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0xa9e2878cfb91421f6de7ea3c255c0c7994a99e5d",
+      "symbol": "SUSHI",
+      "name": "Avocado Salmon Sushi Roll",
+      "decimals": 18,
+      "logoURI": "",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_a9e2878cfb91421f6de7ea3c255c0c7994a99e5d.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://evm.flowscan.io/token/0xa9e2878cfb91421f6de7ea3c255c0c7994a99e5d"
+      }
+    },
+    {
+      "chainId": 747,
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "symbol": "WETH",
+      "name": "Wrapped ETH",
+      "decimals": 18,
+      "logoURI": "https://swap.kittypunch.xyz/eth.svg",
+      "flowIdentifier": "A.1e4aa0b87d10b141.EVMVMBridgedToken_2f6f07cdcf3588944bf4c42ac74ff24bf56e7590.Vault",
+      "tags": [],
+      "extensions": {
+        "website": "https://evm.flowscan.io/token/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+      }
     }
   ],
   "totalAmount": 0,
